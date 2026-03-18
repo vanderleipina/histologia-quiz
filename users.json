@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "fullName": "Juan Perez",
+    "username": "juanperez",
+    "password": "123",
+    "createdAt": "2026-03-18T14:42:30.178Z"
+  },
+  {
+    "id": 2,
+    "fullName": "Vander Pina",
+    "username": "vanderpina",
+    "password": "qqq",
+    "createdAt": "2026-03-18T14:43:25.039Z"
+  }
+]

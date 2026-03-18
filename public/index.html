@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Histología Quiz</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            width: 100%;
+            padding: 40px;
+            animation: slideUp 0.5s ease-out;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            text-align: center;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+            font-size: 28px;
+            font-weight: 700;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #1a1a1a;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            background: #f8f9fa;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #667eea;
+            background: white;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .error-message {
+            background: #fee;
+            color: #c33;
+            padding: 12px 16px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: none;
+            font-size: 14px;
+            border-left: 4px solid #c33;
+        }
+
+        .error-message.show {
+            display: block;
+            animation: shake 0.3s ease-in-out;
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-10px); }
+            75% { transform: translateX(10px); }
+        }
+
+        button {
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .button-group {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .button-group button {
+            margin-top: 0;
+        }
+
+        .toggle-form {
+            text-align: center;
+            margin-top: 20px;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .toggle-form a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .toggle-form a:hover {
+            text-decoration: underline;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        /* Quiz Styles */
+        .progress-bar {
+            width: 100%;
+            height: 6px;
+            background: #e9ecef;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s ease;
+        }
+
+        .question-number {
+            color: #999;
+            font-size: 13px;
+            margin-bottom: 15px;
+            font-weight: 500;
+        }
+
+        .question-text {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 25px;
+            line-height: 1.5;
+        }
+
+        .options-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 25px;
+        }
+
+        .option {
+            padding: 16px;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: #f8f9fa;
+            font-size: 15px;
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+
+        .option:hover {
+            border-color: #667eea;
+            background: #f0f3ff;
+        }
+
+        .option.selected {
+            border-color: #667eea;
+            background: #f0f3ff;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .option.correct {
+            border-color: #28a745;
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .option.incorrect {
+            border-color: #dc3545;
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        .explanation {
+            background: #f0f3ff;
+            border-left: 4px solid #667eea;
+            padding: 16px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: none;
+            font-size: 14px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .explanation.show {
+            display: block;
+            animation: slideDown 0.3s ease-out;
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .explanation-title {
+            font-weight: 600;
+            color: #667eea;
+            margin-bottom: 8px;
+        }
+
+        .quiz-error {
+            background: #fee;
+            color: #c33;
+            padding: 12px 16px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: none;
+            font-size: 14px;
+            border-left: 4px solid #c33;
+        }
+
+        .quiz-error.show {
+            display: block;
+        }
+
+        .results-container {
+            text-align: center;
+        }
+
+        .results-score {
+            font-size: 48px;
+            font-weight: 700;
+            color: #667eea;
+            margin: 20px 0;
+        }
+
+        .results-message {
+            font-size: 18px;
+            color: #1a1a1a;
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+        .theme-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 15px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: left;
+        }
+
+        .theme-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(102, 126, 234, 0.3);
+        }
+
+        .theme-name {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .theme-info {
+            font-size: 13px;
+            opacity: 0.9;
+        }
+
+        .home-title {
+            text-align: center;
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: #1a1a1a;
+        }
+
+        .home-subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Login Screen -->
+        <div id="loginScreen" class="hidden">
+            <h1>📚 Histología Quiz</h1>
+            <p class="subtitle">Inicia sesión para continuar</p>
+
+            <!-- Login Form -->
+            <div id="loginForm">
+                <div class="error-message" id="loginError"></div>
+                <div class="form-group">
+                    <label for="loginUsername">Usuario</label>
+                    <input type="text" id="loginUsername" placeholder="Tu usuario">
+                </div>
+                <div class="form-group">
+                    <label for="loginPassword">Contraseña</label>
+                    <input type="password" id="loginPassword" placeholder="Tu contraseña">
+                </div>
+                <button onclick="login()">Iniciar Sesión</button>
+                <div class="toggle-form">
+                    ¿No tienes cuenta? <a onclick="toggleForm()">Crear cuenta</a>
+                </div>
+            </div>
+
+            <!-- Signup Form -->
+            <div id="signupForm" class="hidden">
+                <div class="error-message" id="signupError"></div>
+                <div class="form-group">
+                    <label for="signupFullName">Nombre Completo</label>
+                    <input type="text" id="signupFullName" placeholder="Tu nombre completo">
+                </div>
+                <div class="form-group">
+                    <label for="signupUsername">Usuario</label>
+                    <input type="text" id="signupUsername" placeholder="Elige un usuario">
+                </div>
+                <div class="form-group">
+                    <label for="signupPassword">Contraseña</label>
+                    <input type="password" id="signupPassword" placeholder="Mínimo 3 caracteres">
+                </div>
+                <div class="form-group">
+                    <label for="signupPasswordConfirm">Confirmar Contraseña</label>
+                    <input type="password" id="signupPasswordConfirm" placeholder="Repite tu contraseña">
+                </div>
+                <button onclick="signup()">Crear Cuenta</button>
+                <div class="toggle-form">
+                    ¿Ya tienes cuenta? <a onclick="toggleForm()">Iniciar sesión</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Home Screen -->
+        <div id="homeScreen" class="hidden">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+                <div>
+                    <h1 class="home-title">📚 Histología</h1>
+                    <p class="home-subtitle">Bienvenido, <strong id="userName"></strong></p>
+                </div>
+                <button onclick="logout()" style="width: 100px; padding: 10px; font-size: 14px;">Salir</button>
+            </div>
+            <div id="themesContainer"></div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quizScreen" class="hidden">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                <h2 id="themeName" style="font-size: 20px; color: #1a1a1a;"></h2>
+                <button onclick="backToHome()" style="width: 80px; padding: 8px; font-size: 12px;">← Atrás</button>
+            </div>
+            
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+
+            <div class="question-number" id="questionNumber"></div>
+            <div class="question-text" id="questionText"></div>
+
+            <div class="quiz-error" id="quizError"></div>
+
+            <div class="options-container" id="optionsContainer"></div>
+
+            <div class="explanation" id="explanation">
+                <div class="explanation-title">Explicación:</div>
+                <div id="explanationText"></div>
+            </div>
+
+            <div class="button-group">
+                <button id="submitBtn" onclick="submitAnswer()">Responder</button>
+                <button id="skipBtn" onclick="skipQuestion()" style="background: #999;">Pular</button>
+            </div>
+
+            <button id="nextBtn" onclick="nextQuestion()" class="hidden" style="margin-top: 20px; background: #28a745;">Siguiente Pregunta</button>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="hidden">
+            <h1 class="home-title">¡Quiz Completado!</h1>
+            <div class="results-score" id="finalScore"></div>
+            <div class="results-message" id="resultMessage"></div>
+            <button onclick="backToHome()" style="margin-bottom: 10px;">Volver al Inicio</button>
+        </div>
+    </div>
+
+    <script>
+        let currentUser = null;
+        let currentTheme = null;
+        let currentQuestionIndex = 0;
+        let questions = [];
+        let currentQuestion = null;
+        let selectedAnswer = null;
+        let answered = false;
+        let score = 0;
+        let answeredCount = 0;
+
+        // Toggle between login and signup
+        function toggleForm() {
+            document.getElementById('loginForm').classList.toggle('hidden');
+            document.getElementById('signupForm').classList.toggle('hidden');
+        }
+
+        // Login
+        async function login() {
+            const username = document.getElementById('loginUsername').value;
+            const password = document.getElementById('loginPassword').value;
+            const errorDiv = document.getElementById('loginError');
+
+            if (!username || !password) {
+                errorDiv.textContent = 'Usuario y contraseña requeridos';
+                errorDiv.classList.add('show');
+                return;
+            }
+
+            try {
+                const response = await fetch('/api/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    currentUser = username;
+                    showHome();
+                } else {
+                    errorDiv.textContent = data.error;
+                    errorDiv.classList.add('show');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                errorDiv.textContent = 'Error al conectar';
+                errorDiv.classList.add('show');
+            }
+        }
+
+        // Signup
+        async function signup() {
+            const fullName = document.getElementById('signupFullName').value;
+            const username = document.getElementById('signupUsername').value;
+            const password = document.getElementById('signupPassword').value;
+            const passwordConfirm = document.getElementById('signupPasswordConfirm').value;
+            const errorDiv = document.getElementById('signupError');
+
+            if (!fullName || !username || !password) {
+                errorDiv.textContent = 'Nombre, usuario y contraseña requeridos';
+                errorDiv.classList.add('show');
+                return;
+            }
+
+            if (password.length < 3) {
+                errorDiv.textContent = 'La contraseña debe tener al menos 3 caracteres';
+                errorDiv.classList.add('show');
+                return;
+            }
+
+            if (password !== passwordConfirm) {
+                errorDiv.textContent = 'Las contraseñas no coinciden';
+                errorDiv.classList.add('show');
+                return;
+            }
+
+            try {
+                const response = await fetch('/api/signup', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ fullName, username, password })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    currentUser = data.fullName || data.username;
+                    showHome();
+                } else {
+                    errorDiv.textContent = data.error;
+                    errorDiv.classList.add('show');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                errorDiv.textContent = 'Error al conectar';
+                errorDiv.classList.add('show');
+            }
+        }
+
+        // Show home
+        function showHome() {
+            document.getElementById('loginScreen').classList.add('hidden');
+            document.getElementById('quizScreen').classList.add('hidden');
+            document.getElementById('resultsScreen').classList.add('hidden');
+            document.getElementById('homeScreen').classList.remove('hidden');
+            document.getElementById('userName').textContent = currentUser;
+            loadThemes();
+        }
+
+        // Load themes
+        async function loadThemes() {
+            try {
+                const response = await fetch('/api/themes');
+                const data = await response.json();
+                
+                const container = document.getElementById('themesContainer');
+                container.innerHTML = '';
+
+                data.themes.forEach(theme => {
+                    const card = document.createElement('div');
+                    card.className = 'theme-card';
+                    card.innerHTML = `
+                        <div class="theme-name">${theme.name}</div>
+                        <div class="theme-info">${theme.questions} preguntas</div>
+                    `;
+                    card.onclick = () => startQuiz(theme.id, theme.name);
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                console.error('Error loading themes:', error);
+            }
+        }
+
+        // Start quiz
+        async function startQuiz(themeId, themeName) {
+            currentTheme = themeId;
+            currentQuestionIndex = 0;
+            score = 0;
+            answeredCount = 0;
+            selectedAnswer = null;
+            answered = false;
+
+            try {
+                const response = await fetch(`/themes/${themeId}.json`);
+                const data = await response.json();
+                questions = data.preguntas || data.questions || [];
+
+                document.getElementById('themeName').textContent = themeName;
+                document.getElementById('homeScreen').classList.add('hidden');
+                document.getElementById('quizScreen').classList.remove('hidden');
+                
+                showQuestion();
+            } catch (error) {
+                alert('Error al cargar el tema');
+            }
+        }
+
+        // Show question
+        function showQuestion() {
+            if (currentQuestionIndex >= questions.length) {
+                showResults();
+                return;
+            }
+
+            const question = questions[currentQuestionIndex];
+            const progress = ((currentQuestionIndex) / questions.length) * 100;
+
+            document.getElementById('progressFill').style.width = progress + '%';
+            document.getElementById('questionNumber').textContent = `Pregunta ${currentQuestionIndex + 1} de ${questions.length}`;
+            document.getElementById('questionText').textContent = question.pregunta || question.question;
+
+            const optionsContainer = document.getElementById('optionsContainer');
+            optionsContainer.innerHTML = '';
+
+            const options = question.opciones || question.options || [];
+            options.forEach((option, index) => {
+                const optionDiv = document.createElement('div');
+                optionDiv.className = 'option';
+                optionDiv.textContent = option;
+                optionDiv.onclick = () => selectOption(index);
+                optionDiv.id = `option-${index}`;
+                optionsContainer.appendChild(optionDiv);
+            });
+
+            document.getElementById('explanation').classList.remove('show');
+            document.getElementById('quizError').classList.remove('show');
+            document.getElementById('submitBtn').disabled = false;
+            document.getElementById('submitBtn').classList.remove('hidden');
+            document.getElementById('nextBtn').classList.add('hidden');
+            document.getElementById('submitBtn').textContent = 'Responder';
+            document.getElementById('skipBtn').disabled = false;
+            selectedAnswer = null;
+            answered = false;
+            
+            currentQuestion = question;
+        }
+
+        // Select option
+        function selectOption(index) {
+            if (answered) return;
+
+            document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
+            document.getElementById(`option-${index}`).classList.add('selected');
+            selectedAnswer = index;
+        }
+
+        // Submit answer
+        function submitAnswer() {
+            if (selectedAnswer === null) {
+                document.getElementById('quizError').textContent = 'Por favor selecciona una opción';
+                document.getElementById('quizError').classList.add('show');
+                return;
+            }
+
+            const question = currentQuestion;
+            const correctAnswer = question.correctIndex !== undefined ? question.correctIndex : (question.respuestaCorrecta || question.correctAnswer);
+            const isCorrect = selectedAnswer === correctAnswer;
+
+            if (isCorrect) {
+                score++;
+                document.getElementById(`option-${selectedAnswer}`).classList.add('correct');
+            } else {
+                document.getElementById(`option-${selectedAnswer}`).classList.add('incorrect');
+                document.getElementById(`option-${correctAnswer}`).classList.add('correct');
+            }
+
+            const explanation = question.explanation || question.explicacion || '';
+            if (explanation) {
+                document.getElementById('explanationText').textContent = explanation;
+                document.getElementById('explanation').classList.add('show');
+            }
+
+            answered = true;
+            answeredCount++;
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('skipBtn').disabled = true;
+            document.getElementById('submitBtn').classList.add('hidden');
+            document.getElementById('nextBtn').classList.remove('hidden');
+        }
+
+        // Next question
+        function nextQuestion() {
+            currentQuestionIndex++;
+            showQuestion();
+        }
+
+        // Skip question
+        function skipQuestion() {
+            currentQuestionIndex++;
+            showQuestion();
+        }
+
+        // Show results
+        function showResults() {
+            const percentage = Math.round((score / answeredCount) * 100) || 0;
+            
+            document.getElementById('quizScreen').classList.add('hidden');
+            document.getElementById('resultsScreen').classList.remove('hidden');
+            document.getElementById('finalScore').textContent = `${score} / ${answeredCount}`;
+            
+            let message = '';
+            if (percentage === 100) {
+                message = '¡Excelente! ¡Puntuación perfecta!';
+            } else if (percentage >= 80) {
+                message = '¡Muy bien! ¡Sigue así!';
+            } else if (percentage >= 60) {
+                message = 'Buen trabajo, pero puedes mejorar';
+            } else {
+                message = 'Intenta de nuevo para mejorar tu puntuación';
+            }
+            
+            document.getElementById('resultMessage').textContent = message;
+        }
+
+        // Back to home
+        function backToHome() {
+            document.getElementById('resultsScreen').classList.add('hidden');
+            document.getElementById('quizScreen').classList.add('hidden');
+            showHome();
+        }
+
+        // Logout
+        function logout() {
+            currentUser = null;
+            document.getElementById('homeScreen').classList.add('hidden');
+            document.getElementById('loginScreen').classList.remove('hidden');
+            document.getElementById('loginForm').classList.remove('hidden');
+            document.getElementById('signupForm').classList.add('hidden');
+            document.getElementById('loginUsername').value = '';
+            document.getElementById('loginPassword').value = '';
+            document.getElementById('loginError').classList.remove('show');
+        }
+
+        // Initialize
+        window.onload = function() {
+            document.getElementById('loginScreen').classList.remove('hidden');
+        };
+    </script>
+</body>
+</html>
+
+        <!-- Dashboard Screen -->
+        <div id="dashboardScreen" class="hidden">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+                <h1 class="home-title">Mi Desempeño</h1>
+                <button onclick="backToHome()" style="width: 80px; padding: 8px; font-size: 12px;">← Atrás</button>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 30px;">
+                <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 15px;">
+                    <div style="font-size: 13px; opacity: 0.9; margin-bottom: 8px;">Total de Preguntas</div>
+                    <div style="font-size: 32px; font-weight: 700;" id="totalQuestions">0</div>
+                </div>
+                <div style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%); color: white; padding: 20px; border-radius: 15px;">
+                    <div style="font-size: 13px; opacity: 0.9; margin-bottom: 8px;">Acertos Totales</div>
+                    <div style="font-size: 32px; font-weight: 700;" id="totalCorrect">0</div>
+                </div>
+            </div>
+
+            <div style="background: #f8f9fa; padding: 20px; border-radius: 15px; margin-bottom: 30px;">
+                <h3 style="margin-bottom: 20px; font-size: 18px; color: #1a1a1a;">Desempeño por Tema</h3>
+                <div id="themeStats"></div>
+            </div>
+
+            <div style="background: #f8f9fa; padding: 20px; border-radius: 15px;">
+                <h3 style="margin-bottom: 20px; font-size: 18px; color: #1a1a1a;">Historial de Intentos</h3>
+                <div id="attemptHistory"></div>
+            </div>
+        </div>

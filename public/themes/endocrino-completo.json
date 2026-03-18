@@ -1,0 +1,1207 @@
+{
+  "id": "endocrino-completo",
+  "name": "Sistema Endócrino Completo",
+  "description": "Generalidades, hipófisis, tiroides, paratiroides y suprarrenal",
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la unidad estructural y funcional de la glándula tiroides?",
+      "options": [
+        "Lobulillos",
+        "Folículos tiroideos",
+        "Células parafoliculares",
+        "Istmo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los folículos tiroideos son la unidad estructural y funcional fundamental de la glándula tiroides. Cada folículo está compuesto por una capa de células epiteliales que rodean un lumen central lleno de coloide. El coloide contiene tiroglobulina, que es el precursor de las hormonas tiroideas T3 y T4. Los folículos pueden variar en tamaño de 0.2 a 1 mm de diámetro, dependiendo del estado funcional de la glándula. Esta estructura permite la síntesis, almacenamiento y liberación eficiente de las hormonas tiroideas."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hormona es secretada por las células parafoliculares de la tiroides?",
+      "options": [
+        "Tiroxina (T4)",
+        "Triyodotironina (T3)",
+        "Calcitonina",
+        "Parathormona (PTH)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células parafoliculares, también conocidas como células C, secretan calcitonina. Estas células se encuentran dentro de la lámina basal de los folículos tiroideos pero no están expuestas directamente al lumen folicular. La calcitonina es una hormona peptídica que juega un papel importante en la regulación del calcio sérico. Su secreción está regulada directamente por la concentración de iones de calcio en la sangre, sin intervención del hipotálamo ni la hipófisis. La calcitonina actúa disminuyendo la calcemia al suprimir la actividad de los osteoclastos."
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál de las siguientes NO es una función de las hormonas T3 y T4?",
+      "options": [
+        "Regulación del metabolismo basal",
+        "Influencia en el crecimiento y desarrollo corporal",
+        "Disminución de la calcemia",
+        "Regulación de la producción de calor de las células"
+      ],
+      "correctIndex": 2,
+      "explanation": "La disminución de la calcemia no es una función de las hormonas tiroideas T3 y T4. De hecho, estas hormonas no tienen un efecto directo sobre la regulación del calcio sérico. Las funciones principales de T3 y T4 incluyen la regulación del metabolismo basal, el aumento de la utilización de oxígeno, la síntesis y degradación de proteínas, lípidos e hidratos de carbono, y la regulación de la producción de calor corporal. La regulación de la calcemia es responsabilidad de la calcitonina (producida por las células parafoliculares) y la parathormona (producida por las paratiroides)."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué efecto tiene la calcitonina en el organismo?",
+      "options": [
+        "Aumenta la concentración de calcio en sangre",
+        "Disminuye la calcemia suprimiendo la acción resortiva de los osteoclastos",
+        "Estimula la liberación de factores liberadores en el hipotálamo",
+        "Aumenta el ritmo de utilización de carbohidratos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La calcitonina disminuye la calcemia (concentración de calcio en sangre) mediante varios mecanismos. Primero, suprime la acción resortiva de los osteoclastos, reduciendo la liberación de calcio desde el hueso. Segundo, promueve la calcificación del osteoide, facilitando la incorporación de calcio en la matriz ósea. Tercero, aumenta la excreción renal de calcio. La calcitonina actúa como antagonista de la parathormona, manteniendo el equilibrio del calcio sérico. Su secreción es regulada directamente por los niveles de calcio en sangre, sin participación del eje hipotálamo-hipofisario."
+    },
+    {
+      "id": 5,
+      "question": "¿Qué células de la glándula paratiroides secretan la Parathormona (PTH)?",
+      "options": [
+        "Células oxífilas",
+        "Células adiposas",
+        "Células principales",
+        "Células parafoliculares"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células principales son las responsables de la secreción de parathormona (PTH). Estas células son las más abundantes en la glándula paratiroides, representando aproximadamente el 70-80% de la población celular. Son células pequeñas con un núcleo redondo central y citoplasma acidófilo. Contienen abundantes ribosomas libres y retículo endoplásmico rugoso, lo que refleja su alta actividad de síntesis proteica. Las células oxífilas, aunque presentes en menor cantidad, tienen una función aún desconocida. Las células adiposas son simplemente células de almacenamiento de grasa que no tienen función endocrina."
+    },
+    {
+      "id": 6,
+      "question": "¿Cómo actúa la Parathormona (PTH) para incrementar las concentraciones sanguíneas de calcio?",
+      "options": [
+        "Promueve la liberación de calcio desde el hueso y estimula su reabsorción en los riñones",
+        "Promueve la calcificación del osteoide",
+        "Suprime la acción de los osteoclastos",
+        "Inhibe la formación de vitamina D activa"
+      ],
+      "correctIndex": 0,
+      "explanation": "La parathormona actúa mediante tres mecanismos principales para aumentar la calcemia. Primero, actúa sobre los osteoblastos en el hueso, estimulando la liberación de calcio a través del sistema RANK-RANKL, promoviendo la actividad osteoclástica. Segundo, actúa sobre los túbulos distales del riñón para estimular la reabsorción de calcio, reduciendo su pérdida urinaria. Tercero, estimula la conversión de 25-hidroxivitamina D a 1,25-dihidroxivitamina D (forma activa) en los riñones, aumentando la absorción intestinal de calcio. Estos tres mecanismos trabajan sinérgicamente para mantener la homeostasis del calcio sérico."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué tipo de células se encuentran en la médula suprarrenal que secretan catecolaminas?",
+      "options": [
+        "Células principales",
+        "Células cromafines",
+        "Células foliculares",
+        "Células oxífilas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células cromafines son las células especializadas de la médula suprarrenal que secretan catecolaminas (adrenalina y noradrenalina). Estas células son grandes y pálidas, con un aspecto epitelial característico. Se organizan formando cúmulos ovoides y cordones rodeados por una red capilar abundante. Estructuralmente, poseen numerosas vesículas de secreción que contienen las catecolaminas, así como retículo endoplásmico rugoso y aparato de Golgi bien desarrollados. Las células cromafines reciben inervación simpática preganglionar directa, lo que permite una respuesta rápida ante situaciones de estrés. Histoquímicamente, pueden demostrarse las catecolaminas mediante técnicas de tinción específicas."
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál es un efecto de la liberación súbita de catecolaminas por la médula suprarrenal?",
+      "options": [
+        "Disminución de la frecuencia cardíaca",
+        "Aumento de la digestión",
+        "Estimulación de la glucogenólisis y movilización de ácidos grasos libres",
+        "Aumento de la producción de orina"
+      ],
+      "correctIndex": 2,
+      "explanation": "La liberación súbita de catecolaminas (adrenalina y noradrenalina) por la médula suprarrenal establece las condiciones para la utilización máxima de energía y el esfuerzo físico máximo. Esto incluye la estimulación de la glucogenólisis, que es la degradación del glucógeno para obtener moléculas de glucosa disponibles para el metabolismo energético. Simultáneamente, se estimula la movilización de ácidos grasos libres desde el tejido adiposo, proporcionando otra fuente de energía. Estos efectos metabólicos se acompañan de aumento de la tensión y presión arterial, aumento de la frecuencia cardíaca, dilatación de los vasos coronarios y de los que irrigan el músculo esquelético, y aumento de la frecuencia respiratoria."
+    },
+    {
+      "id": 9,
+      "question": "¿En qué porcentaje del volumen cortical se encuentra la zona fasciculada de la corteza suprarrenal?",
+      "options": [
+        "15%",
+        "5 a 7%",
+        "50%",
+        "80%"
+      ],
+      "correctIndex": 3,
+      "explanation": "La zona fasciculada representa el 80% del volumen cortical de la corteza suprarrenal, siendo la zona más grande y prominente. Esta zona se caracteriza por células organizadas en cordones o fascículos que se extienden radialmente desde la zona glomerular hacia la zona reticular. Las células de la zona fasciculada son grandes, con citoplasma abundante que contiene numerosas mitocondrias y retículo endoplásmico liso, reflejando su alta capacidad de síntesis de esteroides. Esta zona es responsable de la síntesis de glucocorticoides (principalmente cortisol) y andrógenos adrenales. La zona glomerular representa el 15% del volumen cortical, mientras que la zona reticular representa solo el 5-7%."
+    },
+    {
+      "id": 10,
+      "question": "¿Qué tipo de secreción producen las células epiteliales de la corteza suprarrenal?",
+      "options": [
+        "Polipéptidos",
+        "Esteroides",
+        "Catecolaminas",
+        "Calcitonina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células epiteliales de la corteza suprarrenal secretan esteroides. Estos esteroides incluyen glucocorticoides (cortisol, corticosterona), mineralocorticoides (aldosterona) y andrógenos adrenales. Las células corticales acumulan lípidos en su citoplasma, lo que les da una apariencia clara bajo el microscopio óptico. Esta característica histológica refleja su función de síntesis de esteroides, que requiere la presencia de colesterol y sus derivados como sustratos. El citoplasma claro de las células corticales contrasta con el citoplasma oscuro de las células de la médula, que secretan polipéptidos (catecolaminas). Esta diferencia histológica es una característica importante para la identificación microscópica de estas regiones."
+    },
+    {
+      "id": 11,
+      "question": "¿Cuál es la ubicación anatómica de la glándula tiroides?",
+      "options": [
+        "En la región posterior del cuello, detrás de la laringe",
+        "En la región anterior del cuello, delante de la laringe y la tráquea",
+        "En la base del cráneo, dentro de la silla turca",
+        "En el mediastino superior"
+      ],
+      "correctIndex": 1,
+      "explanation": "La glándula tiroides se localiza en la región anterior del cuello, específicamente delante de la laringe y la tráquea. Esta ubicación anatómica es clínicamente importante porque permite la palpación de la glándula durante el examen físico. La tiroides está envuelta por una cápsula delgada de tejido conectivo que la separa de las estructuras circundantes. Tiene forma de mariposa con dos lóbulos laterales unidos por un istmo. Mide aproximadamente 5 cm de ancho y 2.5 cm de alto, con un peso promedio de 30 gramos en adultos. Su proximidad a la tráquea significa que cualquier aumento de tamaño (bocio) puede afectar la respiración. La glándula está irrigada por las arterias tiroideas superior e inferior."
+    },
+    {
+      "id": 12,
+      "question": "¿Cuántas glándulas paratiroides tiene normalmente un ser humano?",
+      "options": [
+        "Una",
+        "Dos",
+        "Cuatro",
+        "Seis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Un ser humano tiene normalmente cuatro glándulas paratiroides, organizadas en dos pares. Estas pequeñas glándulas se encuentran en estrecha relación anatómica con la glándula tiroides. Generalmente, hay dos glándulas paratiroides superiores localizadas en los polos superiores de los lóbulos tiroideos, y dos glándulas paratiroides inferiores localizadas en los polos inferiores. Las glándulas paratiroides son muy pequeñas, midiendo menos de 1 mm cada una, y en conjunto pesan menos de 1 gramo. A pesar de su pequeño tamaño, son críticas para la regulación del calcio sérico. Ocasionalmente, pueden existir glándulas paratiroides ectópicas (localizadas en sitios anormales), lo que puede complicar la cirugía de paratiroides."
+    },
+    {
+      "id": 13,
+      "question": "¿Cuál es el tamaño aproximado de los folículos tiroideos?",
+      "options": [
+        "0.05 a 0.1 mm de diámetro",
+        "0.2 a 1 mm de diámetro",
+        "2 a 5 mm de diámetro",
+        "1 a 2 cm de diámetro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los folículos tiroideos tienen un tamaño que varía de 0.2 a 1 mm de diámetro, dependiendo del estado funcional de la glándula. Esta variación de tamaño es fisiológica y refleja el nivel de actividad de la glándula. Los folículos activos, que están sintetizando y secretando hormonas, tienden a ser más pequeños con un epitelio cilíndrico alto. Los folículos menos activos, que están principalmente almacenando hormonas, tienden a ser más grandes con un epitelio cúbico bajo. El tamaño de los folículos también puede variar con factores como la edad, el estado nutricional de yodo, y la presencia de estimulación por TSH. El conocimiento del tamaño normal de los folículos es importante para la interpretación de biopsias tiroideas."
+    },
+    {
+      "id": 14,
+      "question": "¿Qué es el coloide en los folículos tiroideos?",
+      "options": [
+        "Un tipo de célula que produce hormonas",
+        "Una sustancia que contiene tiroglobulina y productos de secreción",
+        "El tejido conectivo que rodea los folículos",
+        "Un tipo de proteína transportadora de hormonas"
+      ],
+      "correctIndex": 1,
+      "explanation": "El coloide es una sustancia viscosa que llena el lumen de los folículos tiroideos y contiene tiroglobulina, que es el precursor de las hormonas tiroideas T3 y T4. El coloide también contiene productos de secreción y otras proteínas. La tiroglobulina es una proteína grande que sirve como sustrato para la síntesis de hormonas tiroideas. Cuando las células foliculares reciben estimulación por TSH, endocitan el coloide, lo que permite que las enzimas lisosomales degraden la tiroglobulina y liberen las hormonas tiroideas T3 y T4 en la circulación. El coloide también actúa como un depósito de hormonas, permitiendo que la glándula tiroides almacene suficiente hormona para aproximadamente 2-3 meses de producción. Esta característica única de la tiroides la distingue de otras glándulas endócrinas."
+    },
+    {
+      "id": 15,
+      "question": "¿Cuál es el papel del hipotálamo en la regulación de la tiroides?",
+      "options": [
+        "Sintetiza directamente las hormonas tiroideas",
+        "Secreta factores liberadores que estimulan la hipófisis",
+        "Produce calcitonina",
+        "Regula la absorción de yodo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo secreta factores liberadores de tirotrofina (TRH), que estimulan la hipófisis anterior para secretar hormona estimulante de la tiroides (TSH). Este es el primer paso del eje hipotálamo-hipófisis-tiroides. El hipotálamo responde a cambios en la temperatura corporal, estrés y otros factores ambientales, ajustando la secreción de TRH según sea necesario. La TRH viaja a través del sistema porta hipofisario hasta la hipófisis anterior, donde estimula las células tirotropas para secretar TSH. La TSH luego estimula la glándula tiroides para sintetizar y secretar T3 y T4. Este sistema está regulado por retroalimentación negativa, donde los niveles elevados de T3 y T4 inhiben la secreción de TRH y TSH."
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál es la función principal de la hormona TSH?",
+      "options": [
+        "Disminuir la producción de hormonas tiroideas",
+        "Estimular la síntesis y secreción de hormonas tiroideas",
+        "Inhibir la absorción de yodo",
+        "Promover la degradación de tiroglobulina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona estimulante de la tiroides (TSH) tiene la función principal de estimular la síntesis y secreción de hormonas tiroideas T3 y T4. La TSH es una glucoproteína secretada por las células tirotropas de la hipófisis anterior. Se une a receptores específicos en la superficie de las células foliculares tiroideas, activando una cascada de señalización intracelular. Esta cascada aumenta la captación de yodo, la síntesis de tiroglobulina, la yodación de tirosina, la formación de T3 y T4, y la endocitosis de coloide con liberación de hormonas. La TSH también promueve el crecimiento de la glándula tiroides. La secreción de TSH está regulada por retroalimentación negativa de T3 y T4, y por retroalimentación positiva de TRH del hipotálamo."
+    },
+    {
+      "id": 17,
+      "question": "¿Cuál es la diferencia histológica entre la corteza y la médula suprarrenal?",
+      "options": [
+        "La corteza es más oscura que la médula",
+        "La corteza es más clara debido a la acumulación de lípidos, mientras que la médula es más oscura",
+        "No hay diferencia histológica significativa",
+        "La médula tiene más vasos sanguíneos que la corteza"
+      ],
+      "correctIndex": 1,
+      "explanation": "La corteza suprarrenal es histológicamente más clara que la médula debido a la acumulación de lípidos en el citoplasma de sus células. Las células corticales contienen abundantes gotas de lípidos que se extraen durante el procesamiento histológico, dejando espacios vacíos que dan al citoplasma una apariencia clara. En contraste, la médula suprarrenal es más oscura porque sus células cromafines contienen polipéptidos (catecolaminas) en lugar de lípidos. Las células cromafines tienen un citoplasma basófilo que se tiñe oscuro con colorantes básicos. Esta diferencia histológica es una característica importante para la identificación microscópica de estas dos regiones. Además, la corteza está organizada en tres zonas distintas (glomerular, fasciculada y reticular), mientras que la médula no tiene una organización zonal clara."
+    },
+    {
+      "id": 18,
+      "question": "¿Cuáles son las tres zonas de la corteza suprarrenal?",
+      "options": [
+        "Glomerular, medular y reticular",
+        "Glomerular, fasciculada y reticular",
+        "Fasciculada, medular y cortical",
+        "Externa, media e interna"
+      ],
+      "correctIndex": 1,
+      "explanation": "La corteza suprarrenal se subdivide en tres zonas histológicamente distintas: la zona glomerular (externa), la zona fasciculada (media) y la zona reticular (interna). La zona glomerular representa el 15% del volumen cortical y está compuesta por células compactas organizadas formando estructuras ovoides. La zona fasciculada representa el 80% del volumen cortical y está compuesta por células organizadas en cordones o fascículos que se extienden radialmente. La zona reticular representa el 5-7% del volumen cortical y está compuesta por células organizadas en una red de cordones anastomosados. Cada zona tiene características histológicas distintas y produce diferentes esteroides. Esta organización zonal es una característica única de la corteza suprarrenal y es importante para la clasificación funcional de estas regiones."
+    },
+    {
+      "id": 19,
+      "question": "¿Qué hormonas produce la zona glomerular de la corteza suprarrenal?",
+      "options": [
+        "Glucocorticoides",
+        "Mineralocorticoides como la aldosterona",
+        "Andrógenos adrenales",
+        "Catecolaminas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La zona glomerular de la corteza suprarrenal produce principalmente mineralocorticoides, siendo la aldosterona el más importante. La aldosterona es un esteroide que juega un papel crucial en la regulación de la presión arterial y el equilibrio electrolítico. Actúa sobre los túbulos distales del riñón, promoviendo la reabsorción de sodio y la excreción de potasio. La secreción de aldosterona está regulada principalmente por el sistema renina-angiotensina-aldosterona (SRAA) y por los niveles de potasio sérico. La zona glomerular también puede producir pequeñas cantidades de glucocorticoides, pero la mayoría de estos se producen en la zona fasciculada. La zona reticular produce principalmente andrógenos adrenales. Esta distribución funcional de la síntesis de esteroides entre las diferentes zonas es una característica importante de la fisiología suprarrenal."
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es la hormona más importante producida por la zona fasciculada?",
+      "options": [
+        "Aldosterona",
+        "Cortisol",
+        "Testosterona",
+        "Adrenalina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La zona fasciculada produce principalmente glucocorticoides, siendo el cortisol el más importante. El cortisol es un esteroide que tiene múltiples efectos en el metabolismo y la respuesta al estrés. Aumenta la gluconeogénesis en el hígado, aumenta la lipólisis, promueve el catabolismo proteico, y tiene efectos inmunosupresores. La secreción de cortisol está regulada por el eje hipotálamo-hipófisis-suprarrenal (HPA). El hipotálamo secreta hormona liberadora de corticotropina (CRH), que estimula la hipófisis anterior para secretar hormona adrenocorticotropa (ACTH), que a su vez estimula la zona fasciculada para secretar cortisol. El cortisol exhibe un ritmo circadiano, con niveles más altos por la mañana y más bajos por la noche. También está regulado por retroalimentación negativa."
+    },
+    {
+      "id": 21,
+      "question": "¿Qué características histológicas tienen las células de la zona glomerular?",
+      "options": [
+        "Células grandes organizadas en cordones",
+        "Células compactas organizadas formando estructuras ovoides",
+        "Células con abundantes mitocondrias",
+        "Células con citoplasma oscuro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células de la zona glomerular son compactas y están organizadas formando estructuras ovoides. Estas células son pequeñas, con citoplasma claro debido a la acumulación de lípidos. Tienen núcleos esféricos que son hipercromáticos. Estructuralmente, presentan un retículo endoplásmico rugoso bien desarrollado y aparato de Golgi prominente, reflejando su función de síntesis de esteroides. Las células están rodeadas por una red capilar abundante que facilita la secreción de aldosterona. La organización compacta de las células en estructuras ovoides es característica de esta zona y la distingue de la zona fasciculada, donde las células están organizadas en cordones. Esta organización histológica es importante para la identificación microscópica de la zona glomerular."
+    },
+    {
+      "id": 22,
+      "question": "¿Cuáles son las características histológicas de las células de la zona fasciculada?",
+      "options": [
+        "Células compactas con citoplasma oscuro",
+        "Células grandes organizadas en cordones con citoplasma claro",
+        "Células pequeñas con núcleos hipercromáticos",
+        "Células con abundantes vesículas de secreción"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células de la zona fasciculada son grandes y están organizadas en cordones o fascículos que se extienden radialmente desde la zona glomerular hacia la zona reticular. Tienen un citoplasma abundante y claro debido a la acumulación de lípidos. Las células contienen numerosas mitocondrias con crestas tubulares (en lugar de laminares), lo que refleja su alta capacidad de síntesis de esteroides. El retículo endoplásmico liso es muy abundante, facilitando la síntesis de esteroides. Los núcleos son redondos a ovales y eucromáticos. Las células están rodeadas por una red capilar sinusoidal que facilita la secreción de glucocorticoides. La organización en cordones es característica de esta zona y la distingue de la zona glomerular, donde las células están organizadas en estructuras ovoides."
+    },
+    {
+      "id": 23,
+      "question": "¿Qué produce la zona reticular de la corteza suprarrenal?",
+      "options": [
+        "Principalmente mineralocorticoides",
+        "Principalmente glucocorticoides",
+        "Principalmente andrógenos adrenales",
+        "Principalmente catecolaminas"
+      ],
+      "correctIndex": 2,
+      "explanation": "La zona reticular produce principalmente andrógenos adrenales, siendo el dehidroepiandrosterona (DHEA) y la androstenediona los más importantes. Aunque estos andrógenos son menos potentes que la testosterona, pueden ser convertidos a testosterona en tejidos periféricos. La zona reticular también produce pequeñas cantidades de glucocorticoides. Las células de esta zona están organizadas en una red de cordones anastomosados que se extienden hacia la médula. Las células tienen un citoplasma oscuro debido a la acumulación de lipofuscina (un pigmento de envejecimiento) y menos lípidos comparado con la zona fasciculada. La secreción de andrógenos adrenales está regulada por ACTH. Los andrógenos adrenales tienen importancia especialmente en mujeres, donde contribuyen al desarrollo de características sexuales secundarias y al vello corporal."
+    },
+    {
+      "id": 24,
+      "question": "¿Cuál es la relación entre la médula suprarrenal y el sistema nervioso simpático?",
+      "options": [
+        "La médula es controlada por el sistema parasimpático",
+        "La médula recibe inervación simpática preganglionar directa",
+        "No hay conexión entre la médula y el sistema nervioso",
+        "La médula controla el sistema simpático"
+      ],
+      "correctIndex": 1,
+      "explanation": "La médula suprarrenal recibe inervación simpática preganglionar directa, lo que la hace única entre las glándulas endócrinas. Las fibras nerviosas simpáticas preganglionares se originan en la médula espinal torácica y viajan a través de los nervios esplácnicos para inervar directamente las células cromafines de la médula. Esta inervación directa permite una respuesta rápida y coordinada de la médula ante situaciones de estrés. Cuando se activa el sistema simpático, los neurotransmisores acetilcolina se liberan en las terminaciones nerviosas, estimulando las células cromafines para secretar catecolaminas (adrenalina y noradrenalina). Esta respuesta es mucho más rápida que la regulación hormonal típica de otras glándulas endócrinas. La médula suprarrenal es, de hecho, una extensión del sistema nervioso simpático modificada para la secreción de hormonas."
+    },
+    {
+      "id": 25,
+      "question": "¿Cuáles son las principales catecolaminas secretadas por la médula suprarrenal?",
+      "options": [
+        "Cortisol y aldosterona",
+        "Adrenalina y noradrenalina",
+        "T3 y T4",
+        "Calcitonina y PTH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las principales catecolaminas secretadas por la médula suprarrenal son la adrenalina (epinefrina) y la noradrenalina (norepinefrina). Aproximadamente el 80% de la secreción es adrenalina y el 20% es noradrenalina. Ambas son catecolaminas derivadas del aminoácido tirosina. La síntesis de catecolaminas comienza con la conversión de tirosina a L-DOPA, luego a dopamina, luego a noradrenalina, y finalmente a adrenalina en las células cromafines. Las catecolaminas son almacenadas en vesículas de secreción dentro de las células cromafines y se liberan en respuesta a la estimulación simpática. Ambas catecolaminas tienen efectos similares pero no idénticos en los tejidos diana. La adrenalina tiene efectos más pronunciados en el metabolismo, mientras que la noradrenalina tiene efectos más pronunciados en la presión arterial."
+    },
+    {
+      "id": 26,
+      "question": "¿Cuál es el papel de la vitamina D en la regulación del calcio?",
+      "options": [
+        "Disminuye la absorción intestinal de calcio",
+        "Aumenta la absorción intestinal de calcio y promueve la mineralización ósea",
+        "Estimula la secreción de calcitonina",
+        "Inhibe la secreción de PTH"
+      ],
+      "correctIndex": 1,
+      "explanation": "La vitamina D juega un papel crucial en la regulación del calcio al aumentar la absorción intestinal de calcio y promover la mineralización ósea. La forma activa de la vitamina D es el 1,25-dihidroxivitamina D (calcitriol), que es producida en los riñones bajo la estimulación de la PTH. La vitamina D actúa sobre los enterocitos del intestino delgado, aumentando la expresión de proteínas de transporte de calcio, lo que facilita la absorción de calcio. En el hueso, la vitamina D promueve la mineralización del osteoide, facilitando la incorporación de calcio en la matriz ósea. La vitamina D también tiene un papel importante en la regulación de la secreción de PTH. Los niveles bajos de vitamina D resultan en una absorción intestinal deficiente de calcio, lo que conduce a una secreción aumentada de PTH (hiperparatiroidismo secundario)."
+    },
+    {
+      "id": 27,
+      "question": "¿Cuál es la función de los osteoclastos en relación con la regulación del calcio?",
+      "options": [
+        "Sintetizan la matriz ósea",
+        "Resorben el hueso, liberando calcio a la circulación",
+        "Mineralizan el osteoide",
+        "Producen colágeno"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los osteoclastos son células multinucleadas especializadas que resorben el hueso, liberando calcio y otros minerales a la circulación. Esta función es crucial para la regulación de la calcemia. Los osteoclastos son activados por la PTH a través de los osteoblastos, mediante el sistema RANK-RANKL. Una vez activados, los osteoclastos crean un microambiente ácido bajo su borde ondulante, disolviendo la matriz mineral del hueso. También secretan enzimas proteolíticas que degradan la matriz orgánica del hueso. La calcitonina, en contraste, suprime la actividad de los osteoclastos, reduciendo la resorción ósea. El equilibrio entre la actividad de los osteoclastos (resorción) y los osteoblastos (formación) es crucial para mantener la homeostasis del calcio y la integridad estructural del esqueleto."
+    },
+    {
+      "id": 28,
+      "question": "¿Cuál es la diferencia entre T3 y T4 en términos de actividad biológica?",
+      "options": [
+        "T3 y T4 tienen la misma actividad biológica",
+        "T4 es más activo que T3",
+        "T3 es más activo que T4",
+        "Ninguno tiene actividad biológica"
+      ],
+      "correctIndex": 2,
+      "explanation": "T3 (triyodotironina) es más activo biológicamente que T4 (tiroxina). Aunque la tiroides produce principalmente T4, la mayoría de la actividad biológica se debe a T3. T3 se produce en pequeñas cantidades directamente por la tiroides, pero la mayoría de T3 circulante se produce por la conversión periférica de T4 a T3 en los tejidos, principalmente en el hígado y los riñones. T3 se une a los receptores de hormona tiroidea con mayor afinidad que T4, y tiene una vida media más corta. T4 actúa principalmente como una prohormona, siendo convertida a T3 según sea necesario. La conversión de T4 a T3 está regulada por factores como los niveles de nutrientes, el estado de salud, y otros factores. Esta característica permite una regulación más fina de la actividad biológica de las hormonas tiroideas."
+    },
+    {
+      "id": 29,
+      "question": "¿Cuál es el papel del yodo en la síntesis de hormonas tiroideas?",
+      "options": [
+        "Actúa como un cofactor enzimático",
+        "Es un componente estructural esencial de T3 y T4",
+        "Inhibe la síntesis de tiroglobulina",
+        "Estimula la secreción de TSH"
+      ],
+      "correctIndex": 1,
+      "explanation": "El yodo es un componente estructural esencial de las hormonas tiroideas T3 y T4. T4 contiene cuatro átomos de yodo, mientras que T3 contiene tres átomos de yodo. La síntesis de hormonas tiroideas requiere la captación de yodo por las células foliculares tiroideas a través de transportadores específicos de yodo. El yodo es entonces oxidado e incorporado en residuos de tirosina dentro de la tiroglobulina, formando monoiodotirosina (MIT) y diiodotirosina (DIT). La combinación de MIT y DIT forma T3 y T4. La deficiencia de yodo resulta en una síntesis deficiente de hormonas tiroideas, lo que conduce a hipotiroidismo y bocio (aumento de tamaño de la glándula tiroides). El yodo se obtiene principalmente de la dieta, particularmente de alimentos marinos y productos lácteos. La recomendación diaria de yodo es de aproximadamente 150 microgramos para adultos."
+    },
+    {
+      "id": 30,
+      "question": "¿Cuál es la función del transportador de yodo en las células foliculares tiroideas?",
+      "options": [
+        "Transporta hormonas tiroideas fuera de la célula",
+        "Captura yodo del plasma y lo transporta al interior de la célula",
+        "Degrada la tiroglobulina",
+        "Sintetiza tiroglobulina"
+      ],
+      "correctIndex": 1,
+      "explanation": "El transportador de yodo (NIS, symporter de sodio-yodo) captura yodo del plasma y lo transporta activamente al interior de las células foliculares tiroideas. Este es el primer paso en la síntesis de hormonas tiroideas. El transportador NIS utiliza el gradiente de sodio para transportar yodo contra su gradiente de concentración, requiriendo energía en forma de ATP. La expresión del transportador NIS está regulada por TSH, aumentando cuando la glándula tiroides está estimulada. Una vez dentro de la célula, el yodo es oxidado por la peroxidasa tiroidea e incorporado en residuos de tirosina. La captación de yodo es el paso limitante en la síntesis de hormonas tiroideas. Las mutaciones en el gen del transportador NIS pueden resultar en hipotiroidismo congénito. Algunos medicamentos y sustancias pueden inhibir el transportador NIS, afectando la síntesis de hormonas tiroideas."
+    },
+    {
+      "id": 31,
+      "question": "¿Cuál es el papel de la peroxidasa tiroidea en la síntesis de hormonas tiroideas?",
+      "options": [
+        "Transporta yodo al interior de la célula",
+        "Oxida el yodo e incorpora yodo en residuos de tirosina",
+        "Degrada la tiroglobulina",
+        "Secreta hormonas tiroideas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La peroxidasa tiroidea (TPO) es una enzima crucial que oxida el yodo e incorpora yodo en residuos de tirosina dentro de la tiroglobulina. Este proceso se llama yodación. La TPO también cataliza la condensación de MIT y DIT para formar T3 y T4. La TPO está localizada en la membrana apical de las células foliculares, donde tiene acceso tanto al yodo como a la tiroglobulina. La actividad de la TPO está regulada por TSH. Los anticuerpos contra la TPO se encuentran en la tiroiditis autoinmune (enfermedad de Hashimoto), donde destruyen la glándula tiroides. Algunos medicamentos (como el propiltiouracilo) inhiben la TPO, reduciendo la síntesis de hormonas tiroideas. La deficiencia de TPO resulta en hipotiroidismo congénito. La TPO es también un antígeno importante en la respuesta inmune contra la tiroides en enfermedades autoinmunes."
+    },
+    {
+      "id": 32,
+      "question": "¿Cuál es el mecanismo de acción de la TSH en las células foliculares tiroideas?",
+      "options": [
+        "Se une directamente al ADN y activa la transcripción",
+        "Se une a receptores en la superficie celular y activa una cascada de señalización",
+        "Inhibe la síntesis de tiroglobulina",
+        "Promueve la degradación de hormonas tiroideas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La TSH se une a receptores específicos en la superficie de las células foliculares tiroideas, activando una cascada de señalización intracelular. El receptor de TSH es un receptor acoplado a proteína G que activa la vía de señalización del AMPc. El aumento de AMPc intracelular activa la proteína quinasa A (PKA), que fosforila varios sustratos celulares. Esta cascada de señalización aumenta la captación de yodo, la síntesis de tiroglobulina, la yodación de tirosina, la formación de T3 y T4, y la endocitosis de coloide con liberación de hormonas. La cascada de señalización también promueve el crecimiento de la glándula tiroides. La duración y la intensidad de la estimulación por TSH determinan la magnitud de la respuesta de la glándula tiroides. La regulación de esta cascada de señalización es crucial para mantener la homeostasis de las hormonas tiroideas."
+    },
+    {
+      "id": 33,
+      "question": "¿Cuál es la relación entre el estrés y la secreción de catecolaminas?",
+      "options": [
+        "El estrés disminuye la secreción de catecolaminas",
+        "El estrés aumenta la secreción de catecolaminas a través de la activación del sistema simpático",
+        "No hay relación entre el estrés y las catecolaminas",
+        "El estrés inhibe la inervación simpática de la médula"
+      ],
+      "correctIndex": 1,
+      "explanation": "El estrés aumenta la secreción de catecolaminas a través de la activación del sistema nervioso simpático. Durante una situación de estrés, el hipotálamo activa el sistema nervioso simpático, que envía señales a través de los nervios esplácnicos a la médula suprarrenal. Esto resulta en la liberación de catecolaminas (adrenalina y noradrenalina) en la circulación. Las catecolaminas producen la respuesta de 'lucha o huida', aumentando la frecuencia cardíaca, la presión arterial, la respiración, y la movilización de energía. Esta respuesta es rápida (segundos) comparada con la respuesta del cortisol, que es más lenta (minutos a horas). La respuesta de catecolaminas es útil para hacer frente a amenazas agudas. Sin embargo, la exposición crónica al estrés puede resultar en una desensibilización de los receptores de catecolaminas y una disfunción de la médula suprarrenal."
+    },
+    {
+      "id": 34,
+      "question": "¿Cuál es la función de la retroalimentación negativa en la regulación del eje hipotálamo-hipófisis-tiroides?",
+      "options": [
+        "Aumenta continuamente la secreción de hormonas tiroideas",
+        "Mantiene la homeostasis de las hormonas tiroideas al inhibir la secreción de TRH y TSH cuando los niveles de T3 y T4 son altos",
+        "Estimula la síntesis de tiroglobulina",
+        "Promueve el crecimiento de la glándula tiroides"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa es un mecanismo crucial que mantiene la homeostasis de las hormonas tiroideas. Cuando los niveles de T3 y T4 en la sangre son altos, estas hormonas inhiben la secreción de TRH del hipotálamo y TSH de la hipófisis anterior. Esta inhibición reduce la estimulación de la glándula tiroides, resultando en una disminución de la síntesis y secreción de hormonas tiroideas. A medida que los niveles de T3 y T4 disminuyen, la inhibición se reduce, permitiendo que la secreción de TRH y TSH aumente nuevamente. Este ciclo de retroalimentación mantiene los niveles de hormonas tiroideas dentro de un rango normal. La retroalimentación negativa es esencial para prevenir tanto el hipotiroidismo como el hipertiroidismo. Los trastornos de este mecanismo de retroalimentación pueden resultar en disfunción tiroidea."
+    },
+    {
+      "id": 35,
+      "question": "¿Cuál es el ritmo circadiano del cortisol?",
+      "options": [
+        "Los niveles de cortisol son constantes durante todo el día",
+        "Los niveles de cortisol son más altos por la noche y más bajos durante el día",
+        "Los niveles de cortisol son más altos por la mañana y más bajos por la noche",
+        "No existe un ritmo circadiano del cortisol"
+      ],
+      "correctIndex": 2,
+      "explanation": "El cortisol exhibe un ritmo circadiano pronunciado, con niveles más altos por la mañana (alrededor de las 6-8 am) y más bajos por la noche (alrededor de las 11 pm a 1 am). Este ritmo es controlado por el núcleo supraquiasmático del hipotálamo, que responde a las señales de luz. El ritmo circadiano del cortisol es importante para mantener la vigilia y la alerta por la mañana, y para facilitar el sueño por la noche. La alteración del ritmo circadiano del cortisol (como ocurre en el trabajo por turnos o el jet lag) puede resultar en problemas de sueño, fatiga, y otros trastornos. La medición del cortisol a diferentes horas del día es importante para la evaluación clínica de los trastornos suprarrenales. El ritmo circadiano del cortisol se mantiene incluso durante el estrés, aunque la amplitud del ritmo puede aumentar."
+    },
+    {
+      "id": 36,
+      "question": "¿Cuál es la función de la aldosterona?",
+      "options": [
+        "Aumenta la excreción de sodio",
+        "Promueve la reabsorción de sodio y la excreción de potasio en los riñones",
+        "Disminuye la presión arterial",
+        "Inhibe la secreción de renina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La aldosterona es un mineralocorticoide que promueve la reabsorción de sodio y la excreción de potasio en los túbulos distales del riñón. Este efecto resulta en un aumento de la retención de agua (ya que el agua sigue osmóticamente al sodio), lo que aumenta el volumen de sangre y la presión arterial. La aldosterona también afecta la concentración de potasio sérico, promoviendo su excreción. La secreción de aldosterona está regulada principalmente por el sistema renina-angiotensina-aldosterona (SRAA) y por los niveles de potasio sérico. Cuando la presión arterial disminuye, los riñones secretan renina, que activa la cascada del SRAA, resultando en la síntesis y secreción de aldosterona. La aldosterona es crucial para mantener la presión arterial y el equilibrio electrolítico. Los trastornos de la secreción de aldosterona pueden resultar en hipertensión (exceso de aldosterona) o hipotensión (deficiencia de aldosterona)."
+    },
+    {
+      "id": 37,
+      "question": "¿Cuál es la diferencia entre la hiperplasia y la hipertrofia en relación con la glándula tiroides?",
+      "options": [
+        "No hay diferencia entre hiperplasia e hipertrofia",
+        "La hiperplasia es el aumento del número de células, mientras que la hipertrofia es el aumento del tamaño de las células",
+        "La hiperplasia es el aumento del tamaño de las células, mientras que la hipertrofia es el aumento del número de células",
+        "La hiperplasia es una disminución del tamaño de la glándula"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hiperplasia es el aumento del número de células, mientras que la hipertrofia es el aumento del tamaño de las células individuales. En la glándula tiroides, tanto la hiperplasia como la hipertrofia pueden ocurrir en respuesta a la estimulación crónica por TSH. La estimulación crónica por TSH (como ocurre en la deficiencia de yodo o en la enfermedad de Graves) resulta en un aumento del tamaño de la glándula tiroides (bocio). Este aumento puede deberse a hiperplasia (aumento del número de células foliculares), hipertrofia (aumento del tamaño de las células foliculares), o una combinación de ambas. La hiperplasia es más común en la estimulación crónica, mientras que la hipertrofia es más evidente en la estimulación aguda. La distinción entre hiperplasia e hipertrofia es importante para la comprensión de la patología tiroidea."
+    },
+    {
+      "id": 38,
+      "question": "¿Cuál es el papel de los receptores de catecolaminas en la respuesta al estrés?",
+      "options": [
+        "Inhiben la secreción de catecolaminas",
+        "Median los efectos de las catecolaminas en los tejidos diana",
+        "Sintetizan catecolaminas",
+        "Degradan catecolaminas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los receptores de catecolaminas median los efectos de las catecolaminas (adrenalina y noradrenalina) en los tejidos diana. Existen dos tipos principales de receptores de catecolaminas: receptores alfa (α) y receptores beta (β). Los receptores alfa promueven principalmente la vasoconstricción y el aumento de la presión arterial. Los receptores beta promueven principalmente el aumento de la frecuencia cardíaca, la contractilidad cardíaca, la broncodilatación, y la movilización de energía. La distribución de estos receptores varía en diferentes tejidos, lo que explica los efectos diferenciales de las catecolaminas. Los agonistas y antagonistas de estos receptores se utilizan clínicamente para modular los efectos de las catecolaminas. La desensibilización de los receptores de catecolaminas puede ocurrir con la exposición crónica a catecolaminas, resultando en una respuesta atenuada. La regulación de estos receptores es importante para la homeostasis cardiovascular y metabólica."
+    },
+    {
+      "id": 39,
+      "question": "¿Cuál es la función de la matriz extracelular en los folículos tiroideos?",
+      "options": [
+        "Sintetiza hormonas tiroideas",
+        "Proporciona soporte estructural y facilita la interacción célula-célula",
+        "Almacena tiroglobulina",
+        "Transporta hormonas tiroideas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La matriz extracelular en los folículos tiroideos proporciona soporte estructural y facilita la interacción célula-célula. La matriz extracelular está compuesta principalmente por colágeno, proteoglicanos, y otras proteínas estructurales. Rodea a las células foliculares y proporciona un andamio para su organización tridimensional. La lámina basal, que es una forma especializada de matriz extracelular, rodea cada folículo y separa el epitelio folicular del tejido conectivo circundante. Las células foliculares interactúan con la matriz extracelular a través de integrinas, que son receptores transmembranales. Estas interacciones son importantes para la adhesión celular, la migración, la diferenciación, y la respuesta a señales externas. La alteración de la matriz extracelular puede afectar la función tiroidea. La fibrosis tiroidea, que implica un aumento de la matriz extracelular, puede resultar en disfunción tiroidea."
+    },
+    {
+      "id": 40,
+      "question": "¿Cuál es la relación entre la inflamación y la función tiroidea?",
+      "options": [
+        "La inflamación no afecta la función tiroidea",
+        "La inflamación siempre aumenta la función tiroidea",
+        "La inflamación puede afectar la función tiroidea a través de múltiples mecanismos",
+        "La inflamación siempre disminuye la función tiroidea"
+      ],
+      "correctIndex": 2,
+      "explanation": "La inflamación puede afectar la función tiroidea a través de múltiples mecanismos. La inflamación crónica puede resultar en daño a la glándula tiroides, reduciendo su capacidad de sintetizar hormonas. Las citoquinas inflamatorias pueden afectar la expresión de genes involucrados en la síntesis de hormonas tiroideas. La inflamación también puede afectar la absorción y el metabolismo de yodo. En la tiroiditis autoinmune (enfermedad de Hashimoto), la inflamación crónica resulta en la destrucción progresiva de la glándula tiroides, causando hipotiroidismo. En contraste, en la enfermedad de Graves, la inflamación autoinmune resulta en la estimulación de la glándula tiroides, causando hipertiroidismo. La inflamación aguda, como la que ocurre en la tiroiditis viral, puede resultar en la liberación de hormonas tiroideas preformadas, causando hipertiroidismo transitorio. La comprensión de la relación entre la inflamación y la función tiroidea es importante para el manejo de los trastornos tiroideos."
+    },
+    {
+      "id": 41,
+      "question": "¿Cuál es la función de los osteoblastos en relación con la regulación del calcio?",
+      "options": [
+        "Resorben el hueso y liberan calcio",
+        "Sintetizan la matriz ósea y promueven la mineralización",
+        "Degradan la matriz ósea",
+        "Transportan calcio en la sangre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los osteoblastos son células que sintetizan la matriz ósea (principalmente colágeno tipo I) y promueven la mineralización del osteoide. Aunque los osteoblastos no liberan directamente calcio a la circulación, su función es crucial para mantener la integridad estructural del esqueleto y la homeostasis del calcio a largo plazo. Los osteoblastos también juegan un papel importante en la regulación de los osteoclastos a través del sistema RANK-RANKL. La PTH estimula los osteoblastos, que a su vez activan los osteoclastos para resorber el hueso y liberar calcio. La calcitonina, en contraste, inhibe tanto los osteoclastos como los osteoblastos. El equilibrio entre la actividad de los osteoblastos (formación) y los osteoclastos (resorción) es crucial para mantener la homeostasis del calcio y la salud ósea. La disfunción de los osteoblastos puede resultar en osteoporosis o en otras enfermedades óseas."
+    },
+    {
+      "id": 42,
+      "question": "¿Cuál es el papel del sistema RANK-RANKL en la regulación de la resorción ósea?",
+      "options": [
+        "Inhibe la actividad de los osteoclastos",
+        "Media la activación de los osteoclastos por la PTH",
+        "Promueve la síntesis de colágeno",
+        "Regula la absorción de calcio intestinal"
+      ],
+      "correctIndex": 1,
+      "explanation": "El sistema RANK-RANKL media la activación de los osteoclastos por la PTH. RANK (receptor activador del factor nuclear kappa B) es un receptor en la superficie de los osteoclastos y sus precursores. RANKL (ligando de RANK) es una proteína expresada en los osteoblastos. Cuando la PTH estimula los osteoblastos, estos aumentan la expresión de RANKL. El RANKL se une a RANK en los osteoclastos, activándolos y promoviendo su diferenciación a partir de precursores. La osteoprotegerina (OPG) es un receptor soluble que puede unirse a RANKL, bloqueando su interacción con RANK y previniendo la activación de los osteoclastos. El equilibrio entre RANKL y OPG es crucial para regular la resorción ósea. La calcitonina inhibe los osteoclastos, en parte, reduciendo la expresión de RANKL. El sistema RANK-RANKL es un objetivo importante para el tratamiento de la osteoporosis y otras enfermedades óseas."
+    },
+    {
+      "id": 43,
+      "question": "¿Cuál es la relación entre el metabolismo del fósforo y el calcio?",
+      "options": [
+        "No hay relación entre el fósforo y el calcio",
+        "El fósforo y el calcio están inversamente relacionados en la sangre",
+        "El fósforo y el calcio están directamente relacionados en la sangre",
+        "El fósforo no afecta la regulación del calcio"
+      ],
+      "correctIndex": 2,
+      "explanation": "El fósforo y el calcio están directamente relacionados en la sangre a través del producto iónico (calcio × fósforo). Cuando el producto iónico excede el límite de solubilidad, el calcio y el fósforo precipitan como sales de fosfato de calcio. La PTH aumenta la excreción renal de fósforo, lo que reduce el producto iónico y facilita la absorción intestinal de calcio. La vitamina D aumenta la absorción intestinal tanto de calcio como de fósforo. El riñón es el órgano principal que regula la excreción de fósforo. La regulación del fósforo sérico es importante no solo para la homeostasis del calcio, sino también para la función celular, la producción de ATP, y la mineralización ósea. Los trastornos del metabolismo del fósforo pueden resultar en alteraciones de la homeostasis del calcio. La relación entre el calcio y el fósforo es importante para comprender la fisiología mineral."
+    },
+    {
+      "id": 44,
+      "question": "¿Cuál es la función de la proteína transportadora de hormona tiroidea en la sangre?",
+      "options": [
+        "Sintetiza hormonas tiroideas",
+        "Transporta y almacena hormonas tiroideas en la sangre",
+        "Degrada hormonas tiroideas",
+        "Estimula la síntesis de TSH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las proteínas transportadoras de hormonas tiroideas transportan y almacenan hormonas tiroideas en la sangre. Las principales proteínas transportadoras son la globulina fijadora de tiroxina (TBG), la prealbúmina fijadora de tiroxina (TBPA o transtiretina), y la albúmina. Aproximadamente el 99% de las hormonas tiroideas en la sangre están unidas a estas proteínas transportadoras, mientras que menos del 1% están en forma libre. Solo la hormona tiroidea libre es biológicamente activa. Las proteínas transportadoras actúan como un depósito de hormonas tiroideas, permitiendo una regulación más fina de la disponibilidad de hormona libre. Las alteraciones en las concentraciones de proteínas transportadoras (como ocurre en la enfermedad hepática o en el embarazo) pueden afectar los niveles totales de hormonas tiroideas sin afectar necesariamente los niveles de hormona libre. La medición de la hormona tiroidea libre (T3 libre y T4 libre) es más clínicamente relevante que la medición de la hormona tiroidea total."
+    },
+    {
+      "id": 45,
+      "question": "¿Cuál es el papel del hipotálamo en la regulación de la secreción de cortisol?",
+      "options": [
+        "Secreta directamente cortisol",
+        "Secreta CRH, que estimula la hipófisis para secretar ACTH",
+        "Inhibe la secreción de ACTH",
+        "Regula la absorción de yodo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo secreta hormona liberadora de corticotropina (CRH), que estimula la hipófisis anterior para secretar hormona adrenocorticotropa (ACTH). La ACTH luego estimula la zona fasciculada de la corteza suprarrenal para sintetizar y secretar cortisol. Este es el primer paso del eje hipotálamo-hipófisis-suprarrenal (HPA). El hipotálamo responde a cambios en el estrés, la temperatura corporal, y otros factores ambientales, ajustando la secreción de CRH según sea necesario. El eje HPA está regulado por retroalimentación negativa, donde el cortisol elevado inhibe la secreción de CRH y ACTH. El cortisol también tiene un ritmo circadiano controlado por el hipotálamo, con niveles más altos por la mañana y más bajos por la noche. La disfunción del hipotálamo puede resultar en trastornos de la secreción de cortisol, como el síndrome de Cushing o la insuficiencia suprarrenal."
+    },
+    {
+      "id": 46,
+      "question": "¿Cuál es la diferencia entre la hipófisis anterior y la hipófisis posterior?",
+      "options": [
+        "No hay diferencia entre la hipófisis anterior y posterior",
+        "La hipófisis anterior es de origen endodérmico y secreta hormonas tróficas, mientras que la hipófisis posterior es de origen neuroectodérmico y secreta hormonas neurohipofisarias",
+        "La hipófisis anterior secreta hormonas neurohipofisarias",
+        "La hipófisis posterior es de origen endodérmico"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hipófisis anterior (adenohipófisis) es de origen endodérmico y secreta hormonas tróficas (TSH, ACTH, FSH, LH, prolactina, y hormona del crecimiento). La hipófisis posterior (neurohipófisis) es de origen neuroectodérmico y secreta hormonas neurohipofisarias (vasopresina y oxitocina). La hipófisis anterior está bajo el control del hipotálamo a través de hormonas liberadoras que viajan por el sistema porta hipofisario. La hipófisis posterior está bajo el control del hipotálamo a través de fibras nerviosas directas. La hipófisis anterior contiene células endocrinas especializadas (somatotropos, corticotropos, tirotropos, gonadotropos, y lactotropos), mientras que la hipófisis posterior contiene terminaciones nerviosas de neuronas hipotalámicas. Esta diferencia en el origen embrionario y la estructura explica las diferencias en el control y la función de estas dos regiones de la hipófisis."
+    },
+    {
+      "id": 47,
+      "question": "¿Cuál es el papel de la vasopresina en la regulación del agua corporal?",
+      "options": [
+        "Aumenta la excreción de agua por los riñones",
+        "Disminuye la excreción de agua por los riñones, promoviendo la reabsorción de agua",
+        "Estimula la síntesis de aldosterona",
+        "Inhibe la secreción de ADH"
+      ],
+      "correctIndex": 1,
+      "explanation": "La vasopresina (hormona antidiurética o ADH) disminuye la excreción de agua por los riñones, promoviendo la reabsorción de agua en los túbulos colectores. La vasopresina es sintetizada en el hipotálamo y secretada por la hipófisis posterior en respuesta a cambios en la osmolalidad plasmática y el volumen de sangre. La vasopresina se une a receptores V2 en los túbulos colectores del riñón, aumentando la expresión de acuaporinas (canales de agua), lo que facilita la reabsorción de agua. Cuando la osmolalidad plasmática aumenta o el volumen de sangre disminuye, la secreción de vasopresina aumenta, resultando en una mayor reabsorción de agua y un aumento del volumen de sangre. Cuando la osmolalidad plasmática disminuye o el volumen de sangre aumenta, la secreción de vasopresina disminuye, resultando en una menor reabsorción de agua y un aumento de la excreción urinaria. La disfunción de la vasopresina puede resultar en diabetes insípida (deficiencia de vasopresina) o síndrome de secreción inapropiada de ADH (exceso de vasopresina)."
+    },
+    {
+      "id": 48,
+      "question": "¿Cuál es la función de la oxitocina?",
+      "options": [
+        "Regula el metabolismo del calcio",
+        "Promueve la contracción uterina durante el parto y la eyección de leche durante la lactancia",
+        "Estimula la síntesis de cortisol",
+        "Regula la presión arterial"
+      ],
+      "correctIndex": 1,
+      "explanation": "La oxitocina es una hormona neurohipofisaria que promueve la contracción uterina durante el parto y la eyección de leche durante la lactancia. La oxitocina es sintetizada en el hipotálamo y secretada por la hipófisis posterior. Durante el parto, la distensión del cuello uterino estimula la secreción de oxitocina, que promueve las contracciones uterinas (retroalimentación positiva). Durante la lactancia, la succión del pezón estimula la secreción de oxitocina, que promueve la contracción de las células mioepiteliales alrededor de los alvéolos mamarios, facilitando la eyección de leche. La oxitocina también tiene efectos en el comportamiento, promoviendo la unión social y el reconocimiento de parejas. La oxitocina se utiliza clínicamente para inducir o aumentar las contracciones uterinas durante el parto. La disfunción de la oxitocina puede resultar en problemas de lactancia o en dificultades en el parto."
+    },
+    {
+      "id": 49,
+      "question": "¿Cuál es la relación entre la hormona del crecimiento y el metabolismo?",
+      "options": [
+        "La hormona del crecimiento disminuye el metabolismo",
+        "La hormona del crecimiento aumenta el metabolismo y promueve el crecimiento y la lipólisis",
+        "No hay relación entre la hormona del crecimiento y el metabolismo",
+        "La hormona del crecimiento inhibe la síntesis de proteínas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona del crecimiento (somatotropina) aumenta el metabolismo y promueve el crecimiento y la lipólisis. La hormona del crecimiento es secretada por los somatotropos de la hipófisis anterior en respuesta a la hormona liberadora de hormona del crecimiento (GHRH) del hipotálamo. La hormona del crecimiento tiene múltiples efectos metabólicos: aumenta la síntesis de proteínas, promueve la lipólisis (movilización de ácidos grasos), aumenta la gluconeogénesis, y aumenta el metabolismo basal. La hormona del crecimiento también promueve el crecimiento lineal a través de la estimulación de la síntesis de factor de crecimiento similar a insulina (IGF-1) en el hígado. La secreción de hormona del crecimiento está regulada por GHRH y somatostatina (que inhibe la secreción). La hormona del crecimiento también está regulada por factores como el sueño, el estrés, el ejercicio, y los niveles de glucosa en sangre. La deficiencia de hormona del crecimiento resulta en retraso del crecimiento, mientras que el exceso resulta en gigantismo o acromegalia."
+    },
+    {
+      "id": 50,
+      "question": "¿Cuál es el papel del sistema nervioso autónomo en la regulación de las glándulas endócrinas?",
+      "options": [
+        "El sistema nervioso autónomo no tiene papel en la regulación endocrina",
+        "El sistema nervioso autónomo solo regula la médula suprarrenal",
+        "El sistema nervioso autónomo regula múltiples glándulas endócrinas a través de inervación directa y efectos en el flujo sanguíneo",
+        "El sistema nervioso autónomo inhibe todas las glándulas endócrinas"
+      ],
+      "correctIndex": 2,
+      "explanation": "El sistema nervioso autónomo juega un papel importante en la regulación de múltiples glándulas endócrinas a través de inervación directa y efectos en el flujo sanguíneo. La médula suprarrenal recibe inervación simpática preganglionar directa, permitiendo una respuesta rápida a situaciones de estrés. El sistema nervioso simpático también afecta el flujo sanguíneo a las glándulas endócrinas, lo que puede afectar la secreción de hormonas. El hipotálamo, que es el centro de control del sistema nervioso autónomo, también controla el eje hipotálamo-hipófisis, regulando múltiples glándulas endócrinas. El estrés, que activa el sistema nervioso simpático, resulta en cambios en la secreción de múltiples hormonas, incluyendo cortisol, catecolaminas, y hormonas tiroideas. La integración entre el sistema nervioso autónomo y el sistema endócrino permite una respuesta coordinada a los cambios ambientales y fisiológicos. La disfunción de esta integración puede resultar en trastornos endócrinos."
+    },
+    {
+      "id": 51,
+      "question": "¿Cuál es la principal diferencia en el mecanismo de acción entre el sistema nervioso y el sistema endócrino?",
+      "options": [
+        "El sistema endócrino actúa más rápido pero con efectos más cortos",
+        "El sistema endócrino actúa más lentamente pero con efectos más prolongados y generalizados",
+        "El sistema nervioso utiliza hormonas mientras que el endócrino utiliza neurotransmisores",
+        "No hay diferencia significativa en el mecanismo de acción"
+      ],
+      "correctIndex": 1,
+      "explanation": "El sistema endócrino se caracteriza por una respuesta más lenta en comparación con el sistema nervioso, pero sus efectos son más prolongados y generalizados. Mientras que el sistema nervioso actúa en milisegundos a través de neurotransmisores en sinapsis específicas, el sistema endócrino transporta hormonas a través del sistema circulatorio, lo que toma más tiempo pero permite que la hormona llegue a múltiples órganos diana simultáneamente. Esta característica lo hace ideal para mantener la homeostasis y coordinar procesos a largo plazo como el crecimiento y el desarrollo. Las hormonas pueden permanecer activas en el torrente sanguíneo durante horas o días, prolongando sus efectos fisiológicos."
+    },
+    {
+      "id": 52,
+      "question": "¿Cuál de las siguientes opciones describe correctamente las células APUD/SNED?",
+      "options": [
+        "Son células especializadas únicamente en la hipófisis",
+        "Son células endócrinas aisladas distribuidas en diversos órganos, con más de 40 tipos celulares diferentes",
+        "Son células que solo producen neurotransmisores",
+        "Son células que se encuentran exclusivamente en el páncreas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células APUD (Amine Precursor Uptake and Decarboxylation) o SNED (Sistema Neuroendócrino Difuso) son células endócrinas aisladas distribuidas ampliamente en diversos órganos del cuerpo. Existen más de 40 tipos celulares diferentes con esta característica, lo que las hace parte de un sistema neuroendócrino difuso. Estas células se encuentran en órganos como el tracto gastrointestinal, pulmones, páncreas y otros tejidos. A diferencia de las glándulas endócrinas concentradas como la hipófisis, estas células están dispersas pero mantienen funciones endócrinas importantes. Su capacidad de captar y descarboxilar precursores de aminas les permite sintetizar diversos tipos de hormonas y neurotransmisores."
+    },
+    {
+      "id": 53,
+      "question": "¿Cuál es el mecanismo de retroalimentación negativa en el sistema endócrino?",
+      "options": [
+        "La hormona producida aumenta el estímulo original",
+        "La hormona producida disminuye el estímulo original, regulando su propia producción",
+        "Las hormonas no tienen ningún efecto regulador sobre su propia producción",
+        "La retroalimentación negativa solo ocurre en el sistema nervioso"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa es un mecanismo fundamental de regulación hormonal donde la hormona producida inhibe o disminuye el estímulo que originó su liberación. Este mecanismo permite mantener la homeostasis evitando que los niveles hormonales se eleven excesivamente. Por ejemplo, cuando los niveles de cortisol aumentan, inhiben la liberación de ACTH del hipotálamo y la adenohipófisis, reduciendo así la estimulación de la corteza suprarrenal. Este sistema de autorregulación es esencial para mantener concentraciones hormonales dentro de rangos fisiológicos óptimos. Sin este mecanismo, los niveles hormonales podrían alcanzar concentraciones peligrosas, causando desequilibrios metabólicos graves."
+    },
+    {
+      "id": 54,
+      "question": "¿Cuál es la ubicación anatómica de la hipófisis?",
+      "options": [
+        "En la región cervical, anterior a la tráquea",
+        "En la silla turca, en la base del cráneo, bajo el hipotálamo",
+        "En el mediastino anterior",
+        "En la región retroperitoneal"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hipófisis se localiza en la silla turca (sella turcica), una estructura ósea en la base del cráneo que forma una pequeña cavidad protectora. Esta ubicación es estratégica porque le permite estar en estrecha relación con el hipotálamo, situado directamente arriba. La silla turca está formada por el hueso esfenoides y proporciona protección ósea a esta glándula endocrina vital. La proximidad con el hipotálamo es fundamental para la regulación neuroendocrina, permitiendo que las hormonas liberadoras del hipotálamo lleguen rápidamente a la adenohipófisis a través del sistema porta hipofisario. Esta relación anatómica es crucial para la coordinación entre el sistema nervioso y el endócrino."
+    },
+    {
+      "id": 55,
+      "question": "¿Qué porcentaje de la hipófisis representa la adenohipófisis (pars distalis)?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "correctIndex": 2,
+      "explanation": "La adenohipófisis o pars distalis representa el 75% del volumen total de la hipófisis, siendo la porción más grande de esta glándula. Esta proporción refleja la importancia funcional de la adenohipófisis, que sintetiza y secreta la mayoría de las hormonas hipofisarias. La adenohipófisis se origina del ectodermo bucal durante el desarrollo embrionario, mientras que la neurohipófisis (que representa el 25% restante) se origina del neuroectodermo. A pesar de ser más pequeña en volumen, la neurohipófisis tiene funciones igualmente importantes en la regulación de procesos como el balance hídrico y la contracción uterina. Esta diferencia en tamaño refleja la mayor actividad secretora de la adenohipófisis."
+    },
+    {
+      "id": 56,
+      "question": "¿Cuál es la característica histológica principal de la adenohipófisis?",
+      "options": [
+        "Presencia de un único tipo de célula secretora",
+        "Células dispuestas en acúmulos o cordones con sinusoides y escaso tejido conectivo reticular",
+        "Abundante tejido conectivo fibroso",
+        "Presencia de túbulos secretores"
+      ],
+      "correctIndex": 1,
+      "explanation": "La adenohipófisis presenta una organización histológica característica con células endócrinas dispuestas en acúmulos o cordones que rodean sinusoides (capilares fenestrados). El tejido conectivo entre estas estructuras es escaso, consistiendo principalmente en fibras reticulares. Esta arquitectura permite un contacto íntimo entre las células secretoras y los capilares, facilitando la rápida liberación de hormonas hacia la circulación. Los sinusoides son especialmente importantes porque sus paredes fenestradas permiten el paso de moléculas grandes como las hormonas proteicas. Las células foliculoesteladas presentes entre los cordones celulares también contribuyen a esta organización. Esta disposición histológica es fundamental para la función endocrina eficiente de la glándula."
+    },
+    {
+      "id": 57,
+      "question": "¿Cuál es la proporción de células acidófilas en la adenohipófisis?",
+      "options": [
+        "10%",
+        "25%",
+        "40%",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células acidófilas representan aproximadamente el 40% del total de células de la adenohipófisis. Estas células se tiñen de color rojo o rosa con técnicas histológicas convencionales debido a su abundante contenido de ribosomas y retículo endoplásmico rugoso, reflejando su alta actividad proteica. Las células acidófilas incluyen dos subtipos principales: las somatotropas (que sintetizan hormona de crecimiento) y las lactotropas (que sintetizan prolactina). Aunque representan el 40% de la población celular, su contribución funcional es muy significativa debido a la importancia de las hormonas que producen. La proporción de células acidófilas puede variar ligeramente según el estado fisiológico del individuo, especialmente en mujeres durante el embarazo y lactancia cuando aumentan las lactotropas."
+    },
+    {
+      "id": 58,
+      "question": "¿Cuál es la función principal de las somatotropas?",
+      "options": [
+        "Producir prolactina para estimular la lactancia",
+        "Sintetizar hormona de crecimiento (GH) que estimula el crecimiento del organismo",
+        "Secretar hormonas gonadotropas",
+        "Producir hormona estimulante de la tiroides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las somatotropas son células acidófilas que representan aproximadamente el 50% del total de células acidófilas (es decir, alrededor del 20% de todas las células de la adenohipófisis). Su función principal es sintetizar y secretar la hormona de crecimiento o somatotropina (GH). Esta hormona estimula el crecimiento general del organismo, actuando especialmente sobre los huesos largos para promover su elongación y sobre los músculos para aumentar su masa. La GH también tiene efectos metabólicos importantes, incluyendo la movilización de lípidos y la regulación de la glucosa. La deficiencia de GH durante la infancia resulta en enanismo hipofisario, mientras que su exceso causa gigantismo. La regulación de las somatotropas depende de la hormona liberadora de GH (GHRH) del hipotálamo."
+    },
+    {
+      "id": 59,
+      "question": "¿Cuál es el porcentaje de lactotropas dentro de las células acidófilas?",
+      "options": [
+        "5%",
+        "15%",
+        "30%",
+        "50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las lactotropas representan aproximadamente el 15% del total de células acidófilas. Estas células sintetizan prolactina, una hormona que estimula la producción y secreción de leche en las glándulas mamarias. Aunque representan una proporción menor comparada con las somatotropas, su importancia fisiológica es considerable, especialmente durante el embarazo y la lactancia. Durante estos períodos, el número de lactotropas aumenta significativamente, llegando a representar hasta el 50% de las células acidófilas en mujeres lactantes. La prolactina tiene múltiples funciones además de la estimulación de la lactancia, incluyendo efectos sobre la reproducción y el comportamiento. La regulación de las lactotropas es única entre las células hipofisarias, siendo inhibidas por la dopamina hipotalámica en lugar de ser estimuladas por una hormona liberadora."
+    },
+    {
+      "id": 60,
+      "question": "¿Qué son las somatoamamotropas?",
+      "options": [
+        "Células que producen solo GH",
+        "Células que producen solo prolactina",
+        "Se piensa que representan precursores celulares de somatotropas y lactotropas",
+        "Células que producen ambas hormonas simultáneamente"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las somatoamamotropas son células que se piensa representan precursores celulares de las somatotropas y lactotropas. Esta hipótesis se basa en evidencia morfológica y funcional que sugiere que estas células pueden diferenciarse hacia uno u otro tipo celular. Las somatoamamotropas tienen características intermedias entre somatotropas y lactotropas, lo que apoya su rol como células progenitoras. Este concepto es importante para entender la plasticidad celular en la adenohipófisis y cómo la glándula puede ajustar la proporción de diferentes tipos celulares según las demandas fisiológicas. Durante el embarazo y la lactancia, hay un aumento en la diferenciación de estas células hacia lactotropas. La existencia de somatoamamotropas también explica por qué algunos tumores hipofisarios pueden secretar ambas hormonas."
+    },
+    {
+      "id": 61,
+      "question": "¿Cuál es la proporción de células basófilas en la adenohipófisis?",
+      "options": [
+        "5%",
+        "10%",
+        "25%",
+        "40%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células basófilas representan aproximadamente el 10% del total de células de la adenohipófisis. Estas células se tiñen de color azul o púrpura con técnicas histológicas convencionales debido a su contenido de ácidos nucleicos y proteínas básicas. Las células basófilas incluyen tres subtipos principales: las gonadotropas (que secretan FSH y LH), las corticotropas (que secretan ACTH) y las tirotropas (que secretan TSH). A pesar de representar una proporción menor de células, las basófilas son funcionalmente muy importantes porque producen hormonas que regulan funciones reproductivas, la respuesta al estrés y el metabolismo. La identificación de células basófilas es importante en histología clínica porque los tumores basófilos pueden causar síndromes endocrinos específicos dependiendo del tipo celular afectado."
+    },
+    {
+      "id": 62,
+      "question": "¿Cuál es la función de las gonadotropas?",
+      "options": [
+        "Producir hormona de crecimiento",
+        "Secretar FSH y LH para estimular las gónadas",
+        "Producir ACTH",
+        "Secretar TSH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las gonadotropas son células basófilas que secretan dos hormonas: la hormona folículo estimulante (FSH) y la hormona luteinizante (LH). Estas hormonas estimulan el desarrollo y función de las gónadas (ovarios en mujeres y testículos en hombres). En mujeres, la FSH estimula el desarrollo de los folículos ováricos y la producción de estrógenos, mientras que la LH desencadena la ovulación y estimula la formación del cuerpo lúteo. En hombres, la FSH estimula la espermatogénesis en los túbulos seminíferos, mientras que la LH estimula las células de Leydig para producir testosterona. La regulación de las gonadotropas depende de la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. Los niveles de FSH y LH varían cíclicamente en mujeres en edad reproductiva, controlando el ciclo menstrual."
+    },
+    {
+      "id": 63,
+      "question": "¿Cuál es la función principal de las corticotropas?",
+      "options": [
+        "Estimular la producción de hormonas tiroideas",
+        "Secretar ACTH para estimular la corteza suprarrenal",
+        "Producir prolactina",
+        "Secretar hormona de crecimiento"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las corticotropas son células basófilas que secretan la hormona adrenocorticotropa (ACTH). Esta hormona estimula la corteza suprarrenal para producir y secretar glucocorticoides (principalmente cortisol) y andrógenos adrenales. La ACTH es fundamental para la respuesta del cuerpo al estrés, aumentando los niveles de cortisol que preparan el organismo para enfrentar situaciones de emergencia. La regulación de las corticotropas depende de la hormona liberadora de corticotropina (CRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-suprarrenal (HPA) que regula la producción de ACTH mediante retroalimentación negativa: cuando los niveles de cortisol aumentan, inhiben la liberación de CRH y ACTH. La deficiencia de ACTH resulta en insuficiencia suprarrenal secundaria, mientras que su exceso puede causar síndrome de Cushing."
+    },
+    {
+      "id": 64,
+      "question": "¿Cuál es la función de las tirotropas?",
+      "options": [
+        "Producir hormona de crecimiento",
+        "Secretar TSH para estimular la glándula tiroides",
+        "Producir ACTH",
+        "Secretar prolactina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las tirotropas son células basófilas que secretan la hormona estimulante de la tiroides (TSH o tirotropina). Esta hormona estimula la glándula tiroides para producir y secretar las hormonas tiroideas (T3 y T4), que son esenciales para el metabolismo, el crecimiento y el desarrollo. La TSH también estimula el crecimiento de la glándula tiroides. La regulación de las tirotropas depende de la hormona liberadora de tirotropina (TRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-tiroides que regula la producción de TSH mediante retroalimentación negativa: cuando los niveles de hormonas tiroideas aumentan, inhiben la liberación de TRH y TSH. La deficiencia de TSH resulta en hipotiroidismo secundario, mientras que su exceso puede causar hipertiroidismo. La medición de TSH es una prueba diagnóstica importante para evaluar la función tiroidea."
+    },
+    {
+      "id": 65,
+      "question": "¿Cuál es la proporción de células cromófobas en la adenohipófisis?",
+      "options": [
+        "25%",
+        "40%",
+        "50%",
+        "75%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células cromófobas representan aproximadamente el 50% del total de células de la adenohipófisis. Estas células se tiñen débilmente o no se tiñen con técnicas histológicas convencionales debido a su bajo contenido de gránulos secretores. Las cromófobas incluyen dos tipos principales: las células foliculoesteladas (FS) y las células de reserva. Las células foliculoesteladas tienen un rol importante en el soporte estructural y funcional de la glándula, secretando factores que regulan a otras células endócrinas. Las células de reserva son precursoras que pueden diferenciarse en otros tipos celulares según las demandas fisiológicas. La proporción de células cromófobas puede variar según el estado funcional de la glándula. En condiciones de estimulación hormonal crónica, el número de cromófobas puede disminuir a medida que se diferencian en células secretoras especializadas."
+    },
+    {
+      "id": 66,
+      "question": "¿Cuál es la función de las células foliculoesteladas (FS)?",
+      "options": [
+        "Producir hormonas directamente",
+        "Proporcionar soporte estructural y secretar factores reguladores de otras células endócrinas",
+        "Almacenar hormonas",
+        "Transportar hormonas hacia los sinusoides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células foliculoesteladas (FS) son células cromófobas que desempeñan un rol importante en el soporte estructural y funcional de la adenohipófisis. Aunque no producen hormonas directamente, secretan factores reguladores que modulan la actividad de otras células endócrinas. Las células FS se distribuyen entre los cordones de células secretoras y tienen prolongaciones que se extienden hacia los sinusoides. Secretan citocinas y factores de crecimiento que afectan la proliferación, diferenciación y función de las células endócrinas. Las FS también tienen un rol importante en la remodelación del tejido conectivo de la glándula. Estas células se asemejan morfológicamente a los astrocitos del sistema nervioso central. La actividad de las células FS puede ser regulada por hormonas y factores neuroendocrinos, permitiendo que la glándula ajuste su función según las demandas fisiológicas."
+    },
+    {
+      "id": 67,
+      "question": "¿Cómo se transportan las hormonas liberadoras del hipotálamo a la adenohipófisis?",
+      "options": [
+        "A través de los nervios simpáticos",
+        "A través del sistema porta hipofisario",
+        "Por difusión directa a través del espacio subaracnoideo",
+        "Por transporte activo a través del líquido cefalorraquídeo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las hormonas liberadoras del hipotálamo se transportan a la adenohipófisis a través del sistema porta hipofisario. Este sistema consiste en capilares especializados que comienzan en el hipotálamo (donde reciben las hormonas liberadoras de los axones hipotalámicos) y descienden a través del tallo hipofisario para terminar en sinusoides de la adenohipófisis. Este sistema de doble capilaridad permite que las hormonas liberadoras lleguen directamente a las células endócrinas de la adenohipófisis sin diluirse en la circulación sistémica. El sistema porta hipofisario es crucial para la regulación neuroendocrina porque permite que el hipotálamo controle la secreción de hormonas hipofisarias mediante la liberación de factores liberadores específicos. La interrupción del tallo hipofisario resulta en la pérdida de control hipotalámico sobre la adenohipófisis, causando cambios en los niveles hormonales."
+    },
+    {
+      "id": 68,
+      "question": "¿Cuál es la composición del sistema porta hipofisario?",
+      "options": [
+        "Arterias que transportan sangre oxigenada",
+        "Venas que transportan sangre desoxigenada",
+        "Un sistema de capilares que comienza en el hipotálamo y termina en sinusoides de la adenohipófisis",
+        "Nervios que transportan impulsos eléctricos"
+      ],
+      "correctIndex": 2,
+      "explanation": "El sistema porta hipofisario es un sistema vascular especializado que consiste en capilares que comienzan en el hipotálamo (donde reciben las hormonas liberadoras) y descienden a través del tallo hipofisario para terminar en sinusoides de la adenohipófisis. Este sistema de doble capilaridad es único en el cuerpo y permite una comunicación directa entre el hipotálamo y la adenohipófisis. Los capilares primarios en el hipotálamo rodean los axones de las neuronas secretoras, permitiendo que las hormonas liberadoras entren en el sistema vascular. Los capilares secundarios en la adenohipófisis son sinusoides fenestrados que permiten que las hormonas liberadoras salgan del vaso y contacten las células endócrinas. Este sistema es esencial para la regulación neuroendocrina porque proporciona una vía directa para que el hipotálamo controle la secreción de hormonas hipofisarias."
+    },
+    {
+      "id": 69,
+      "question": "¿Cuál es la estructura histológica característica de la neurohipófisis?",
+      "options": [
+        "Células endócrinas organizadas en cordones",
+        "Pituicitos y fibras nerviosas amielínicas entre una red fibrilar con capilares",
+        "Folículos secretores",
+        "Glándulas tubulares"
+      ],
+      "correctIndex": 1,
+      "explanation": "La neurohipófisis tiene una estructura histológica característica compuesta por pituicitos (células de soporte) y fibras nerviosas amielínicas que provienen de los axones de las neuronas hipotalámicas. Estas estructuras se distribuyen entre una abundante red fibrilar con capilares. Los pituicitos se asemejan morfológicamente a los astrocitos del sistema nervioso central y tienen un rol de soporte. Las fibras nerviosas amielínicas son los axones de las neuronas magnocelulares del hipotálamo que sintetizan oxitocina y ADH. Estos axones descienden a través del tallo hipofisario y terminan en la neurohipófisis, donde sus terminales almacenan las hormonas en vesículas. Los capilares de la neurohipófisis son fenestrados, permitiendo que las hormonas liberadas desde las terminales nerviosas entren rápidamente en la circulación. Esta estructura refleja la naturaleza neuroendocrina de la neurohipófisis."
+    },
+    {
+      "id": 70,
+      "question": "¿Cuál es la función de los cuerpos de Herring?",
+      "options": [
+        "Producir nuevas hormonas",
+        "Almacenar oxitocina y ADH antes de su liberación",
+        "Regular el flujo sanguíneo en la hipófisis",
+        "Sintetizar neurotransmisores"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los cuerpos de Herring son dilataciones de los axones de las neuronas hipotalámicas que se encuentran en la neurohipófisis. Funcionan como sitios de almacenamiento de oxitocina y ADH (vasopresina) en vesículas secretoras. Estas vesículas contienen las hormonas empaquetadas junto con proteínas transportadoras llamadas neurofisinas. Los cuerpos de Herring representan puntos de acumulación de hormonas antes de su liberación hacia los capilares. Cuando llega un potencial de acción a lo largo del axón, causa la despolarización de la membrana de los cuerpos de Herring, lo que desencadena la exocitosis de las vesículas y la liberación de las hormonas. La cantidad de hormonas almacenadas en los cuerpos de Herring puede variar según el estado fisiológico, siendo mayor en condiciones de estimulación crónica. El daño a los cuerpos de Herring puede resultar en deficiencia de ADH u oxitocina."
+    },
+    {
+      "id": 71,
+      "question": "¿Cuál es la función principal de la ADH (hormona antidiurética)?",
+      "options": [
+        "Estimular la contracción del útero",
+        "Aumentar la presión arterial y aumentar la reabsorción de agua en los riñones",
+        "Estimular la producción de leche",
+        "Estimular el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ADH (hormona antidiurética), también conocida como vasopresina, tiene dos funciones principales. Primero, actúa en los túbulos colectores del riñón, aumentando la permeabilidad del epitelio al agua, lo que resulta en mayor reabsorción de agua y producción de orina más concentrada (efecto antidiurético). Segundo, a concentraciones más altas, causa vasoconstricción de las arteriolas, aumentando la presión arterial (efecto vasopresor). La ADH es regulada por la osmolalidad del plasma: cuando aumenta la osmolalidad (mayor concentración de solutos), se estimula la liberación de ADH para conservar agua. La deficiencia de ADH resulta en diabetes insípida, caracterizada por poliuria (producción excesiva de orina) y polidipsia (sed excesiva). El exceso de ADH puede causar síndrome de secreción inapropiada de ADH (SIADH), resultando en hiponatremia. La ADH es sintetizada en los núcleos supraóptico y paraventricular del hipotálamo."
+    },
+    {
+      "id": 72,
+      "question": "¿Cuál es la función principal de la oxitocina?",
+      "options": [
+        "Aumentar la presión arterial",
+        "Estimular la reabsorción de agua en los riñones",
+        "Desencadenar la contracción del útero grávido y estimular la eyección de leche",
+        "Estimular el crecimiento del organismo"
+      ],
+      "correctIndex": 2,
+      "explanation": "La oxitocina tiene dos funciones principales en la reproducción y lactancia. Primero, desencadena la contracción del útero grávido durante el parto, siendo esencial para la expulsión del feto. Durante el trabajo de parto, la distensión del cuello uterino estimula la liberación de oxitocina en un reflejo neuroendocrino positivo que amplifica las contracciones. Segundo, estimula la contracción de las células mioepiteliales que rodean los alvéolos mamarios, facilitando la eyección de leche durante la lactancia. Este reflejo de eyección de leche se desencadena por la succión del bebé, que estimula los nervios sensoriales del pezón, enviando señales al hipotálamo que resultan en la liberación de oxitocina. La oxitocina también tiene funciones adicionales incluyendo efectos en el comportamiento social y reproductivo. Es sintetizada en los núcleos supraóptico y paraventricular del hipotálamo."
+    },
+    {
+      "id": 73,
+      "question": "¿Cuáles son los núcleos hipotalámicos que producen ADH?",
+      "options": [
+        "Núcleos ventromediales",
+        "Núcleos supraóptico y paraventricular",
+        "Núcleos infundibulares",
+        "Núcleos mamilares"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ADH es sintetizada en dos núcleos hipotalámicos específicos: el núcleo supraóptico y el núcleo paraventricular. Estos núcleos contienen neuronas magnocelulares cuyos axones descienden a través del tallo hipofisario hasta la neurohipófisis. Las neuronas del núcleo supraóptico son especialmente sensibles a cambios en la osmolalidad del plasma, mientras que las del núcleo paraventricular responden a cambios en la presión arterial y el volumen sanguíneo. Ambos núcleos sintetizan ADH (también llamada vasopresina) que se transporta a lo largo de los axones hasta la neurohipófisis, donde se almacena en los cuerpos de Herring. Cuando se estimulan estas neuronas, la ADH se libera hacia la circulación. La lesión de estos núcleos resulta en deficiencia de ADH y diabetes insípida central. La comprensión de la localización de estos núcleos es importante para entender la patofisiología de los trastornos del balance hídrico."
+    },
+    {
+      "id": 74,
+      "question": "¿Cuáles son los núcleos hipotalámicos que producen oxitocina?",
+      "options": [
+        "Núcleos ventromediales",
+        "Núcleos supraóptico y paraventricular",
+        "Núcleos infundibulares",
+        "Núcleos anteriores"
+      ],
+      "correctIndex": 1,
+      "explanation": "La oxitocina es sintetizada en los mismos núcleos que producen ADH: el núcleo supraóptico y el núcleo paraventricular del hipotálamo. Sin embargo, diferentes neuronas dentro de estos núcleos sintetizan oxitocina versus ADH. Las neuronas que producen oxitocina son particularmente sensibles a estímulos mecánicos, como la distensión del útero durante el parto y la succión durante la lactancia. Estos estímulos activan las neuronas oxitocinérgicas a través de reflejos neuroendocrinos, causando la liberación de oxitocina. La oxitocina se transporta a lo largo de los axones hasta la neurohipófisis, donde se almacena en vesículas. Aunque la ADH y la oxitocina se sintetizan en los mismos núcleos, tienen funciones completamente diferentes y se liberan en respuesta a estímulos distintos. La comprensión de la localización de estos núcleos es importante para entender los mecanismos de parto y lactancia."
+    },
+    {
+      "id": 75,
+      "question": "¿Cuál es la relación entre el hipotálamo y la adenohipófisis?",
+      "options": [
+        "El hipotálamo controla la adenohipófisis mediante impulsos nerviosos directos",
+        "El hipotálamo controla la adenohipófisis mediante hormonas liberadoras transportadas por el sistema porta hipofisario",
+        "No hay relación funcional entre el hipotálamo y la adenohipófisis",
+        "La adenohipófisis controla al hipotálamo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo controla la adenohipófisis mediante un sistema neuroendocrino sofisticado. Las neuronas hipotalámicas sintetizan hormonas liberadoras (como TRH, CRH, GnRH, GHRH) que se liberan en los capilares primarios del sistema porta hipofisario. Estas hormonas viajan a través del sistema porta hipofisario hasta la adenohipófisis, donde estimulan las células endócrinas específicas para liberar sus hormonas. Este sistema permite que el hipotálamo, que recibe información del sistema nervioso central y de los órganos periféricos, coordine la función endocrina. La regulación también incluye retroalimentación negativa: las hormonas producidas por las glándulas diana inhiben la liberación de hormonas liberadoras hipotalámicas y hormonas hipofisarias. Este eje hipotálamo-hipófisis-glándula diana es fundamental para mantener la homeostasis. La comprensión de esta relación es crucial para entender cómo el cuerpo coordina respuestas fisiológicas complejas."
+    },
+    {
+      "id": 76,
+      "question": "¿Cuál es la relación entre el hipotálamo y la neurohipófisis?",
+      "options": [
+        "El hipotálamo controla la neurohipófisis mediante hormonas liberadoras",
+        "El hipotálamo tiene conexiones nerviosas directas con la neurohipófisis a través del tallo hipofisario",
+        "No hay relación funcional entre el hipotálamo y la neurohipófisis",
+        "La neurohipófisis controla al hipotálamo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo tiene conexiones nerviosas directas con la neurohipófisis a través del tallo hipofisario. Los axones de las neuronas magnocelulares del hipotálamo descienden a través del tallo hipofisario hasta la neurohipófisis, donde forman terminales nerviosas. Esta conexión directa permite que el hipotálamo controle la liberación de ADH y oxitocina mediante impulsos nerviosos. Cuando el hipotálamo recibe información sobre cambios en la osmolalidad, presión arterial o estímulos mecánicos (como la succión durante la lactancia), puede responder rápidamente liberando estas hormonas. Esta es una diferencia importante entre el control de la adenohipófisis (mediante hormonas liberadoras) y el control de la neurohipófisis (mediante impulsos nerviosos). La naturaleza neural del control de la neurohipófisis explica por qué la liberación de ADH y oxitocina puede ser muy rápida, en contraste con la respuesta más lenta de la adenohipófisis."
+    },
+    {
+      "id": 77,
+      "question": "¿Cuál es el origen embriológico de la adenohipófisis?",
+      "options": [
+        "Neuroectodermo",
+        "Ectodermo bucal (bolsa de Rathke)",
+        "Mesodermo",
+        "Endodermo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La adenohipófisis se origina del ectodermo bucal durante el desarrollo embrionario, específicamente de una estructura llamada bolsa de Rathke. La bolsa de Rathke es una evaginación del techo de la cavidad bucal que crece dorsalmente hacia el hipotálamo. A medida que se desarrolla, la bolsa de Rathke pierde su conexión con la cavidad bucal y se diferencia en la adenohipófisis. Este origen embriológico explica por qué la adenohipófisis es una glándula endocrina verdadera que produce hormonas proteicas, en contraste con la neurohipófisis que se origina del neuroectodermo. Los remanentes de la bolsa de Rathke pueden persistir en algunos individuos, formando quistes de la bolsa de Rathke que pueden causar síntomas si crecen. La comprensión del origen embriológico es importante para entender la patología de los tumores hipofisarios y otras malformaciones congénitas."
+    },
+    {
+      "id": 78,
+      "question": "¿Cuál es el origen embriológico de la neurohipófisis?",
+      "options": [
+        "Ectodermo bucal",
+        "Neuroectodermo (divertículo del piso del tercer ventrículo)",
+        "Mesodermo",
+        "Endodermo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La neurohipófisis se origina del neuroectodermo, específicamente de un divertículo del piso del tercer ventrículo del encéfalo. Este divertículo crece ventralmente hacia la silla turca, formando el tallo hipofisario. A medida que se desarrolla, el divertículo se diferencia en la neurohipófisis, que mantiene su conexión con el hipotálamo a través del tallo hipofisario. Este origen embriológico explica por qué la neurohipófisis tiene una estructura histológica similar a la del sistema nervioso central, con pituicitos (similares a astrocitos) y fibras nerviosas. La neurohipófisis es técnicamente una extensión del sistema nervioso central, no una glándula endocrina verdadera. Esta diferencia en el origen embriológico entre la adenohipófisis y la neurohipófisis explica sus diferencias estructurales y funcionales. La comprensión del desarrollo embriológico es importante para entender las malformaciones congénitas de la hipófisis."
+    },
+    {
+      "id": 79,
+      "question": "¿Cuál es la composición celular aproximada de la adenohipófisis?",
+      "options": [
+        "Acidófilas 50%, basófilas 30%, cromófobas 20%",
+        "Acidófilas 40%, basófilas 10%, cromófobas 50%",
+        "Acidófilas 30%, basófilas 40%, cromófobas 30%",
+        "Acidófilas 20%, basófilas 50%, cromófobas 30%"
+      ],
+      "correctIndex": 1,
+      "explanation": "La composición celular aproximada de la adenohipófisis es: células acidófilas 40%, células basófilas 10% y células cromófobas 50%. Esta proporción puede variar ligeramente según el estado fisiológico del individuo. Las células acidófilas, que incluyen somatotropas y lactotropas, representan la población más pequeña pero funcionalmente muy importante. Las células basófilas, que incluyen gonadotropas, corticotropas y tirotropas, representan una proporción aún menor pero son cruciales para la regulación reproductiva, del estrés y metabólica. Las células cromófobas, que incluyen células foliculoesteladas y células de reserva, representan la población más grande. Durante el embarazo y la lactancia, la proporción de lactotropas aumenta significativamente, lo que puede cambiar la composición general de la glándula. La medición de estas proporciones mediante técnicas histológicas es importante en la evaluación de tumores hipofisarios."
+    },
+    {
+      "id": 80,
+      "question": "¿Cuál es la función de las células de reserva en la adenohipófisis?",
+      "options": [
+        "Producir hormonas directamente",
+        "Actuar como precursoras que pueden diferenciarse en otros tipos celulares según las demandas fisiológicas",
+        "Almacenar hormonas",
+        "Transportar hormonas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células de reserva son células cromófobas que actúan como precursoras capaces de diferenciarse en otros tipos celulares según las demandas fisiológicas de la glándula. Esta plasticidad celular permite que la adenohipófisis ajuste la proporción de diferentes tipos celulares en respuesta a cambios en las demandas hormonales. Por ejemplo, durante el embarazo y la lactancia, las células de reserva pueden diferenciarse en lactotropas para aumentar la producción de prolactina. De manera similar, en respuesta a estrés crónico, pueden diferenciarse en corticotropas para aumentar la producción de ACTH. Las células de reserva también pueden reemplazar células endócrinas que se han agotado por estimulación crónica. La capacidad de diferenciación de las células de reserva es regulada por factores de crecimiento y citocinas secretadas por las células foliculoesteladas. Esta característica de plasticidad celular es importante para la adaptación fisiológica a largo plazo."
+    },
+    {
+      "id": 81,
+      "question": "¿Cuál es la importancia del sistema porta hipofisario en la regulación endocrina?",
+      "options": [
+        "Transporta oxígeno a la hipófisis",
+        "Permite que las hormonas liberadoras del hipotálamo lleguen directamente a la adenohipófisis sin diluirse en la circulación sistémica",
+        "Transporta sangre desoxigenada desde la hipófisis",
+        "Proporciona soporte estructural a la hipófisis"
+      ],
+      "correctIndex": 1,
+      "explanation": "El sistema porta hipofisario es crucial para la regulación endocrina porque permite que las hormonas liberadoras del hipotálamo lleguen directamente a la adenohipófisis sin diluirse significativamente en la circulación sistémica. Este sistema de doble capilaridad es único en el cuerpo y proporciona una vía de comunicación directa entre el hipotálamo y la adenohipófisis. Las concentraciones de hormonas liberadoras en el sistema porta hipofisario son mucho más altas que las que se encontrarían si estas hormonas se diluyeran en la circulación sistémica. Esta alta concentración local es importante para asegurar una respuesta rápida y eficiente de las células endócrinas de la adenohipófisis. La interrupción del sistema porta hipofisario, como ocurre en la lesión del tallo hipofisario, resulta en la pérdida de control hipotalámico sobre la adenohipófisis, causando cambios significativos en los niveles hormonales. La comprensión de la importancia del sistema porta hipofisario es fundamental para entender la patofisiología de los trastornos hipofisarios."
+    },
+    {
+      "id": 82,
+      "question": "¿Cuál es la diferencia entre los mecanismos de regulación de la adenohipófisis y la neurohipófisis?",
+      "options": [
+        "Ambas son controladas por hormonas liberadoras",
+        "Ambas son controladas por impulsos nerviosos",
+        "La adenohipófisis es controlada por hormonas liberadoras, mientras que la neurohipófisis es controlada por impulsos nerviosos",
+        "No hay diferencia en los mecanismos de regulación"
+      ],
+      "correctIndex": 2,
+      "explanation": "La adenohipófisis y la neurohipófisis tienen mecanismos de regulación completamente diferentes que reflejan sus orígenes embriológicos y funciones distintas. La adenohipófisis es controlada por hormonas liberadoras del hipotálamo que se transportan a través del sistema porta hipofisario. Este mecanismo es más lento pero permite una regulación más sofisticada y sostenida. En contraste, la neurohipófisis es controlada por impulsos nerviosos que viajan a lo largo de los axones hipotalámicos hasta la neurohipófisis. Este mecanismo es mucho más rápido, permitiendo respuestas inmediatas a estímulos. Esta diferencia en los mecanismos de regulación explica por qué la liberación de ADH y oxitocina puede ser muy rápida en respuesta a estímulos como cambios en la osmolalidad o la succión durante la lactancia. La comprensión de estas diferencias es importante para entender cómo el cuerpo coordina respuestas fisiológicas rápidas (neurohipófisis) y respuestas más sostenidas (adenohipófisis)."
+    },
+    {
+      "id": 83,
+      "question": "¿Cuál es el efecto de la retroalimentación positiva de la oxitocina durante el parto?",
+      "options": [
+        "Disminuye la liberación de oxitocina",
+        "Amplifica las contracciones uterinas en un ciclo de retroalimentación positiva",
+        "No tiene efecto sobre las contracciones uterinas",
+        "Inhibe la contracción del útero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Durante el parto, la oxitocina exhibe un mecanismo de retroalimentación positiva único. La distensión del cuello uterino por la cabeza del feto estimula los nervios sensoriales que envían señales al hipotálamo. Esto resulta en la liberación de oxitocina, que causa la contracción del útero. Estas contracciones aumentan la distensión del cuello uterino, lo que estimula más liberación de oxitocina, amplificando las contracciones en un ciclo de retroalimentación positiva. Este mecanismo continúa hasta que el feto es expulsado, momento en el cual cesa la distensión del cuello uterino y se interrumpe el ciclo. Este es un ejemplo raro de retroalimentación positiva en el cuerpo, en contraste con los mecanismos más comunes de retroalimentación negativa. El mecanismo de retroalimentación positiva de la oxitocina es importante para asegurar que el parto progrese eficientemente. Los fármacos que imitan la oxitocina (como la pitocina) se utilizan clínicamente para inducir o aumentar las contracciones del parto."
+    },
+    {
+      "id": 84,
+      "question": "¿Cuál es el efecto de la retroalimentación positiva de la oxitocina durante la lactancia?",
+      "options": [
+        "Disminuye la eyección de leche",
+        "Amplifica la eyección de leche en respuesta a la succión",
+        "No tiene efecto sobre la lactancia",
+        "Inhibe la producción de leche"
+      ],
+      "correctIndex": 1,
+      "explanation": "Durante la lactancia, la oxitocina también exhibe un mecanismo de retroalimentación positiva. La succión del bebé estimula los nervios sensoriales del pezón, enviando señales al hipotálamo. Esto resulta en la liberación de oxitocina, que causa la contracción de las células mioepiteliales alrededor de los alvéolos mamarios, facilitando la eyección de leche. La eyección de leche permite que el bebé obtenga más leche, lo que estimula más succión y más liberación de oxitocina, amplificando la eyección de leche en un ciclo de retroalimentación positiva. Este mecanismo es importante para asegurar una lactancia eficiente. El reflejo de eyección de leche puede ser condicionado, de modo que ciertos estímulos (como el llanto del bebé) pueden desencadenar la liberación de oxitocina incluso antes de la succión. El estrés y la ansiedad pueden inhibir este reflejo, reduciendo la eyección de leche. La comprensión de este mecanismo es importante para el asesoramiento sobre lactancia."
+    },
+    {
+      "id": 85,
+      "question": "¿Cuál es el efecto de la prolactina en la glándula mamaria?",
+      "options": [
+        "Estimula la producción de leche",
+        "Inhibe la producción de leche",
+        "No tiene efecto sobre la glándula mamaria",
+        "Estimula la eyección de leche"
+      ],
+      "correctIndex": 0,
+      "explanation": "La prolactina estimula la producción de leche en la glándula mamaria. Esta hormona actúa sobre los alvéolos mamarios, estimulando las células epiteliales para sintetizar y secretar los componentes de la leche (proteínas, grasas y lactosa). La prolactina es sintetizada por las lactotropas de la adenohipófisis y su liberación es estimulada por la succión del bebé. Interesantemente, la regulación de la prolactina es diferente a la de otras hormonas hipofisarias: en lugar de ser estimulada por una hormona liberadora, es inhibida por la dopamina hipotalámica. Durante el embarazo, los niveles de prolactina aumentan en preparación para la lactancia. Después del parto, la succión continua estimula la liberación de prolactina, manteniendo la producción de leche. Si la lactancia cesa, los niveles de prolactina disminuyen rápidamente. Es importante notar que aunque la prolactina estimula la producción de leche, la oxitocina es responsable de la eyección de leche."
+    },
+    {
+      "id": 86,
+      "question": "¿Cuál es el efecto de la hormona de crecimiento (GH) en el crecimiento óseo?",
+      "options": [
+        "Inhibe el crecimiento óseo",
+        "Estimula el crecimiento de los huesos largos",
+        "No tiene efecto sobre el crecimiento óseo",
+        "Estimula la resorción ósea"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona de crecimiento (GH) estimula el crecimiento de los huesos largos, siendo uno de sus efectos más importantes. La GH actúa tanto directamente como indirectamente sobre los huesos. Directamente, estimula la proliferación de las células del cartílago de crecimiento (epífisis), promoviendo la elongación ósea. Indirectamente, estimula el hígado para producir factores de crecimiento similar a la insulina (IGF-1), que también promueven el crecimiento óseo. La deficiencia de GH durante la infancia resulta en enanismo hipofisario, caracterizado por baja estatura. El exceso de GH durante la infancia causa gigantismo, mientras que el exceso en adultos (después del cierre de las epífisis) causa acromegalia, caracterizada por el crecimiento de los huesos del cráneo, manos y pies. La GH también tiene efectos metabólicos importantes, incluyendo la movilización de lípidos y la regulación de la glucosa. La regulación de la GH depende de la hormona liberadora de GH (GHRH) del hipotálamo."
+    },
+    {
+      "id": 87,
+      "question": "¿Cuál es el efecto de la hormona estimulante de la tiroides (TSH) en la glándula tiroides?",
+      "options": [
+        "Inhibe la producción de hormonas tiroideas",
+        "Estimula la producción y secreción de hormonas tiroideas (T3 y T4)",
+        "No tiene efecto sobre la glándula tiroides",
+        "Estimula la resorción del tejido tiroideo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona estimulante de la tiroides (TSH o tirotropina) estimula la glándula tiroides para producir y secretar las hormonas tiroideas (T3 y T4). Estas hormonas son esenciales para el metabolismo, el crecimiento y el desarrollo. La TSH también estimula el crecimiento de la glándula tiroides. La regulación de la TSH depende de la hormona liberadora de tirotropina (TRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-tiroides que regula la producción de TSH mediante retroalimentación negativa: cuando los niveles de hormonas tiroideas aumentan, inhiben la liberación de TRH y TSH. La deficiencia de TSH resulta en hipotiroidismo secundario, caracterizado por baja producción de hormonas tiroideas. El exceso de TSH puede resultar en hipertiroidismo secundario. La medición de TSH es una prueba diagnóstica importante para evaluar la función tiroidea. Los niveles de TSH pueden estar elevados en el hipotiroidismo primario (cuando la tiroides no responde a la TSH) o bajos en el hipertiroidismo primario."
+    },
+    {
+      "id": 88,
+      "question": "¿Cuál es el efecto de la hormona adrenocorticotropa (ACTH) en la corteza suprarrenal?",
+      "options": [
+        "Inhibe la producción de glucocorticoides",
+        "Estimula la producción y secreción de glucocorticoides y andrógenos adrenales",
+        "No tiene efecto sobre la corteza suprarrenal",
+        "Estimula la médula suprarrenal"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona adrenocorticotropa (ACTH) estimula la corteza suprarrenal para producir y secretar glucocorticoides (principalmente cortisol) y andrógenos adrenales. La ACTH es fundamental para la respuesta del cuerpo al estrés, aumentando los niveles de cortisol que preparan el organismo para enfrentar situaciones de emergencia. La regulación de la ACTH depende de la hormona liberadora de corticotropina (CRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-suprarrenal (HPA) que regula la producción de ACTH mediante retroalimentación negativa: cuando los niveles de cortisol aumentan, inhiben la liberación de CRH y ACTH. La deficiencia de ACTH resulta en insuficiencia suprarrenal secundaria, caracterizada por baja producción de glucocorticoides. El exceso de ACTH puede resultar en síndrome de Cushing. La medición de ACTH es importante en el diagnóstico diferencial de los trastornos del cortisol. El eje HPA es crucial para la respuesta fisiológica al estrés y la adaptación a largo plazo."
+    },
+    {
+      "id": 89,
+      "question": "¿Cuál es la diferencia entre la hormona folículo estimulante (FSH) en hombres y mujeres?",
+      "options": [
+        "La FSH tiene la misma función en hombres y mujeres",
+        "En mujeres estimula el desarrollo de folículos ováricos, en hombres estimula la espermatogénesis",
+        "La FSH solo funciona en mujeres",
+        "La FSH solo funciona en hombres"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona folículo estimulante (FSH) tiene funciones diferentes pero análogas en hombres y mujeres. En mujeres, la FSH estimula el desarrollo de los folículos ováricos y la producción de estrógenos. En hombres, la FSH estimula la espermatogénesis (producción de espermatozoides) en los túbulos seminíferos de los testículos. A pesar de estas diferencias funcionales, la FSH es la misma hormona en ambos sexos, producida por las gonadotropas de la adenohipófisis. La regulación de la FSH depende de la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. En mujeres, los niveles de FSH varían cíclicamente durante el ciclo menstrual, con un pico preovulatorio que desencadena la ovulación. En hombres, los niveles de FSH son relativamente constantes. La deficiencia de FSH resulta en infertilidad en ambos sexos. La comprensión de las funciones específicas de la FSH en hombres y mujeres es importante para entender los trastornos reproductivos."
+    },
+    {
+      "id": 90,
+      "question": "¿Cuál es la función de la hormona luteinizante (LH) en mujeres?",
+      "options": [
+        "Estimula la producción de estrógenos",
+        "Desencadena la ovulación y estimula la formación del cuerpo lúteo",
+        "Estimula la producción de leche",
+        "Estimula el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona luteinizante (LH) tiene una función crucial en el ciclo reproductivo femenino. La LH desencadena la ovulación (liberación del óvulo) cuando alcanza concentraciones elevadas en la mitad del ciclo menstrual. Después de la ovulación, la LH estimula la formación del cuerpo lúteo a partir de las células foliculares restantes. El cuerpo lúteo produce progesterona, que es esencial para mantener el embarazo. Si no ocurre la fertilización, los niveles de LH disminuyen, el cuerpo lúteo se degenera (luteólisis) y comienza la menstruación. La regulación de la LH depende de la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. El pico preovulatorio de LH es desencadenado por la retroalimentación positiva de los estrógenos. La deficiencia de LH resulta en anovulación (falta de ovulación) e infertilidad. La comprensión de la función de la LH es importante para entender el ciclo menstrual y los trastornos reproductivos."
+    },
+    {
+      "id": 91,
+      "question": "¿Cuál es la función de la hormona luteinizante (LH) en hombres?",
+      "options": [
+        "Estimula la producción de espermatozoides",
+        "Estimula las células de Leydig para producir testosterona",
+        "Estimula la producción de leche",
+        "Estimula el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "En hombres, la hormona luteinizante (LH) estimula las células de Leydig (células intersticiales) del testículo para producir testosterona. La testosterona es esencial para el desarrollo y mantenimiento de las características sexuales secundarias masculinas, la función sexual y la espermatogénesis. La LH es producida por las gonadotropas de la adenohipófisis y su liberación es estimulada por la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. A diferencia de las mujeres, donde la LH varía cíclicamente, en hombres los niveles de LH son relativamente constantes. La deficiencia de LH en hombres resulta en hipogonadismo, caracterizado por baja producción de testosterona, disfunción sexual e infertilidad. El exceso de LH puede resultar en hipergonadismo. La comprensión de la función de la LH en hombres es importante para entender los trastornos reproductivos masculinos y la endocrinología sexual."
+    },
+    {
+      "id": 92,
+      "question": "¿Cuál es el efecto del cortisol en la respuesta al estrés?",
+      "options": [
+        "Inhibe la respuesta al estrés",
+        "Prepara el organismo para enfrentar situaciones de emergencia aumentando la glucosa disponible y la presión arterial",
+        "No tiene efecto sobre la respuesta al estrés",
+        "Reduce la presión arterial"
+      ],
+      "correctIndex": 1,
+      "explanation": "El cortisol es un glucocorticoide producido por la corteza suprarrenal en respuesta a la estimulación por ACTH. Durante la respuesta al estrés, el cortisol prepara el organismo para enfrentar situaciones de emergencia mediante varios mecanismos. Aumenta la gluconeogénesis en el hígado, elevando los niveles de glucosa en sangre para proporcionar energía. Aumenta la presión arterial mediante la vasoconstricción y el aumento de la resistencia vascular. Suprime el sistema inmunológico y la inflamación, permitiendo que el cuerpo se enfoque en la respuesta al estrés. Moviliza las reservas de energía (lípidos y proteínas). El cortisol también tiene efectos sobre el comportamiento, aumentando la vigilancia y la concentración. La respuesta al estrés es mediada por el eje hipotálamo-hipófisis-suprarrenal (HPA). El cortisol ejerce retroalimentación negativa sobre el hipotálamo e hipófisis, regulando su propia producción. El estrés crónico puede resultar en niveles elevados de cortisol, causando efectos adversos como inmunosupresión, osteoporosis y trastornos metabólicos."
+    },
+    {
+      "id": 93,
+      "question": "¿Cuál es la diferencia entre la hipófisis anterior y posterior en términos de control neural?",
+      "options": [
+        "Ambas son controladas por el mismo mecanismo neural",
+        "La hipófisis anterior es controlada por hormonas liberadoras, la posterior es controlada por impulsos nerviosos directos",
+        "La hipófisis anterior es controlada por impulsos nerviosos, la posterior por hormonas liberadoras",
+        "Ninguna de las dos es controlada por el sistema nervioso"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hipófisis anterior (adenohipófisis) y la hipófisis posterior (neurohipófisis) tienen mecanismos de control neural completamente diferentes. La adenohipófisis es controlada por hormonas liberadoras del hipotálamo que se transportan a través del sistema porta hipofisario. Este mecanismo es neuroendocrino, combinando elementos del sistema nervioso (síntesis de hormonas en neuronas hipotalámicas) con elementos endocrinos (transporte y acción de hormonas). En contraste, la neurohipófisis es controlada por impulsos nerviosos directos que viajan a lo largo de los axones hipotalámicos. Estos impulsos nerviosos causan la despolarización de las terminales nerviosas en la neurohipófisis, desencadenando la exocitosis de vesículas que contienen ADH y oxitocina. Esta diferencia en los mecanismos de control explica por qué la liberación de ADH y oxitocina puede ser muy rápida (segundos a minutos), mientras que la respuesta de la adenohipófisis es más lenta (minutos a horas). La comprensión de estas diferencias es fundamental para entender la fisiología del sistema endócrino."
+    },
+    {
+      "id": 94,
+      "question": "¿Cuál es el efecto de la dopamina hipotalámica en la prolactina?",
+      "options": [
+        "Estimula la liberación de prolactina",
+        "Inhibe la liberación de prolactina",
+        "No tiene efecto sobre la prolactina",
+        "Estimula la síntesis de prolactina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La dopamina hipotalámica inhibe la liberación de prolactina. Este es un mecanismo de regulación único entre las hormonas hipofisarias, ya que la mayoría de las otras hormonas son estimuladas por hormonas liberadoras. La dopamina se transporta a través del sistema porta hipofisario hasta la adenohipófisis, donde actúa sobre los receptores de dopamina en las lactotropas, inhibiendo la liberación de prolactina. Este mecanismo de inhibición tónica explica por qué la prolactina se libera cuando se interrumpe el control hipotalámico (como en la lesión del tallo hipofisario), resultando en hiperprolactinemia. Durante la lactancia, la succión estimula la liberación de prolactina a través de un reflejo neuroendocrino que probablemente implica la inhibición de la dopamina hipotalámica. Los fármacos que bloquean la dopamina (como los antipsicóticos) pueden causar hiperprolactinemia como efecto secundario. Los agonistas de dopamina (como la bromocriptina) se utilizan clínicamente para reducir los niveles de prolactina en condiciones como el prolactinoma."
+    },
+    {
+      "id": 95,
+      "question": "¿Cuál es la importancia de la retroalimentación negativa en la regulación hormonal?",
+      "options": [
+        "Permite que los niveles hormonales aumenten sin límite",
+        "Mantiene los niveles hormonales dentro de rangos fisiológicos óptimos, evitando concentraciones peligrosas",
+        "No tiene importancia en la regulación hormonal",
+        "Causa fluctuaciones extremas en los niveles hormonales"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa es un mecanismo fundamental de regulación hormonal que mantiene los niveles hormonales dentro de rangos fisiológicos óptimos. Cuando los niveles de una hormona aumentan, esta hormona inhibe los estímulos que causaron su liberación, reduciendo así su propia producción. Este mecanismo evita que los niveles hormonales se eleven excesivamente, lo que podría causar desequilibrios metabólicos graves. Por ejemplo, en el eje hipotálamo-hipófisis-tiroides, cuando los niveles de hormonas tiroideas aumentan, inhiben la liberación de TRH y TSH, reduciendo la estimulación de la tiroides. Sin este mecanismo de retroalimentación negativa, los niveles hormonales podrían alcanzar concentraciones peligrosas. La retroalimentación negativa también permite que el cuerpo se adapte a cambios en las demandas fisiológicas, ajustando la producción hormonal según sea necesario. La comprensión de la retroalimentación negativa es crucial para entender la patofisiología de los trastornos endocrinos."
+    },
+    {
+      "id": 96,
+      "question": "¿Cuál es la diferencia entre la retroalimentación negativa y la retroalimentación positiva?",
+      "options": [
+        "No hay diferencia entre ambas",
+        "La retroalimentación negativa inhibe el estímulo original, la positiva lo amplifica",
+        "La retroalimentación positiva es más común que la negativa",
+        "La retroalimentación negativa amplifica el estímulo original"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa y la retroalimentación positiva son mecanismos opuestos de regulación. En la retroalimentación negativa, la respuesta a un estímulo inhibe el estímulo original, reduciendo así la respuesta. Este mecanismo es el más común en el cuerpo y es importante para mantener la homeostasis. En contraste, en la retroalimentación positiva, la respuesta a un estímulo amplifica el estímulo original, aumentando así la respuesta. La retroalimentación positiva es menos común pero es importante en situaciones donde se necesita una respuesta rápida y amplificada. Ejemplos de retroalimentación positiva incluyen la liberación de oxitocina durante el parto y la eyección de leche durante la lactancia. La retroalimentación positiva puede llevar a ciclos de amplificación que eventualmente se detienen cuando se alcanza un punto final (como la expulsión del feto). La comprensión de la diferencia entre estos dos mecanismos es importante para entender cómo el cuerpo regula procesos fisiológicos complejos."
+    },
+    {
+      "id": 97,
+      "question": "¿Cuál es el efecto de la lesión del tallo hipofisario en la producción hormonal?",
+      "options": [
+        "Aumenta la producción de todas las hormonas hipofisarias",
+        "Disminuye la producción de hormonas de la adenohipófisis pero aumenta la de la neurohipófisis",
+        "Disminuye la producción de hormonas de la adenohipófisis, pero la neurohipófisis puede liberar hormonas almacenadas",
+        "No tiene efecto en la producción hormonal"
+      ],
+      "correctIndex": 2,
+      "explanation": "La lesión del tallo hipofisario tiene efectos diferentes en la adenohipófisis y la neurohipófisis. La lesión interrumpe el sistema porta hipofisario, impidiendo que las hormonas liberadoras del hipotálamo lleguen a la adenohipófisis. Esto resulta en una disminución significativa en la producción de hormonas de la adenohipófisis (GH, prolactina, FSH, LH, TSH, ACTH). Sin embargo, la neurohipófisis puede continuar liberando ADH y oxitocina que ya están almacenadas en los cuerpos de Herring. Con el tiempo, los depósitos de ADH y oxitocina se agotan, resultando también en deficiencia de estas hormonas. La lesión del tallo hipofisario puede ocurrir como resultado de traumatismo craneal, cirugía hipofisaria o tumores. Los pacientes con lesión del tallo hipofisario requieren reemplazo hormonal de múltiples hormonas hipofisarias. La comprensión de los efectos de la lesión del tallo hipofisario es importante para el manejo clínico de estos pacientes."
+    },
+    {
+      "id": 98,
+      "question": "¿Cuál es el efecto de la hiperprolactinemia (niveles elevados de prolactina)?",
+      "options": [
+        "Aumenta la producción de leche en hombres",
+        "Causa disfunción sexual, infertilidad y galactorrea (secreción de leche inapropiada)",
+        "No tiene efectos negativos",
+        "Estimula el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hiperprolactinemia (niveles elevados de prolactina) puede causar varios efectos adversos. En mujeres, puede resultar en galactorrea (secreción de leche inapropiada), amenorrea (falta de menstruación) e infertilidad. En hombres, puede causar disfunción eréctil, disminución de la libido e infertilidad. La hiperprolactinemia puede ser causada por un prolactinoma (tumor de lactotropas), medicamentos que bloquean la dopamina (como los antipsicóticos), o hipotiroidismo. El tratamiento de la hiperprolactinemia depende de la causa. Si es causada por un medicamento, puede ser necesario cambiar el medicamento. Si es causada por un prolactinoma, el tratamiento puede incluir agonistas de dopamina (como la bromocriptina) o cirugía. La medición de prolactina es importante en el diagnóstico de la hiperprolactinemia. La comprensión de los efectos de la hiperprolactinemia es importante para el diagnóstico y tratamiento de los trastornos reproductivos."
+    },
+    {
+      "id": 99,
+      "question": "¿Cuál es el efecto de la deficiencia de hormona de crecimiento (GH) en la infancia?",
+      "options": [
+        "Causa gigantismo",
+        "Causa enanismo hipofisario (baja estatura)",
+        "No tiene efecto en el crecimiento",
+        "Causa acromegalia"
+      ],
+      "correctIndex": 1,
+      "explanation": "La deficiencia de hormona de crecimiento (GH) en la infancia causa enanismo hipofisario, caracterizado por baja estatura. Los niños con deficiencia de GH tienen una velocidad de crecimiento reducida y no alcanzan la altura normal para su edad. Además de la baja estatura, pueden tener otras características como cara redonda, depósitos de grasa central y retraso en la maduración ósea. La deficiencia de GH puede ser causada por tumores hipofisarios, daño hipofisario o deficiencia de GHRH. El tratamiento de la deficiencia de GH en la infancia es la terapia de reemplazo con GH recombinante, que puede mejorar significativamente el crecimiento si se inicia temprano. En contraste, el exceso de GH en la infancia causa gigantismo, caracterizado por crecimiento excesivo. La comprensión de los efectos de la deficiencia de GH es importante para el diagnóstico y tratamiento de los trastornos del crecimiento."
+    },
+    {
+      "id": 100,
+      "question": "¿Cuál es el efecto del exceso de hormona de crecimiento (GH) en adultos?",
+      "options": [
+        "Causa gigantismo",
+        "Causa acromegalia, caracterizada por el crecimiento de los huesos del cráneo, manos y pies",
+        "No tiene efecto en los adultos",
+        "Causa enanismo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El exceso de hormona de crecimiento (GH) en adultos causa acromegalia, una condición caracterizada por el crecimiento excesivo de los huesos del cráneo, manos y pies. Esto ocurre porque después del cierre de las epífisis (placas de crecimiento) durante la pubertad, la GH no puede causar el alargamiento de los huesos largos, pero puede estimular el crecimiento óseo en otras áreas. Los pacientes con acromegalia tienen rasgos faciales característicos incluyendo mandíbula prominente, nariz grande y separación de los dientes. También pueden tener agrandamiento de las manos y los pies, y cambios en la voz. La acromegalia es generalmente causada por un tumor productor de GH (somatotropinoma) en la adenohipófisis. El tratamiento de la acromegalia puede incluir cirugía, radioterapia o medicamentos que suprimen la GH. La acromegalia también se asocia con complicaciones como diabetes, hipertensión y enfermedad cardíaca. La comprensión de los efectos del exceso de GH es importante para el diagnóstico y tratamiento de la acromegalia."
+    }
+  ]
+}

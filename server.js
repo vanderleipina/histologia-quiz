@@ -98,6 +98,8 @@ app.post('/api/signup', (req, res) => {
 app.get('/api/themes', (req, res) => {
     res.json({
         themes: [
+            { id: 'endocrino-completo', name: 'Sistema Endócrino Completo', questions: 100 },
+            { id: 'tiroides-paratiroides', name: 'Tiroides y Paratiroides', questions: 100 },
             { id: 'sistema-endocrino', name: 'Sistema Endócrino', questions: 50 },
             { id: 'endocrino-1', name: 'Endocrino 1', questions: 50 },
             { id: 'tiroides', name: 'Tiroides', questions: 50 },

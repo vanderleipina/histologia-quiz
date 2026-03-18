@@ -12,5 +12,12 @@
     "username": "vanderpina",
     "password": "qqq",
     "createdAt": "2026-03-18T14:43:25.039Z"
+  },
+  {
+    "id": 3,
+    "fullName": "Test User",
+    "username": "testuser2",
+    "password": "password123",
+    "createdAt": "2026-03-18T15:34:15.108Z"
   }
 ]

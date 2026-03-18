@@ -17,12 +17,132 @@ class QuizApp {
         ];
         this.themeData = {};
         this.stats = this.loadStats();
+        this.currentStudent = this.loadCurrentStudent();
+        this.students = this.loadStudents();
         this.init();
     }
 
     init() {
+        if (this.currentStudent) {
+            this.renderHome();
+            this.loadThemes();
+        } else {
+            this.renderLogin();
+        }
+    }
+
+    loadStudents() {
+        const saved = localStorage.getItem('students');
+        return saved ? JSON.parse(saved) : [];
+    }
+
+    saveStudents() {
+        localStorage.setItem('students', JSON.stringify(this.students));
+    }
+
+    loadCurrentStudent() {
+        const saved = localStorage.getItem('currentStudent');
+        return saved ? JSON.parse(saved) : null;
+    }
+
+    saveCurrentStudent(student) {
+        this.currentStudent = student;
+        localStorage.setItem('currentStudent', JSON.stringify(student));
+    }
+
+    renderLogin() {
+        const app = document.getElementById('app');
+        app.innerHTML = `
+            <div class="login-container">
+                <div class="login-box">
+                    <h1>Histología Quiz</h1>
+                    <p class="login-subtitle">Ingresa tu nombre para comenzar</p>
+                    
+                    <div class="form-group">
+                        <input type="text" id="studentName" placeholder="Tu nombre completo" class="input-field">
+                    </div>
+                    
+                    <button onclick="app.loginStudent()" class="btn btn-primary btn-large">Ingresar</button>
+                    
+                    <div class="students-list" id="studentsList">
+                        <h3>Estudiantes Registrados</h3>
+                        <div id="studentsContainer"></div>
+                    </div>
+                </div>
+            </div>
+        `;
+        this.renderStudentsList();
+        document.getElementById('studentName').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') this.loginStudent();
+        });
+    }
+
+    renderStudentsList() {
+        const container = document.getElementById('studentsContainer');
+        if (this.students.length === 0) {
+            container.innerHTML = '<p class="no-students">No hay estudiantes registrados aún</p>';
+            return;
+        }
+        container.innerHTML = this.students.map(student => `
+            <div class="student-item" onclick="app.selectStudent('${student.name}')">
+                <div class="student-info">
+                    <strong>${student.name}</strong>
+                    <small>Registrado: ${student.registeredDate}</small>
+                </div>
+                <div class="student-stats">
+                    <span class="stat-badge">${Object.values(student.scores).filter(s => s.bestScore > 0).length} temas</span>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    selectStudent(name) {
+        const student = this.students.find(s => s.name === name);
+        if (student) {
+            this.saveCurrentStudent(student);
+            this.renderHome();
+            this.loadThemes();
+        }
+    }
+
+    loginStudent() {
+        const nameInput = document.getElementById('studentName');
+        const name = nameInput.value.trim();
+        
+        if (!name) {
+            alert('Por favor ingresa tu nombre');
+            return;
+        }
+        
+        let student = this.students.find(s => s.name === name);
+        
+        if (!student) {
+            student = {
+                id: this.students.length + 1,
+                name: name,
+                registeredDate: new Date().toISOString().split('T')[0],
+                scores: {}
+            };
+            this.themes.forEach(theme => {
+                student.scores[theme] = {
+                    bestScore: 0,
+                    attempts: 0,
+                    lastAttempt: null
+                };
+            });
+            this.students.push(student);
+            this.saveStudents();
+        }
+        
+        this.saveCurrentStudent(student);
         this.renderHome();
         this.loadThemes();
+    }
+
+    logoutStudent() {
+        this.currentStudent = null;
+        localStorage.removeItem('currentStudent');
+        this.renderLogin();
     }
 
     loadStats() {
@@ -285,7 +405,12 @@ class QuizApp {
             <div class="quiz-page" style="display: block;">
                 <div class="container">
                     <div class="quiz-header">
-                        <h1>${themeName}</h1>
+                        <div class="header-top">
+                            <h1>${themeName}</h1>
+                            <button class="btn-home" onclick="app.goHome()">
+                                <span>🏠</span> Inicio
+                            </button>
+                        </div>
                         <p>Prueba de múltipla opción</p>
                     </div>
 
@@ -309,9 +434,6 @@ class QuizApp {
 
                     <div class="quiz-actions">
                         ${actionButtonHTML}
-                        <button class="btn-home" onclick="app.goHome()">
-                            <span>🏠</span> Inicio
-                        </button>
                     </div>
                 </div>
             </div>

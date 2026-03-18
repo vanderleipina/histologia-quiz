@@ -1,0 +1,80 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Juan García",
+      "email": "juan@example.com",
+      "registeredDate": "2026-03-18",
+      "scores": {
+        "sistema-endocrino": {
+          "bestScore": 45,
+          "attempts": 3,
+          "lastAttempt": "2026-03-18"
+        },
+        "endocrino-1": {
+          "bestScore": 38,
+          "attempts": 2,
+          "lastAttempt": "2026-03-17"
+        },
+        "tiroides": {
+          "bestScore": 48,
+          "attempts": 1,
+          "lastAttempt": "2026-03-18"
+        },
+        "paratiroides": {
+          "bestScore": 0,
+          "attempts": 0,
+          "lastAttempt": null
+        },
+        "suprarrenal": {
+          "bestScore": 0,
+          "attempts": 0,
+          "lastAttempt": null
+        },
+        "sistema-tegumentario": {
+          "bestScore": 0,
+          "attempts": 0,
+          "lastAttempt": null
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "María López",
+      "email": "maria@example.com",
+      "registeredDate": "2026-03-15",
+      "scores": {
+        "sistema-endocrino": {
+          "bestScore": 50,
+          "attempts": 2,
+          "lastAttempt": "2026-03-18"
+        },
+        "endocrino-1": {
+          "bestScore": 42,
+          "attempts": 1,
+          "lastAttempt": "2026-03-18"
+        },
+        "tiroides": {
+          "bestScore": 0,
+          "attempts": 0,
+          "lastAttempt": null
+        },
+        "paratiroides": {
+          "bestScore": 0,
+          "attempts": 0,
+          "lastAttempt": null
+        },
+        "suprarrenal": {
+          "bestScore": 0,
+          "attempts": 0,
+          "lastAttempt": null
+        },
+        "sistema-tegumentario": {
+          "bestScore": 0,
+          "attempts": 0,
+          "lastAttempt": null
+        }
+      }
+    }
+  ]
+}

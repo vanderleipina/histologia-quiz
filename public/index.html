@@ -438,12 +438,14 @@
                 <div id="explanationText"></div>
             </div>
 
-            <div class="button-group">
-                <button id="submitBtn" onclick="submitAnswer()">Responder</button>
-                <button id="skipBtn" onclick="skipQuestion()" style="background: #999;">Pular</button>
+            <div class="button-group" id="answerButtonGroup">
+                <button id="submitBtn" onclick="submitAnswer()" style="width: 100%;">Responder</button>
+                <button id="skipBtn" onclick="skipQuestion()" style="width: 100%; background: #999;">Pular</button>
             </div>
 
-            <button id="nextBtn" onclick="nextQuestion()" class="hidden" style="margin-top: 20px; background: #28a745;">Siguiente Pregunta</button>
+            <div class="button-group" id="nextButtonGroup" class="hidden" style="display: none;">
+                <button id="nextBtn" onclick="nextQuestion()" style="width: 100%; background: #28a745; grid-column: 1 / -1;">Siguiente Pregunta</button>
+            </div>
         </div>
 
         <!-- Results Screen -->
@@ -650,10 +652,10 @@
             document.getElementById('explanation').classList.remove('show');
             document.getElementById('quizError').classList.remove('show');
             document.getElementById('submitBtn').disabled = false;
-            document.getElementById('submitBtn').classList.remove('hidden');
-            document.getElementById('nextBtn').classList.add('hidden');
             document.getElementById('submitBtn').textContent = 'Responder';
             document.getElementById('skipBtn').disabled = false;
+            document.getElementById('answerButtonGroup').style.display = 'grid';
+            document.getElementById('nextButtonGroup').style.display = 'none';
             selectedAnswer = null;
             answered = false;
             
@@ -699,8 +701,8 @@
             answeredCount++;
             document.getElementById('submitBtn').disabled = true;
             document.getElementById('skipBtn').disabled = true;
-            document.getElementById('submitBtn').classList.add('hidden');
-            document.getElementById('nextBtn').classList.remove('hidden');
+            document.getElementById('answerButtonGroup').style.display = 'none';
+            document.getElementById('nextButtonGroup').style.display = 'grid';
         }
 
         // Next question

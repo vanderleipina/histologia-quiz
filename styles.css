@@ -366,6 +366,11 @@ body {
     gap: 12px;
 }
 
+.button-group {
+    display: flex;
+    gap: 12px;
+}
+
 .btn-submit {
     flex: 1;
     padding: 14px;
@@ -386,6 +391,23 @@ body {
 .btn-submit:disabled {
     background: #ccc;
     cursor: not-allowed;
+}
+
+.btn-skip {
+    flex: 1;
+    padding: 14px;
+    background: #ff9800;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.3s;
+}
+
+.btn-skip:hover {
+    background: #e68900;
 }
 
 .btn-next {

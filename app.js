@@ -385,9 +385,14 @@ class QuizApp {
         let actionButtonHTML = '';
         if (!this.answered) {
             actionButtonHTML = `
-                <button class="btn-submit" onclick="app.submitAnswer()" ${this.selectedAnswer === null ? 'disabled' : ''}>
-                    Responder
-                </button>
+                <div class="button-group">
+                    <button class="btn-submit" onclick="app.submitAnswer()" ${this.selectedAnswer === null ? 'disabled' : ''}>
+                        Responder
+                    </button>
+                    <button class="btn-skip" onclick="app.skipQuestion()">
+                        Pular
+                    </button>
+                </div>
             `;
         } else {
             const isLastQuestion = this.currentQuestion === this.questions.length - 1;
@@ -462,6 +467,19 @@ class QuizApp {
     }
 
     nextQuestion() {
+        this.currentQuestion++;
+        this.selectedAnswer = null;
+        this.answered = false;
+
+        if (this.currentQuestion >= this.questions.length) {
+            this.saveQuizStats();
+            this.renderResults();
+        } else {
+            this.renderQuiz();
+        }
+    }
+
+    skipQuestion() {
         this.currentQuestion++;
         this.selectedAnswer = null;
         this.answered = false;

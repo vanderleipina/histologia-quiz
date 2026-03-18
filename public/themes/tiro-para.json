@@ -7,36 +7,36 @@
       "id": 1,
       "question": "¿Cuál es la ubicación anatómica exacta de la glándula tiroides?",
       "options": [
-        "En la región anterior del cuello, delante de la laringe y la tráquea",
-        "En la región posterior del cuello, detrás de los músculos esternocleidomastoideos",
+        "En la región superior del tórax, dentro de la cavidad mediastínica",
         "En la región lateral del cuello, junto a las glándulas parótidas",
-        "En la región superior del tórax, dentro de la cavidad mediastínica"
+        "En la región anterior del cuello, delante de la laringe y la tráquea",
+        "En la región posterior del cuello, detrás de los músculos esternocleidomastoideos"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "La glándula tiroides se localiza en la región anterior del cuello, específicamente delante de la laringe y la tráquea, entre los anillos traqueales segundo y sexto aproximadamente. Esta ubicación es fundamental para su función en la regulación del metabolismo, ya que permite una estrecha relación con las estructuras del cuello. La glándula está cubierta por la fascia cervical y se divide en dos lóbulos laterales unidos por un istmo central. Su posición anterior la hace palpable durante el examen físico, permitiendo detectar cambios de tamaño o textura que puedan indicar patología tiroidea."
     },
     {
       "id": 2,
       "question": "¿Cuál es el peso aproximado de la glándula tiroides en un adulto sano?",
       "options": [
+        "100-120 gramos",
         "10-15 gramos",
-        "25-30 gramos",
         "50-60 gramos",
-        "100-120 gramos"
+        "25-30 gramos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La glándula tiroides de un adulto sano pesa aproximadamente 25-30 gramos, aunque puede variar entre 15-35 gramos dependiendo del sexo, edad y estado nutricional del individuo. Este peso es importante desde el punto de vista clínico, ya que un aumento significativo (bocio) puede indicar patología tiroidea. Las dimensiones típicas son de 5 x 2.5 cm en cada lóbulo. El peso de la glándula está directamente relacionado con su capacidad funcional y su contenido de hormonas tiroideas. Cambios en el peso pueden reflejar alteraciones en la función tiroidea o procesos inflamatorios."
     },
     {
       "id": 3,
       "question": "¿Cuál es la estructura histológica fundamental de la glándula tiroides?",
       "options": [
-        "Acinos secretores rodeados de células mioepiteliales",
-        "Folículos tiroideos compuestos por epitelio folicular y coloide",
         "Túbulos secretores ramificados con células basales",
-        "Cordones celulares sin estructura folicular definida"
+        "Cordones celulares sin estructura folicular definida",
+        "Folículos tiroideos compuestos por epitelio folicular y coloide",
+        "Acinos secretores rodeados de células mioepiteliales"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La estructura histológica fundamental de la glándula tiroides es el folículo tiroideo, que consiste en una capa de epitelio folicular que rodea una cavidad central llena de coloide. El coloide es una sustancia gelatinosa que contiene tiroglobulina, la proteína precursora de las hormonas tiroideas T3 y T4. Cada folículo tiene un diámetro de 0.2 a 1 mm y representa la unidad estructural y funcional de la glándula. El epitelio folicular está compuesto por células cúbicas o cilíndricas bajas que secretan continuamente hormonas hacia el coloide. Estos folículos pueden almacenar varias semanas de producción hormonal dentro del coloide, lo que permite una regulación hormonal estable."
     },
     {
@@ -56,11 +56,11 @@
       "question": "¿Qué es el coloide tiroideo y cuál es su función principal?",
       "options": [
         "Un líquido seroso que rodea los folículos tiroideos",
+        "Una sustancia mucosa producida por células parafoliculares",
         "Una sustancia gelatinosa que contiene tiroglobulina y productos de secreción hormonal",
-        "Un material de soporte conectivo entre los folículos",
-        "Una sustancia mucosa producida por células parafoliculares"
+        "Un material de soporte conectivo entre los folículos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El coloide es una sustancia gelatinosa que llena la luz central de los folículos tiroideos y contiene principalmente tiroglobulina, la proteína precursora de las hormonas tiroideas. El coloide actúa como un depósito de almacenamiento de hormonas, permitiendo que la glándula mantenga reservas suficientes para varias semanas de producción hormonal. Esta función de almacenamiento es única entre las glándulas endocrinas y proporciona una regulación hormonal más estable. El coloide también contiene productos de degradación de tiroglobulina, enzimas proteolíticas y peroxidasa tiroidea. La composición del coloide varía según el estado funcional de la glándula: en glándulas activas es más fluido y en glándulas inactivas es más denso y eosinófilo."
     },
     {
@@ -69,8 +69,8 @@
       "options": [
         "Células grandes que rodean los folículos y secretan calcitonina",
         "Células pequeñas ubicadas dentro de la lámina basal que secretan calcitonina",
-        "Células del tejido conectivo que secretan hormona paratiroidea",
-        "Células neuroendocrinas que secretan somatostatina"
+        "Células neuroendocrinas que secretan somatostatina",
+        "Células del tejido conectivo que secretan hormona paratiroidea"
       ],
       "correctIndex": 1,
       "explanation": "Las células parafoliculares, también conocidas como células C, son células neuroendocrinas especializadas ubicadas dentro de la lámina basal de los folículos tiroideos pero no expuestas directamente a la luz folicular. Estas células secretan calcitonina, una hormona peptídica que regula los niveles de calcio sérico mediante la inhibición de la resorción ósea y la promoción de la excreción renal de calcio. Las células parafoliculares tienen un citoplasma pálido o claro, un núcleo esférico pequeño y son difíciles de visualizar con microscopía óptica convencional. Histoquímicamente, pueden demostrarse mediante técnicas de inmunohistoquímica específicas para calcitonina. Estas células tienen origen en la cresta neural, a diferencia de las células foliculares que derivan del endodermo faríngeo."
@@ -79,106 +79,106 @@
       "id": 7,
       "question": "¿Cuál es el diámetro aproximado de los folículos tiroideos?",
       "options": [
+        "10 a 20 mm",
         "0.05 a 0.1 mm",
-        "0.2 a 1 mm",
         "2 a 5 mm",
-        "10 a 20 mm"
+        "0.2 a 1 mm"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Los folículos tiroideos tienen un diámetro que varía entre 0.2 a 1 mm, aunque pueden alcanzar tamaños mayores en ciertas condiciones patológicas. Este tamaño es importante desde el punto de vista histológico, ya que permite que toda la estructura folicular sea visible en una sección histológica convencional. El diámetro del folículo está relacionado con su estado funcional: los folículos activos tienden a ser más pequeños con epitelio más alto y coloide menos denso, mientras que los folículos inactivos son más grandes con epitelio bajo y coloide más denso y eosinófilo. La variación en el tamaño de los folículos es una característica normal de la glándula tiroides y refleja diferentes estados funcionales en diferentes regiones de la glándula."
     },
     {
       "id": 8,
       "question": "¿Cuántas semanas de producción hormonal puede almacenar un folículo tiroideo?",
       "options": [
-        "1-2 semanas",
-        "2-3 semanas",
         "Varias semanas",
-        "Varios meses"
+        "1-2 semanas",
+        "Varios meses",
+        "2-3 semanas"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Cada folículo tiroideo puede almacenar varias semanas de producción hormonal dentro del coloide, lo que representa una característica única entre las glándulas endocrinas. Esta capacidad de almacenamiento proporciona una regulación hormonal muy estable y permite que la glándula mantenga niveles hormonales relativamente constantes incluso si la síntesis se reduce temporalmente. Esta función de almacenamiento es clínicamente importante, ya que explica por qué los síntomas de hipotiroidismo no aparecen inmediatamente después de una tiroidectomía, sino que se desarrollan gradualmente. Asimismo, en casos de hipertiroidismo, puede tomar varias semanas para que los niveles hormonales se normalicen después del inicio del tratamiento con drogas antitiroides."
     },
     {
       "id": 9,
       "question": "¿Cuál es la composición histológica del epitelio folicular tiroideo?",
       "options": [
-        "Epitelio cilíndrico simple estratificado",
-        "Epitelio cúbico o cilíndrico bajo simple",
         "Epitelio escamoso simple",
-        "Epitelio pseudoestratificado cilíndrico"
+        "Epitelio pseudoestratificado cilíndrico",
+        "Epitelio cúbico o cilíndrico bajo simple",
+        "Epitelio cilíndrico simple estratificado"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El epitelio folicular tiroideo está compuesto por una capa simple de células cúbicas o cilíndricas bajas, lo que lo clasifica como epitelio cúbico o cilíndrico bajo simple. Este tipo de epitelio es característico de órganos secretores. Las células del epitelio folicular presentan una polaridad clara, con una superficie basal en contacto con la lámina basal y una superficie apical con microvellosidades que se proyectan hacia el coloide. El espesor del epitelio varía según el estado funcional de la glándula: en glándulas activas, el epitelio es más alto (cilíndrico bajo a cilíndrico), mientras que en glándulas inactivas, el epitelio es más bajo (cúbico bajo). Esta variación en la altura del epitelio es un indicador importante del estado funcional de la glándula."
     },
     {
       "id": 10,
       "question": "¿Cuáles son las características ultraestructurales de las células foliculares activas?",
       "options": [
-        "Escaso retículo endoplásmico rugoso y pocas mitocondrias",
-        "Abundante retículo endoplásmico rugoso, numerosas mitocondrias y aparato de Golgi bien desarrollado",
         "Numerosas vacuolas lipídicas y escasas vesículas de secreción",
-        "Núcleo periférico y citoplasma con inclusiones cristalinas"
+        "Escaso retículo endoplásmico rugoso y pocas mitocondrias",
+        "Núcleo periférico y citoplasma con inclusiones cristalinas",
+        "Abundante retículo endoplásmico rugoso, numerosas mitocondrias y aparato de Golgi bien desarrollado"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Las células foliculares tiroideas activas presentan características ultraestructurales que reflejan su alto nivel de actividad secretora. Poseen un abundante retículo endoplásmico rugoso (RER) para la síntesis de proteínas, numerosas mitocondrias que proporcionan la energía (ATP) necesaria para la síntesis y secreción, y un aparato de Golgi bien desarrollado para el procesamiento y empaquetamiento de las proteínas secretadas. También presentan numerosas vesículas de secreción que transportan las proteínas hacia la membrana apical para su liberación hacia el coloide. El núcleo es grande y eucromático, indicando una alta actividad transcripcional. Estas características ultraestructurales son más evidentes en glándulas activas o estimuladas por TSH, mientras que en glándulas inactivas estas organelas están menos desarrolladas."
     },
     {
       "id": 11,
       "question": "¿Cuál es la estructura de la lámina basal que rodea los folículos tiroideos?",
       "options": [
-        "Una membrana simple sin componentes específicos",
-        "Una estructura compleja compuesta por colágeno tipo IV, laminina y proteoglicanos",
         "Una capa de células mioepiteliales",
-        "Una membrana de fosfolípidos sin proteínas"
+        "Una membrana simple sin componentes específicos",
+        "Una membrana de fosfolípidos sin proteínas",
+        "Una estructura compleja compuesta por colágeno tipo IV, laminina y proteoglicanos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La lámina basal que rodea los folículos tiroideos es una estructura compleja compuesta principalmente por colágeno tipo IV, laminina, nidógeno y proteoglicanos. Esta lámina basal separa el epitelio folicular del tejido conectivo intersticial y proporciona soporte estructural al epitelio. Además de su función estructural, la lámina basal también participa en la regulación de la interacción célula-matriz y en la migración celular durante procesos de reparación y regeneración. La integridad de la lámina basal es importante para mantener la arquitectura normal del folículo y puede verse comprometida en procesos patológicos como la tiroiditis autoinmune. Las células parafoliculares se ubican dentro de la lámina basal pero no están expuestas a la luz folicular, lo que refleja su diferente origen embrionario."
     },
     {
       "id": 12,
       "question": "¿Cuáles son las microvellosidades apicales de las células foliculares y cuál es su función?",
       "options": [
-        "Estructuras para la absorción de nutrientes del coloide",
         "Proyecciones que aumentan el área de contacto con el coloide para la reabsorción de hormonas",
         "Estructuras para la motilidad celular",
-        "Proyecciones para la adhesión intercelular"
+        "Proyecciones para la adhesión intercelular",
+        "Estructuras para la absorción de nutrientes del coloide"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las microvellosidades apicales de las células foliculares son proyecciones de la membrana plasmática que aumentan significativamente el área de contacto entre la célula y el coloide. Estas microvellosidades son particularmente importantes para la reabsorción de hormonas tiroideas del coloide durante el proceso de liberación hormonal. Cuando la glándula necesita liberar hormonas, las células foliculares reabsorben el coloide mediante endocitosis, y las microvellosidades facilitan este proceso al aumentar el área disponible para la captura de gotitas de coloide. Además, las microvellosidades también participan en la secreción de productos hacia el coloide. El número y tamaño de las microvellosidades aumenta cuando la glándula está activa y disminuye cuando está inactiva, reflejando el estado funcional de la célula."
     },
     {
       "id": 13,
       "question": "¿Cuál es el papel del núcleo esférico en las células foliculares tiroideas?",
       "options": [
-        "Almacenar depósitos de calcio",
         "Contener el material genético y dirigir la síntesis de proteínas tiroideas",
-        "Almacenar hormonas tiroideas",
-        "Producir enzimas digestivas"
+        "Producir enzimas digestivas",
+        "Almacenar depósitos de calcio",
+        "Almacenar hormonas tiroideas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El núcleo esférico de las células foliculares tiroideas contiene el material genético (ADN) y dirige la síntesis de todas las proteínas necesarias para la función tiroidea, incluyendo la tiroglobulina, peroxidasa tiroidea y otras enzimas involucradas en la síntesis hormonal. El núcleo es típicamente eucromático, indicando una alta actividad transcripcional, especialmente cuando la glándula está estimulada por TSH (hormona estimulante de la tiroides). El nucléolo es prominente, reflejando la síntesis activa de ARN ribosómico necesario para la producción de ribosomas. La posición central del núcleo es característica de las células secretoras activas. En glándulas inactivas, el núcleo puede aparecer más heterocromático y el nucléolo menos prominente, reflejando una menor actividad transcripcional."
     },
     {
       "id": 14,
       "question": "¿Cuáles son las principales hormonas producidas por la glándula tiroides?",
       "options": [
-        "Insulina y glucagón",
         "T3 (triyodotironina) y T4 (tiroxina)",
         "Cortisol y aldosterona",
-        "Hormona de crecimiento y prolactina"
+        "Hormona de crecimiento y prolactina",
+        "Insulina y glucagón"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las principales hormonas producidas por la glándula tiroides son T3 (triyodotironina) y T4 (tiroxina), ambas sintetizadas por las células foliculares a partir de la tiroglobulina. T4 es la forma de almacenamiento y transporte de la hormona tiroidea, mientras que T3 es la forma más activa biológicamente. Ambas hormonas contienen átomos de yodo, que es un elemento esencial para su síntesis y función. Estas hormonas regulan el metabolismo basal, la termogénesis, el crecimiento y el desarrollo. Además, la glándula también produce calcitonina a partir de las células parafoliculares, que regula los niveles de calcio sérico. La síntesis y liberación de T3 y T4 están reguladas por TSH (hormona estimulante de la tiroides) de la hipófisis anterior, en un sistema de retroalimentación negativa."
     },
     {
       "id": 15,
       "question": "¿Cómo se distribuyen los folículos tiroideos dentro de la glándula?",
       "options": [
-        "En una sola capa bajo la cápsula",
+        "Solo en los lóbulos laterales",
         "Distribuidos uniformemente en todo el parénquima glandular",
-        "Principalmente en el istmo",
-        "Solo en los lóbulos laterales"
+        "En una sola capa bajo la cápsula",
+        "Principalmente en el istmo"
       ],
       "correctIndex": 1,
       "explanation": "Los folículos tiroideos se distribuyen uniformemente en todo el parénquima glandular, tanto en los lóbulos laterales como en el istmo. Esta distribución uniforme permite que toda la glándula participe en la síntesis y almacenamiento de hormonas tiroideas. Sin embargo, la distribución no es completamente homogénea, y pueden observarse variaciones en el tamaño y densidad de los folículos en diferentes regiones de la glándula, reflejando diferentes estados funcionales. El tejido conectivo intersticial que rodea los folículos contiene vasos sanguíneos y linfáticos, así como células del sistema inmunológico, que son importantes para la nutrición de la glándula y para la regulación de su función. La arquitectura folicular es importante para mantener la función normal de la glándula, y las alteraciones en esta arquitectura pueden indicar patología tiroidea."
@@ -187,12 +187,12 @@
       "id": 16,
       "question": "¿Cuál es la composición del tejido conectivo intersticial de la glándula tiroides?",
       "options": [
-        "Solo fibras colágenas sin células",
         "Fibras colágenas, vasos sanguíneos, vasos linfáticos y células del sistema inmunológico",
+        "Solo células de soporte sin matriz extracelular",
         "Principalmente adipocitos",
-        "Solo células de soporte sin matriz extracelular"
+        "Solo fibras colágenas sin células"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El tejido conectivo intersticial de la glándula tiroides está compuesto por fibras colágenas (principalmente colágeno tipo I y III), vasos sanguíneos de calibre variable (arteriolas, capilares y vénulas), vasos linfáticos y diversas células del sistema inmunológico incluyendo linfocitos, macrófagos y células dendríticas. Este tejido conectivo proporciona soporte estructural a los folículos y facilita el intercambio de nutrientes y oxígeno entre la sangre y las células foliculares. Los vasos sanguíneos son particularmente abundantes alrededor de los folículos, formando una red capilar que permite una estrecha relación entre la circulación y las células secretoras. Los vasos linfáticos drenan el exceso de líquido intersticial y participan en la respuesta inmunológica local. Las células del sistema inmunológico son importantes para la defensa contra infecciones y para la regulación de la respuesta autoinmune."
     },
     {
@@ -200,23 +200,23 @@
       "question": "¿Cuál es la función de la cápsula fibrosa que rodea la glándula tiroides?",
       "options": [
         "Producir hormonas tiroideas",
+        "Filtrar la sangre",
         "Proporcionar soporte estructural y protección a la glándula",
-        "Almacenar hormonas tiroideas",
-        "Filtrar la sangre"
+        "Almacenar hormonas tiroideas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La cápsula fibrosa que rodea la glándula tiroides proporciona soporte estructural y protección a la glándula, mantiene su forma y facilita su movilidad durante la deglución. La cápsula está compuesta principalmente por fibras colágenas y fibras elásticas, lo que le proporciona resistencia y elasticidad. Además de su función mecánica, la cápsula también actúa como una barrera que limita la propagación de infecciones o procesos inflamatorios. La cápsula está íntimamente relacionada con la fascia cervical, que proporciona soporte adicional y facilita la movilidad de la glándula. La delgadez de la cápsula tiroidea permite que la glándula se expanda cuando aumenta de tamaño (bocio), pero también la hace vulnerable a la infiltración de procesos patológicos. La cápsula contiene vasos sanguíneos y nervios que penetran en la glándula para nutrirla e inervarla."
     },
     {
       "id": 18,
       "question": "¿Cuál es la diferencia entre los lóbulos laterales y el istmo de la glándula tiroides?",
       "options": [
-        "Los lóbulos laterales producen T3 y el istmo produce T4",
-        "Los lóbulos laterales son más grandes y el istmo es una estructura de conexión entre ellos",
         "El istmo produce calcitonina y los lóbulos laterales producen hormonas tiroideas",
-        "No hay diferencias funcionales"
+        "No hay diferencias funcionales",
+        "Los lóbulos laterales producen T3 y el istmo produce T4",
+        "Los lóbulos laterales son más grandes y el istmo es una estructura de conexión entre ellos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La glándula tiroides está compuesta por dos lóbulos laterales unidos por una estructura de conexión llamada istmo. Los lóbulos laterales son las estructuras principales de la glándula y contienen la mayoría de los folículos tiroideos. El istmo es una banda delgada de tejido tiroideo que conecta los dos lóbulos laterales en la línea media, generalmente ubicada a nivel del segundo y tercer anillo traqueal. Aunque el istmo es más pequeño que los lóbulos laterales, contiene folículos tiroideos funcionales. Ocasionalmente, puede haber un lóbulo piramidal que se extiende desde el istmo hacia arriba. Funcionalmente, no hay diferencias significativas entre los lóbulos laterales y el istmo en términos de síntesis y secreción de hormonas, aunque el istmo puede ser más accesible para la palpación durante el examen físico."
     },
     {
@@ -224,11 +224,11 @@
       "question": "¿Cuál es la relación entre la glándula tiroides y el metabolismo basal?",
       "options": [
         "La tiroides no tiene relación con el metabolismo basal",
-        "Las hormonas tiroideas aumentan el metabolismo basal y la termogénesis",
         "Las hormonas tiroideas disminuyen el metabolismo basal",
+        "Las hormonas tiroideas aumentan el metabolismo basal y la termogénesis",
         "La tiroides solo regula el metabolismo del calcio"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Las hormonas tiroideas T3 y T4 son reguladores principales del metabolismo basal del cuerpo. Estas hormonas aumentan el metabolismo basal al aumentar la tasa de consumo de oxígeno y la producción de calor (termogénesis) en prácticamente todos los tejidos del cuerpo. Las hormonas tiroideas actúan a nivel celular, aumentando la actividad de la bomba Na+/K+-ATPasa y estimulando la síntesis de proteínas y el catabolismo de carbohidratos y lípidos. Un aumento en los niveles de hormonas tiroideas (hipertiroidismo) resulta en un aumento del metabolismo basal, pérdida de peso y aumento de la producción de calor. Por el contrario, una disminución en los niveles de hormonas tiroideas (hipotiroidismo) resulta en una disminución del metabolismo basal, ganancia de peso y disminución de la producción de calor. Esta relación es fundamental para mantener la homeostasis energética del cuerpo."
     },
     {
@@ -259,12 +259,12 @@
       "id": 22,
       "question": "¿Cuál es la diferencia histológica entre una glándula tiroides activa e inactiva?",
       "options": [
+        "La glándula activa tiene más células parafoliculares",
         "No hay diferencias histológicas significativas",
         "La glándula activa tiene epitelio más alto, coloide menos denso y mayor actividad celular; la inactiva tiene epitelio bajo, coloide denso y menor actividad celular",
-        "La glándula inactiva tiene más folículos",
-        "La glándula activa tiene más células parafoliculares"
+        "La glándula inactiva tiene más folículos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Existen diferencias histológicas significativas entre una glándula tiroides activa e inactiva. Una glándula activa (estimulada por TSH) presenta folículos más pequeños con epitelio cilíndrico bajo o cilíndrico alto, coloide menos denso y más claro, y células foliculares con citoplasma basófilo intenso indicando síntesis activa de proteínas. Una glándula inactiva presenta folículos más grandes con epitelio cúbico bajo, coloide más denso y eosinófilo, y células foliculares con citoplasma menos basófilo. En la glándula activa, hay más microvellosidades apicales, más mitocondrias y un aparato de Golgi más desarrollado. El núcleo en la glándula activa es más eucromático con un nucléolo prominente, mientras que en la glándula inactiva es más heterocromático con un nucléolo menos evidente. Estos cambios reflejan el estado funcional de la glándula y pueden ser utilizados para evaluar la actividad tiroidea histológicamente."
     },
     {
@@ -272,143 +272,143 @@
       "question": "¿Cuál es el proceso de síntesis y liberación de hormonas tiroideas?",
       "options": [
         "Las hormonas se sintetizan directamente en el coloide",
-        "Las hormonas se sintetizan en las células foliculares como tiroglobulina, se secretan al coloide, se reabsorben y se liberan a la sangre",
         "Las hormonas se almacenan directamente en las mitocondrias",
-        "Las hormonas se sintetizan en el núcleo"
+        "Las hormonas se sintetizan en el núcleo",
+        "Las hormonas se sintetizan en las células foliculares como tiroglobulina, se secretan al coloide, se reabsorben y se liberan a la sangre"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "El proceso de síntesis y liberación de hormonas tiroideas es complejo e involucra varios pasos. Las células foliculares sintetizan tiroglobulina en el retículo endoplásmico rugoso, que es procesada en el aparato de Golgi y secretada hacia el coloide mediante exocitosis. En el coloide, los residuos de tirosina en la tiroglobulina son yodados por la peroxidasa tiroidea, formando monoiodotirosina (MIT) y diiodotirosina (DIT). Luego, MIT y DIT se acoplan para formar T3 y T4, que permanecen unidos a la tiroglobulina en el coloide. Cuando la glándula necesita liberar hormonas, las células foliculares reabsorben gotitas de coloide mediante endocitosis. Dentro de las células, la tiroglobulina es degradada por proteasas lisosomales, liberando T3 y T4 libres que son secretadas a la sangre. Este proceso es regulado por TSH de la hipófisis anterior."
     },
     {
       "id": 24,
       "question": "¿Cuál es el papel de la peroxidasa tiroidea en la síntesis de hormonas tiroideas?",
       "options": [
-        "Sintetiza tiroglobulina",
-        "Cataliza la yodación de residuos de tirosina en la tiroglobulina",
         "Regula la reabsorción de coloide",
-        "Produce calcitonina"
+        "Sintetiza tiroglobulina",
+        "Produce calcitonina",
+        "Cataliza la yodación de residuos de tirosina en la tiroglobulina"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La peroxidasa tiroidea (TPO) es una enzima crucial en la síntesis de hormonas tiroideas que cataliza la yodación de residuos de tirosina en la tiroglobulina. Esta enzima está localizada en la membrana apical de las células foliculares y en el retículo endoplásmico rugoso. La peroxidasa tiroidea oxida el yoduro a yodo, que luego se incorpora en los residuos de tirosina, formando monoiodotirosina (MIT) y diiodotirosina (DIT). La misma enzima también cataliza el acoplamiento de MIT y DIT para formar T3 y T4. La deficiencia de peroxidasa tiroidea resulta en una síntesis insuficiente de hormonas tiroideas. Además, la peroxidasa tiroidea es el antígeno principal en la tiroiditis autoinmune de Hashimoto, donde los anticuerpos contra esta enzima contribuyen a la destrucción de la glándula. La actividad de la peroxidasa tiroidea es regulada por TSH."
     },
     {
       "id": 25,
       "question": "¿Cuál es la relación entre la glándula tiroides y el eje hipotálamo-hipófisis?",
       "options": [
-        "No hay relación entre estas estructuras",
         "El hipotálamo produce TRH, que estimula la hipófisis anterior a producir TSH, que estimula la tiroides",
         "La tiroides produce TSH",
-        "El hipotálamo produce directamente hormonas tiroideas"
+        "El hipotálamo produce directamente hormonas tiroideas",
+        "No hay relación entre estas estructuras"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Existe una relación compleja entre la glándula tiroides y el eje hipotálamo-hipófisis que forma un sistema de retroalimentación negativa. El hipotálamo produce hormona liberadora de tirotropina (TRH), que estimula la hipófisis anterior a producir hormona estimulante de la tiroides (TSH). TSH estimula la glándula tiroides a sintetizar y liberar T3 y T4. Los niveles elevados de T3 y T4 inhiben la liberación de TRH del hipotálamo y la liberación de TSH de la hipófisis anterior, completando el circuito de retroalimentación negativa. Este sistema mantiene los niveles de hormonas tiroideas dentro de un rango estrecho necesario para la homeostasis. Las alteraciones en cualquier parte de este eje pueden resultar en disfunción tiroidea. Por ejemplo, la deficiencia de TSH resulta en hipotiroidismo secundario, mientras que un exceso de TSH resulta en hipertiroidismo secundario."
     },
     {
       "id": 26,
       "question": "¿Cuáles son los cambios histológicos en la tiroiditis autoinmune de Hashimoto?",
       "options": [
-        "Aumento del tamaño de los folículos sin infiltración celular",
         "Infiltración de linfocitos y células plasmáticas, destrucción de folículos y fibrosis",
         "Aumento del coloide sin cambios en el epitelio",
+        "Aumento del tamaño de los folículos sin infiltración celular",
         "Hiperplasia del epitelio folicular sin inflamación"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La tiroiditis autoinmune de Hashimoto es caracterizada histológicamente por una infiltración masiva de linfocitos T y células B, así como células plasmáticas productoras de anticuerpos en el tejido tiroideo. Esta infiltración inflamatoria resulta en la destrucción gradual de los folículos tiroideos, reemplazados por tejido fibroso (fibrosis). Los anticuerpos contra la peroxidasa tiroidea (anti-TPO) y contra la tiroglobulina (anti-Tg) son característicos de esta enfermedad. La glándula generalmente está aumentada de tamaño (bocio) en las etapas iniciales, pero puede volverse fibrosa y atrófica en las etapas avanzadas. Histológicamente, se observa una disminución progresiva en el número de folículos tiroideos normales, reemplazados por tejido conectivo fibroso y células inflamatorias. Los folículos residuales pueden estar atróficos o mostrar cambios en el epitelio. Esta enfermedad es la causa más común de hipotiroidismo en áreas con suficiente ingesta de yodo."
     },
     {
       "id": 27,
       "question": "¿Cuáles son los cambios histológicos en el bocio difuso tóxico (enfermedad de Graves)?",
       "options": [
-        "Fibrosis masiva sin infiltración inflamatoria",
-        "Hiperplasia folicular con epitelio cilíndrico alto, coloide escaso y sin fibrosis significativa",
+        "Formación de nódulos solitarios",
         "Atrofia folicular con disminución del epitelio",
-        "Formación de nódulos solitarios"
+        "Hiperplasia folicular con epitelio cilíndrico alto, coloide escaso y sin fibrosis significativa",
+        "Fibrosis masiva sin infiltración inflamatoria"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "En el bocio difuso tóxico (enfermedad de Graves), los cambios histológicos reflejan una estimulación excesiva de la glándula tiroides. Se observa hiperplasia folicular generalizada con un aumento significativo en el número y tamaño de los folículos. El epitelio folicular es cilíndrico alto, indicando una actividad secretora máxima. El coloide es escaso, claro y menos denso, reflejando la reabsorción activa de hormonas. Las células foliculares muestran un citoplasma basófilo intenso y núcleos grandes con nucléolos prominentes. Las microvellosidades apicales son abundantes. No hay fibrosis significativa, a diferencia de la tiroiditis de Hashimoto. El tejido conectivo intersticial puede mostrar una infiltración leve de células inflamatorias, principalmente linfocitos. La glándula está significativamente aumentada de tamaño. Estos cambios son el resultado de la estimulación por inmunoglobulinas estimulantes de la tiroides (TSI) que mimetizan la acción de TSH."
     },
     {
       "id": 28,
       "question": "¿Cuál es la diferencia histológica entre un adenoma tiroideo y un carcinoma tiroideo?",
       "options": [
+        "El adenoma es siempre maligno",
         "No hay diferencias histológicas",
-        "El adenoma tiene una cápsula bien definida sin invasión; el carcinoma invade la cápsula y los tejidos adyacentes",
         "El carcinoma tiene más folículos",
-        "El adenoma es siempre maligno"
+        "El adenoma tiene una cápsula bien definida sin invasión; el carcinoma invade la cápsula y los tejidos adyacentes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La diferencia fundamental entre un adenoma tiroideo y un carcinoma tiroideo es la presencia de invasión. Un adenoma tiroideo es un tumor benigno que tiene una cápsula bien definida que lo separa del tejido tiroideo normal adyacente. Histológicamente, el adenoma muestra una arquitectura folicular que puede ser similar a la del tejido tiroideo normal, aunque puede haber variaciones en el tamaño y la forma de los folículos. Un carcinoma tiroideo, por el contrario, invade la cápsula del tumor y penetra en el tejido tiroideo normal adyacente, vasos sanguíneos y linfáticos. El carcinoma muestra características de malignidad como mitosis aumentadas, necrosis, pleomorfismo nuclear y pérdida de la arquitectura folicular normal. El tipo histológico más común de carcinoma tiroideo es el carcinoma papilar, seguido por el carcinoma folicular. La presencia de invasión capsular y extratiroidea es el criterio clave para diferenciar un carcinoma de un adenoma."
     },
     {
       "id": 29,
       "question": "¿Cuáles son las características histológicas del carcinoma papilar de tiroides?",
       "options": [
-        "Folículos bien diferenciados sin papilas",
         "Estructuras papilares con núcleos grandes, claros y con surcos característicos",
         "Células fusiformes sin formación de papilas",
+        "Folículos bien diferenciados sin papilas",
         "Folículos llenos de coloide sin invasión"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El carcinoma papilar de tiroides es el tipo más común de cáncer tiroideo y se caracteriza histológicamente por la formación de estructuras papilares. Las papilas están compuestas por un eje de tejido conectivo cubierto por epitelio maligno. Las células tumorales tienen núcleos grandes, claros (vidrio molido) con surcos longitudinales característicos y membranas nucleares irregulares. Se pueden observar cuerpos de Psamoma (depósitos de calcio laminados) dentro de las papilas. El carcinoma papilar invade la cápsula tiroidea y frecuentemente se disemina a los ganglios linfáticos cervicales, aunque la diseminación a distancia es menos común que en otros tipos de cáncer tiroideo. A pesar de su potencial maligno, el carcinoma papilar de tiroides tiene un pronóstico relativamente favorable en comparación con otros carcinomas tiroideos, especialmente cuando se detecta en etapas tempranas."
     },
     {
       "id": 30,
       "question": "¿Cuáles son las características histológicas del carcinoma folicular de tiroides?",
       "options": [
-        "Estructuras papilares bien definidas",
         "Invasión vascular y capsular con arquitectura folicular preservada",
-        "Células fusiformes sin formación de folículos",
-        "Folículos normales sin invasión"
+        "Estructuras papilares bien definidas",
+        "Folículos normales sin invasión",
+        "Células fusiformes sin formación de folículos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El carcinoma folicular de tiroides es el segundo tipo más común de cáncer tiroideo y se caracteriza histológicamente por la invasión vascular y capsular. A diferencia del carcinoma papilar, el carcinoma folicular mantiene una arquitectura folicular relativamente bien preservada, lo que lo hace difícil de diferenciar de un adenoma folicular en biopsias pequeñas. El criterio clave para el diagnóstico es la presencia de invasión vascular (penetración de la pared vascular por células tumorales) o invasión capsular. Las células tumorales pueden formar folículos con coloide o pueden ser más sólidas. El carcinoma folicular tiene una mayor propensión a la diseminación hematógena, especialmente a pulmones y huesos, en comparación con el carcinoma papilar. El pronóstico del carcinoma folicular es generalmente menos favorable que el del carcinoma papilar, especialmente en tumores de alto grado."
     },
     {
       "id": 31,
       "question": "¿Cuál es el papel del coloide en la protección de la glándula tiroides?",
       "options": [
-        "El coloide no tiene función protectora",
         "El coloide actúa como un depósito que permite una liberación gradual de hormonas, proporcionando estabilidad hormonal",
+        "El coloide es tóxico para las células foliculares",
         "El coloide solo sirve para almacenar calcio",
-        "El coloide es tóxico para las células foliculares"
+        "El coloide no tiene función protectora"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El coloide actúa como un depósito estratégico que permite una liberación gradual y controlada de hormonas tiroideas, proporcionando estabilidad hormonal y protección contra fluctuaciones rápidas en los niveles de hormonas tiroideas. Esta función de almacenamiento es única entre las glándulas endocrinas y es particularmente importante para mantener la homeostasis metabólica. El coloide puede almacenar varias semanas de producción hormonal, lo que significa que la glándula puede mantener niveles hormonales relativamente constantes incluso si la síntesis se reduce temporalmente. Esta función protectora es clínicamente importante en situaciones de estrés o enfermedad, cuando la demanda de hormonas tiroideas puede aumentar. Además, el coloide también protege las hormonas tiroideas de la degradación enzimática prematura, permitiendo que se mantengan en forma activa hasta que sean necesarias."
     },
     {
       "id": 32,
       "question": "¿Cuáles son los cambios histológicos en la glándula tiroides durante el embarazo?",
       "options": [
+        "Aumento de la fibrosis",
         "No hay cambios significativos",
         "Aumento del tamaño de la glándula (bocio fisiológico), hiperplasia folicular e hipervascularización",
-        "Disminución del tamaño de la glándula",
-        "Aumento de la fibrosis"
+        "Disminución del tamaño de la glándula"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Durante el embarazo, la glándula tiroides experimenta cambios histológicos significativos que reflejan el aumento de la demanda de hormonas tiroideas. Se observa un aumento en el tamaño de la glándula (bocio fisiológico del embarazo), que puede aumentar hasta un 50% en volumen. Histológicamente, hay hiperplasia folicular con un aumento en el número de folículos y en la altura del epitelio folicular. El coloide disminuye en cantidad, reflejando la mayor reabsorción de hormonas. La vascularización de la glándula aumenta significativamente, con más vasos sanguíneos dilatados en el tejido conectivo intersticial. Estos cambios son el resultado del aumento de TSH durante el embarazo y de la estimulación por gonadotropina coriónica humana (hCG). Los cambios histológicos son reversibles y la glándula vuelve a su tamaño normal después del parto. Estos cambios fisiológicos son importantes para asegurar un suministro adecuado de hormonas tiroideas para el desarrollo fetal."
     },
     {
       "id": 33,
       "question": "¿Cuál es la relación entre la deficiencia de yodo y los cambios histológicos en la glándula tiroides?",
       "options": [
+        "La deficiencia de yodo resulta en fibrosis masiva",
         "No hay relación entre deficiencia de yodo y cambios histológicos",
-        "La deficiencia de yodo resulta en hiperplasia folicular, aumento del tamaño de la glándula y cambios en la arquitectura folicular",
         "La deficiencia de yodo resulta en atrofia de la glándula",
-        "La deficiencia de yodo resulta en fibrosis masiva"
+        "La deficiencia de yodo resulta en hiperplasia folicular, aumento del tamaño de la glándula y cambios en la arquitectura folicular"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La deficiencia de yodo resulta en cambios histológicos significativos en la glándula tiroides como mecanismo compensatorio para mantener la síntesis de hormonas tiroideas. Inicialmente, hay hiperplasia folicular con un aumento en el número de folículos y en la altura del epitelio folicular. El coloide disminuye en cantidad y se vuelve menos denso. Con la deficiencia crónica de yodo, la glándula aumenta de tamaño significativamente (bocio endémico), y la arquitectura folicular puede alterarse con la formación de folículos grandes llenos de coloide denso. La hiperplasia continua resulta en un aumento de la vascularización. A largo plazo, si la deficiencia de yodo persiste, puede haber cambios degenerativos con pérdida de la arquitectura folicular normal. Estos cambios histológicos son el resultado de la estimulación continua de la glándula por TSH en un intento de compensar la síntesis insuficiente de hormonas tiroideas debido a la falta de yodo."
     },
     {
       "id": 34,
       "question": "¿Cuáles son las características histológicas de la tiroiditis subaguda?",
       "options": [
+        "Aumento del coloide sin inflamación",
         "Infiltración masiva de linfocitos sin destrucción folicular",
         "Destrucción folicular, infiltración de células inflamatorias, granulomas y fibrosis",
-        "Aumento del coloide sin inflamación",
         "Hiperplasia folicular sin inflamación"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La tiroiditis subaguda, también conocida como tiroiditis de De Quervain, se caracteriza histológicamente por destrucción folicular con infiltración de células inflamatorias incluyendo linfocitos, macrófagos y células plasmáticas. Se pueden observar granulomas no caseosos alrededor de los folículos destruidos. El coloide se libera de los folículos destruidos y es fagocitado por macrófagos, resultando en la formación de células gigantes multinucleadas. Hay fibrosis variable dependiendo de la etapa de la enfermedad. En las etapas iniciales, hay más inflamación aguda; en las etapas posteriores, hay más fibrosis. La glándula puede estar aumentada de tamaño y dolorosa. Estos cambios histológicos reflejan una respuesta inflamatoria autolimitada, generalmente desencadenada por una infección viral. La tiroiditis subaguda es generalmente autolimitada y se resuelve en semanas a meses, aunque puede haber hipotiroidismo transitorio seguido de recuperación de la función tiroidea."
     },
     {
@@ -417,8 +417,8 @@
       "options": [
         "Las células dendríticas no están presentes en la tiroides",
         "Las células dendríticas presentan antígenos tiroideos a las células T, regulando la respuesta inmunológica",
-        "Las células dendríticas solo producen coloide",
-        "Las células dendríticas destruyen todas las células B"
+        "Las células dendríticas destruyen todas las células B",
+        "Las células dendríticas solo producen coloide"
       ],
       "correctIndex": 1,
       "explanation": "Las células dendríticas están presentes en el tejido conectivo intersticial de la glándula tiroides y juegan un papel importante en la regulación de la respuesta inmunológica tiroidea. Estas células son presentadoras de antígenos profesionales que capturan antígenos tiroideos (como la peroxidasa tiroidea y la tiroglobulina) y los presentan a las células T en los ganglios linfáticos regionales. Las células dendríticas pueden presentar antígenos de una manera que promueve la tolerancia inmunológica (células dendríticas tolerogénicas) o que promueve la respuesta autoinmune (células dendríticas inflamatorias). El balance entre estas dos funciones es crucial para mantener la tolerancia a los antígenos tiroideos propios y prevenir la autoinmunidad. En enfermedades autoinmunes tiroideas como la tiroiditis de Hashimoto, hay un desequilibrio en la función de las células dendríticas, con predominio de células dendríticas inflamatorias que promueven la respuesta autoinmune."
@@ -440,59 +440,59 @@
       "question": "¿Cuál es la función de los linfocitos T regulatorios en la prevención de la autoinmunidad tiroidea?",
       "options": [
         "Los linfocitos T regulatorios no tienen función en la tiroides",
+        "Los linfocitos T regulatorios solo producen hormonas tiroideas",
         "Los linfocitos T regulatorios suprimen la respuesta autoinmune mediante la producción de citoquinas inmunosupresoras",
-        "Los linfocitos T regulatorios promueven la autoinmunidad",
-        "Los linfocitos T regulatorios solo producen hormonas tiroideas"
+        "Los linfocitos T regulatorios promueven la autoinmunidad"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Los linfocitos T regulatorios (Treg) juegan un papel crucial en la prevención de la autoinmunidad tiroidea mediante la supresión de la respuesta inmunológica contra los antígenos tiroideos propios. Estos linfocitos producen citoquinas inmunosupresoras como interleucina-10 (IL-10) y factor de crecimiento transformante beta (TGF-β), que inhiben la activación y proliferación de células T autorreactivas. Los linfocitos Treg también pueden suprimir directamente la función de las células B productoras de anticuerpos contra antígenos tiroideos. En enfermedades autoinmunes tiroideas como la tiroiditis de Hashimoto, hay un defecto en la función de los linfocitos Treg, resultando en una pérdida de tolerancia inmunológica a los antígenos tiroideos. Este defecto puede ser debido a una disminución en el número de linfocitos Treg o a una disminución en su función supresora. La restauración de la función de los linfocitos Treg es un objetivo terapéutico importante en el tratamiento de las enfermedades autoinmunes tiroideas."
     },
     {
       "id": 38,
       "question": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la radiación?",
       "options": [
-        "No hay cambios significativos",
-        "Daño de las células foliculares, inflamación, fibrosis y posible desarrollo de cáncer",
         "Aumento de la producción de hormonas",
-        "Aumento del coloide sin cambios en el epitelio"
+        "No hay cambios significativos",
+        "Aumento del coloide sin cambios en el epitelio",
+        "Daño de las células foliculares, inflamación, fibrosis y posible desarrollo de cáncer"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La exposición a radiación ionizante causa daño significativo a la glándula tiroides. Histológicamente, se observa daño directo de las células foliculares con muerte celular y apoptosis. Hay una infiltración de células inflamatorias en respuesta al daño tisular. Con el tiempo, hay fibrosis progresiva del tejido tiroideo, resultando en atrofia de la glándula y pérdida de la función tiroidea (hipotiroidismo). La radiación también aumenta el riesgo de desarrollar cáncer tiroideo, particularmente carcinoma papilar. El riesgo de cáncer tiroideo es mayor cuando la exposición a radiación ocurre durante la infancia. Los cambios histológicos pueden incluir cambios displásicos en las células foliculares que pueden progresar a malignidad. La severidad de los cambios histológicos depende de la dosis de radiación recibida y del tiempo transcurrido desde la exposición. La tiroiditis por radiación puede ocurrir en pacientes que reciben radioterapia para cánceres de cabeza y cuello."
     },
     {
       "id": 39,
       "question": "¿Cuál es la relación entre la glándula tiroides y el metabolismo del calcio?",
       "options": [
-        "La tiroides no tiene relación con el metabolismo del calcio",
         "Las células parafoliculares producen calcitonina, que regula los niveles de calcio sérico",
         "La tiroides produce hormona paratiroidea",
-        "La tiroides solo regula el metabolismo del fósforo"
+        "La tiroides solo regula el metabolismo del fósforo",
+        "La tiroides no tiene relación con el metabolismo del calcio"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las células parafoliculares de la glándula tiroides producen calcitonina, una hormona que juega un papel importante en la regulación de los niveles de calcio sérico. La calcitonina inhibe la resorción ósea al actuar sobre los osteoclastos, reduciendo la liberación de calcio del hueso hacia la sangre. Además, la calcitonina aumenta la excreción renal de calcio, promoviendo la pérdida de calcio en la orina. Estos efectos resultan en una disminución de los niveles de calcio sérico. La calcitonina es particularmente importante en situaciones de hipercalcemia (niveles elevados de calcio en sangre). Sin embargo, en humanos, la calcitonina tiene un papel menos importante en la regulación del calcio sérico en comparación con la hormona paratiroidea (PTH) producida por las glándulas paratiroides. La medición de calcitonina sérica es clínicamente útil en el diagnóstico y seguimiento del carcinoma medular de tiroides, que es un tumor de las células parafoliculares."
     },
     {
       "id": 40,
       "question": "¿Cuáles son las características histológicas del carcinoma medular de tiroides?",
       "options": [
-        "Estructuras papilares bien definidas",
-        "Células neuroendocrinas que secretan calcitonina, con depósitos de amiloide",
+        "Células fusiformes sin formación de estructuras",
         "Folículos bien diferenciados",
-        "Células fusiformes sin formación de estructuras"
+        "Células neuroendocrinas que secretan calcitonina, con depósitos de amiloide",
+        "Estructuras papilares bien definidas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El carcinoma medular de tiroides es un tumor maligno que se origina de las células parafoliculares (células C) que producen calcitonina. Histológicamente, muestra células neuroendocrinas dispuestas en nidos o cordones, separadas por un estroma fibroso. Las células tumorales tienen un citoplasma granular que contiene gránulos de secreción llenos de calcitonina. Un hallazgo característico es la presencia de depósitos de amiloide (amiloide derivado de calcitonina) en el estroma del tumor. El carcinoma medular de tiroides puede ser esporádico o familiar, siendo parte del síndrome de neoplasia endocrina múltiple tipo 2 (MEN2). El diagnóstico se confirma por inmunohistoquímica para calcitonina y cromogranina A. Los niveles séricos de calcitonina son elevados y se utilizan para el diagnóstico y seguimiento. El pronóstico del carcinoma medular de tiroides es generalmente menos favorable que el del carcinoma papilar, especialmente si hay diseminación a distancia."
     },
     {
       "id": 41,
       "question": "¿Cuál es la importancia de la microvasculatura en la función tiroidea?",
       "options": [
-        "La microvasculatura no es importante para la función tiroidea",
-        "La microvasculatura proporciona nutrientes y oxígeno, facilita el intercambio de hormonas y permite la regulación de la función tiroidea",
         "La microvasculatura solo proporciona soporte estructural",
-        "La microvasculatura produce hormonas tiroideas"
+        "La microvasculatura no es importante para la función tiroidea",
+        "La microvasculatura produce hormonas tiroideas",
+        "La microvasculatura proporciona nutrientes y oxígeno, facilita el intercambio de hormonas y permite la regulación de la función tiroidea"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La microvasculatura de la glándula tiroides es crucial para su función normal. Los capilares sanguíneos forman una red densa alrededor de los folículos tiroideos, proporcionando nutrientes y oxígeno necesarios para la síntesis de hormonas. La microvasculatura también facilita el intercambio de hormonas tiroideas sintetizadas por las células foliculares hacia la circulación sistémica. Los capilares tiroideos son fenestrados, lo que permite un intercambio más eficiente de moléculas entre la sangre y el tejido intersticial. La regulación de la función tiroidea también depende de la microvasculatura, ya que permite que TSH de la hipófisis anterior acceda a las células foliculares. La vascularización de la glándula aumenta durante la estimulación por TSH, reflejando el aumento de la demanda metabólica. En enfermedades tiroideas, los cambios en la vascularización pueden ser detectados por ecografía Doppler, proporcionando información sobre la actividad de la glándula."
     },
     {
@@ -500,92 +500,92 @@
       "question": "¿Cuál es el papel del sistema linfático en la glándula tiroides?",
       "options": [
         "El sistema linfático no está presente en la tiroides",
+        "El sistema linfático solo proporciona soporte estructural",
         "El sistema linfático drena el exceso de líquido intersticial y participa en la respuesta inmunológica",
-        "El sistema linfático produce hormonas tiroideas",
-        "El sistema linfático solo proporciona soporte estructural"
+        "El sistema linfático produce hormonas tiroideas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El sistema linfático de la glándula tiroides juega un papel importante en el drenaje del exceso de líquido intersticial y en la participación en la respuesta inmunológica local. Los vasos linfáticos drenan el líquido intersticial de la glándula hacia los ganglios linfáticos cervicales regionales, donde ocurren las respuestas inmunológicas iniciales contra antígenos tiroideos. En enfermedades autoinmunes tiroideas, hay una activación de los ganglios linfáticos cervicales con proliferación de células B y T autorreactivas. El drenaje linfático también es importante para la diseminación de células tumorales en el cáncer tiroideo, siendo los ganglios linfáticos cervicales frecuentemente afectados. La evaluación de los ganglios linfáticos cervicales es importante en la estadificación del cáncer tiroideo. Los cambios en el drenaje linfático pueden afectar la función inmunológica local y la susceptibilidad a enfermedades tiroideas."
     },
     {
       "id": 43,
       "question": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la tiroiditis silenciosa?",
       "options": [
-        "No hay cambios histológicos",
         "Infiltración linfocitaria sin destrucción folicular significativa, cambios mínimos en el coloide",
+        "No hay cambios histológicos",
         "Destrucción folicular masiva con fibrosis",
         "Hiperplasia folicular sin inflamación"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La tiroiditis silenciosa es una forma de tiroiditis autoinmune que se caracteriza histológicamente por una infiltración linfocitaria relativamente leve del tejido tiroideo sin destrucción folicular significativa. Los cambios histológicos son más sutiles en comparación con la tiroiditis de Hashimoto. Se observa una infiltración de linfocitos T y células plasmáticas en el tejido conectivo intersticial, pero la arquitectura folicular se mantiene relativamente intacta. El coloide puede estar ligeramente disminuido, pero no hay cambios dramáticos. La fibrosis es mínima. Clínicamente, la tiroiditis silenciosa se presenta con hipotiroidismo transitorio seguido de recuperación de la función tiroidea, a diferencia de la tiroiditis de Hashimoto que resulta en hipotiroidismo permanente. La tiroiditis silenciosa puede ocurrir en el período posparto (tiroiditis posparto silenciosa) o de forma espontánea. Los cambios histológicos reflejan una respuesta inmunológica autolimitada."
     },
     {
       "id": 44,
       "question": "¿Cuál es la relación entre la glándula tiroides y la función reproductiva?",
       "options": [
-        "No hay relación entre la tiroides y la función reproductiva",
-        "Las hormonas tiroideas regulan el metabolismo y afectan la función reproductiva; el hipotiroidismo puede causar infertilidad",
+        "La tiroides solo afecta el metabolismo del calcio",
         "La tiroides produce hormonas sexuales",
-        "La tiroides solo afecta el metabolismo del calcio"
+        "No hay relación entre la tiroides y la función reproductiva",
+        "Las hormonas tiroideas regulan el metabolismo y afectan la función reproductiva; el hipotiroidismo puede causar infertilidad"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Las hormonas tiroideas juegan un papel importante en la regulación de la función reproductiva. El hipotiroidismo puede resultar en disfunción reproductiva incluyendo irregularidades menstruales, anovulación e infertilidad. Las hormonas tiroideas afectan la función ovárica y la producción de progesterona. El hipertiroidismo también puede afectar la función reproductiva, causando ciclos menstruales acortados y anovulación. Durante el embarazo, la demanda de hormonas tiroideas aumenta significativamente, y la deficiencia de hormonas tiroideas durante el embarazo puede resultar en complicaciones del embarazo y efectos adversos en el desarrollo fetal. La tiroiditis posparto es una forma de tiroiditis autoinmune que ocurre después del parto y puede afectar la lactancia y la función reproductiva. La optimización de la función tiroidea es importante para la fertilidad y el resultado del embarazo. Las mujeres con enfermedades tiroideas autoinmunes tienen un mayor riesgo de complicaciones del embarazo."
     },
     {
       "id": 45,
       "question": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la tiroiditis por radiación?",
       "options": [
+        "Aumento del coloide",
         "No hay cambios significativos",
         "Daño de las células foliculares, inflamación aguda, fibrosis progresiva y atrofia",
-        "Hiperplasia folicular",
-        "Aumento del coloide"
+        "Hiperplasia folicular"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La tiroiditis por radiación ocurre como resultado de la exposición a radiación ionizante, ya sea por radioterapia o exposición accidental. Los cambios histológicos incluyen daño inicial de las células foliculares con muerte celular y apoptosis. Hay una infiltración de células inflamatorias agudas en respuesta al daño tisular. Con el tiempo, hay fibrosis progresiva del tejido tiroideo, resultando en reemplazo del tejido tiroideo funcional por tejido conectivo fibroso. La glándula se atrofia gradualmente, resultando en hipotiroidismo. Los cambios histológicos pueden incluir cambios displásicos en las células foliculares que pueden progresar a malignidad. La severidad de los cambios histológicos depende de la dosis de radiación recibida y del tiempo transcurrido desde la exposición. La tiroiditis por radiación es una complicación importante de la radioterapia para cánceres de cabeza y cuello."
     },
     {
       "id": 46,
       "question": "¿Cuál es la importancia de la inervación nerviosa en la regulación de la función tiroidea?",
       "options": [
-        "La inervación nerviosa no es importante para la función tiroidea",
-        "La inervación simpática y parasimpática regula la vascularización y la función secretora de la glándula",
+        "La inervación produce hormonas tiroideas",
         "La inervación solo proporciona soporte estructural",
-        "La inervación produce hormonas tiroideas"
+        "La inervación simpática y parasimpática regula la vascularización y la función secretora de la glándula",
+        "La inervación nerviosa no es importante para la función tiroidea"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La inervación nerviosa de la glándula tiroides juega un papel importante en la regulación de su función. La glándula recibe inervación simpática y parasimpática que regula la vascularización y la función secretora. La estimulación simpática aumenta la vascularización de la glándula y puede modular la respuesta de las células foliculares a TSH. La inervación parasimpática también participa en la regulación de la función tiroidea. Los nervios también contienen fibras sensoriales que transmiten información sobre el estado de la glándula. La inervación es importante para la integración de la función tiroidea con otros sistemas del cuerpo. En condiciones de estrés, la inervación simpática puede modular la respuesta de la glándula tiroides. Los cambios en la inervación pueden ocurrir en enfermedades tiroideas autoinmunes, contribuyendo a la disfunción de la glándula."
     },
     {
       "id": 47,
       "question": "¿Cuáles son las características histológicas del linfoma tiroideo?",
       "options": [
-        "Folículos tiroideos normales",
         "Infiltración difusa de células linfoides neoplásicas, destrucción de folículos tiroideos",
         "Hiperplasia folicular",
-        "Aumento del coloide"
+        "Aumento del coloide",
+        "Folículos tiroideos normales"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El linfoma tiroideo es un tumor maligno raro que se origina de células linfoides en la glándula tiroides. Histológicamente, muestra una infiltración difusa de células linfoides neoplásicas que destruyen la arquitectura normal de los folículos tiroideos. El tipo más común es el linfoma tipo MALT (tejido linfoide asociado a mucosa) de células B. Las células linfoides neoplásicas pueden ser de diferentes tamaños y pueden mostrar características de malignidad como mitosis aumentadas y necrosis. La destrucción de los folículos tiroideos es característica. El linfoma tiroideo frecuentemente ocurre en el contexto de tiroiditis de Hashimoto crónica, que es un factor de riesgo importante. El diagnóstico se confirma por inmunohistoquímica para marcadores de células B y análisis de reordenamiento de genes. El pronóstico del linfoma tiroideo es variable dependiendo del tipo histológico y del estadio de la enfermedad."
     },
     {
       "id": 48,
       "question": "¿Cuál es el papel de la tiroglobulina como antígeno autoinmune?",
       "options": [
-        "La tiroglobulina no es un antígeno autoinmune",
-        "La tiroglobulina es un antígeno importante en enfermedades autoinmunes tiroideas, siendo blanco de anticuerpos anti-Tg",
+        "La tiroglobulina es un antígeno que solo afecta el metabolismo del calcio",
         "La tiroglobulina solo es importante para la síntesis de hormonas",
-        "La tiroglobulina es un antígeno que solo afecta el metabolismo del calcio"
+        "La tiroglobulina es un antígeno importante en enfermedades autoinmunes tiroideas, siendo blanco de anticuerpos anti-Tg",
+        "La tiroglobulina no es un antígeno autoinmune"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La tiroglobulina es una proteína importante que sirve como antígeno en enfermedades autoinmunes tiroideas. Los anticuerpos contra la tiroglobulina (anti-Tg) son característicos de la tiroiditis de Hashimoto y otras enfermedades autoinmunes tiroideas. Estos anticuerpos se producen por células B autorreactivas que reconocen epítopos específicos en la molécula de tiroglobulina. La presencia de anticuerpos anti-Tg es un marcador de autoinmunidad tiroidea y puede ser detectada en el suero de pacientes con enfermedades autoinmunes tiroideas. La tiroglobulina también es importante como marcador tumoral en el seguimiento de pacientes con cáncer tiroideo, especialmente después de tiroidectomía total. Los niveles de tiroglobulina sérica se utilizan para detectar recurrencia de cáncer tiroideo. La tiroglobulina es una proteína grande que contiene múltiples epítopos, lo que explica por qué los anticuerpos anti-Tg pueden reconocer diferentes regiones de la molécula."
     },
     {
       "id": 49,
       "question": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la tiroiditis fibrótica (Riedel)?",
       "options": [
-        "Hiperplasia folicular sin fibrosis",
-        "Fibrosis masiva que se extiende más allá de la cápsula tiroidea, infiltración inflamatoria mínima",
         "Aumento del coloide",
+        "Fibrosis masiva que se extiende más allá de la cápsula tiroidea, infiltración inflamatoria mínima",
+        "Hiperplasia folicular sin fibrosis",
         "Destrucción folicular sin fibrosis"
       ],
       "correctIndex": 1,
@@ -595,12 +595,12 @@
       "id": 50,
       "question": "¿Cuál es la importancia de la biopsia por aspiración con aguja fina (BAAF) en el diagnóstico de patología tiroidea?",
       "options": [
-        "La BAAF no es útil para el diagnóstico de patología tiroidea",
         "La BAAF es un procedimiento mínimamente invasivo que permite obtener células tiroideas para diagnóstico citológico de nódulos tiroideos",
-        "La BAAF solo se utiliza para medir los niveles de hormonas tiroideas",
-        "La BAAF es un procedimiento quirúrgico mayor"
+        "La BAAF no es útil para el diagnóstico de patología tiroidea",
+        "La BAAF es un procedimiento quirúrgico mayor",
+        "La BAAF solo se utiliza para medir los niveles de hormonas tiroideas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La biopsia por aspiración con aguja fina (BAAF) es un procedimiento mínimamente invasivo que permite obtener células tiroideas de nódulos tiroideos para diagnóstico citológico. El procedimiento es rápido, seguro y puede realizarse en la consulta ambulatoria con o sin guía de ultrasonido. Las células obtenidas se extienden en portaobjetos y se tiñen con colorantes especiales (Papanicolaou, Giemsa) para evaluación microscópica. La BAAF permite diferenciar entre lesiones benignas y malignas, ayudando a guiar el tratamiento. Los resultados se clasifican según el sistema de Bethesda para reportes de citología tiroidea. La BAAF tiene una sensibilidad y especificidad altas para el diagnóstico de cáncer tiroideo, especialmente carcinoma papilar. Las complicaciones de la BAAF son raras. La BAAF es el procedimiento de elección para la evaluación de nódulos tiroideos detectados por ultrasonido, siendo más seguro y menos invasivo que la biopsia quirúrgica."
     },
     {
@@ -609,8 +609,8 @@
       "options": [
         "2 glándulas",
         "4 glándulas",
-        "6 glándulas",
-        "8 glándulas"
+        "8 glándulas",
+        "6 glándulas"
       ],
       "correctIndex": 1,
       "explanation": "Normalmente existen 4 glándulas paratiroides en el cuerpo humano, aunque ocasionalmente pueden haber variaciones en el número. Dos glándulas se localizan en la cara superior de los lóbulos tiroideos (paratiroides superiores) y dos en la cara inferior (paratiroides inferiores). Estas glándulas tienen un tamaño muy pequeño, aproximadamente 5 x 3 x 2 mm cada una, y pesan alrededor de 30-40 mg cada una. A pesar de su pequeño tamaño, las glándulas paratiroides son cruciales para la regulación del metabolismo del calcio y fósforo. La ubicación de las glándulas paratiroides en la cara posterior de la tiroides es importante desde el punto de vista quirúrgico, ya que pueden ser dañadas durante la tiroidectomía, resultando en hipoparatiroidismo postoperatorio."
@@ -619,34 +619,34 @@
       "id": 52,
       "question": "¿Cuál es la ubicación anatómica exacta de las glándulas paratiroides?",
       "options": [
-        "En la región anterior del cuello, delante de la laringe",
         "En la cara posterior de los lóbulos tiroideos",
+        "En la región mediastínica del tórax",
         "En la región lateral del cuello",
-        "En la región mediastínica del tórax"
+        "En la región anterior del cuello, delante de la laringe"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las glándulas paratiroides se localizan en la cara posterior de los lóbulos tiroideos, con dos glándulas superiores (paratiroides superiores) ubicadas a nivel del borde inferior del cartílago cricoides y dos glándulas inferiores (paratiroides inferiores) ubicadas más inferiormente. Esta ubicación posterior las coloca íntimamente relacionadas con la tiroides, lo que explica por qué pueden ser dañadas durante la tiroidectomía. Las glándulas paratiroides están cubiertas por la fascia cervical y están separadas de la tiroides por una cápsula delgada. La ubicación posterior también las coloca cerca de estructuras importantes como el nervio recurrente laríngeo y los vasos sanguíneos cervicales. Ocasionalmente, las glándulas paratiroides pueden estar ectópicamente localizadas, lo que complica su identificación durante la cirugía."
     },
     {
       "id": 53,
       "question": "¿Cuál es el tamaño aproximado de cada glándula paratiroides?",
       "options": [
+        "1 x 1 x 1 cm",
         "1 x 0.5 x 0.5 cm",
         "5 x 3 x 2 mm",
-        "2 x 1 x 1 cm",
-        "1 x 1 x 1 cm"
+        "2 x 1 x 1 cm"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Cada glándula paratiroides tiene un tamaño aproximado de 5 x 3 x 2 mm, aunque puede variar ligeramente entre individuos. El peso de cada glándula es de aproximadamente 30-40 mg, siendo las glándulas inferiores generalmente más grandes que las superiores. A pesar de su pequeño tamaño, las glándulas paratiroides son órganos muy activos metabólicamente. El pequeño tamaño de las glándulas paratiroides las hace difíciles de identificar durante la exploración quirúrgica, especialmente si están ectópicamente localizadas. Las variaciones en el tamaño pueden indicar patología, como hiperplasia (aumento de tamaño) en el hiperparatiroidismo primario o atrofia en el hipoparatiroidismo. La medición del tamaño de las glándulas paratiroides mediante ecografía o resonancia magnética puede ser útil para el diagnóstico de enfermedades paratiroides."
     },
     {
       "id": 54,
       "question": "¿Cuál es la estructura histológica fundamental de las glándulas paratiroides?",
       "options": [
-        "Folículos rodeados de coloide",
+        "Acinos glandulares",
         "Cordones de células principales y células oxífilas separadas por tejido conectivo y vasos sanguíneos",
         "Túbulos secretores ramificados",
-        "Acinos glandulares"
+        "Folículos rodeados de coloide"
       ],
       "correctIndex": 1,
       "explanation": "La estructura histológica fundamental de las glándulas paratiroides consiste en cordones de células principales y células oxífilas separadas por tejido conectivo intersticial rico en vasos sanguíneos. A diferencia de la glándula tiroides, las glándulas paratiroides no tienen folículos ni coloide. Los cordones celulares están organizados en una red tridimensional que permite una estrecha relación entre las células secretoras y la circulación sanguínea. El tejido conectivo intersticial contiene vasos sanguíneos capilares fenestrados que facilitan el intercambio de iones de calcio y la secreción de hormona paratiroidea. Las células están organizadas en una arquitectura que permite una regulación rápida y eficiente de la secreción hormonal en respuesta a cambios en los niveles de calcio sérico. La ausencia de folículos y coloide refleja la diferente función de las glándulas paratiroides en comparación con la tiroides."
@@ -657,8 +657,8 @@
       "options": [
         "Células foliculares y células parafoliculares",
         "Células principales y células oxífilas",
-        "Células cromafines y células ganglionares",
-        "Células cúbicas y células cilíndricas"
+        "Células cúbicas y células cilíndricas",
+        "Células cromafines y células ganglionares"
       ],
       "correctIndex": 1,
       "explanation": "Las dos principales poblaciones celulares en las glándulas paratiroides son las células principales (también llamadas células jefe) y las células oxífilas. Las células principales representan aproximadamente el 70% de la población celular y son responsables de la síntesis y secreción de hormona paratiroidea (PTH). Las células oxífilas representan aproximadamente el 10-15% de la población celular y su función exacta es desconocida, aunque se cree que pueden tener una función secretora limitada. La proporción de células principales a células oxífilas varía entre individuos y puede cambiar con la edad. Las células adiposas también están presentes en cantidad variable, aumentando con la edad. La identificación de estas dos poblaciones celulares es importante para el diagnóstico histológico de enfermedades paratiroides."
@@ -667,24 +667,24 @@
       "id": 56,
       "question": "¿Cuáles son las características histológicas de las células principales paratiroides?",
       "options": [
-        "Citoplasma fuertemente acidófilo y mitocondrias abundantes",
         "Citoplasma claro o ligeramente basófilo, núcleo pequeño redondo central",
         "Citoplasma con vacuolas lipídicas",
+        "Citoplasma fuertemente acidófilo y mitocondrias abundantes",
         "Núcleo periférico y citoplasma denso"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las células principales de las glándulas paratiroides tienen características histológicas distintivas que las diferencian de otros tipos celulares. Presentan un citoplasma claro o ligeramente basófilo, que refleja su contenido de gránulos de secreción y organelas. El núcleo es pequeño, redondo y está ubicado centralmente. El citoplasma claro es una característica importante y es debido al contenido de glucógeno y a la presencia de gránulos de secreción que contienen hormona paratiroidea. Cuando se tiñen con hematoxilina y eosina, el citoplasma de las células principales aparece más claro que el de las células oxífilas. Las células principales tienen un retículo endoplásmico rugoso bien desarrollado y un aparato de Golgi prominente, reflejando su actividad secretora. La posición central del núcleo es característica de las células secretoras activas."
     },
     {
       "id": 57,
       "question": "¿Cuáles son las características histológicas de las células oxífilas paratiroides?",
       "options": [
+        "Citoplasma con vacuolas lipídicas",
         "Citoplasma claro y núcleo central",
         "Citoplasma fuertemente acidófilo, mitocondrias abundantes y núcleo pequeño",
-        "Citoplasma con vacuolas lipídicas",
         "Núcleo grande y citoplasma basófilo"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Las células oxífilas de las glándulas paratiroides tienen características histológicas muy distintas a las células principales. El citoplasma es fuertemente acidófilo (eosinófilo), lo que le da un color rojo intenso cuando se tiñe con hematoxilina y eosina. Esta acidofilia es debido al contenido extremadamente alto de mitocondrias, que pueden representar hasta el 40% del volumen celular. El núcleo es pequeño y generalmente está ubicado centralmente. Las células oxífilas tienen un retículo endoplásmico rugoso menos desarrollado que las células principales, lo que sugiere una menor actividad secretora. La función exacta de las células oxífilas es desconocida, aunque se cree que pueden tener una función secretora limitada o pueden ser células principales envejecidas. Las células oxífilas aumentan en número con la edad y pueden estar aumentadas en ciertos estados patológicos."
     },
     {
@@ -692,23 +692,23 @@
       "question": "¿Cuál es la hormona principal producida por las glándulas paratiroides?",
       "options": [
         "Calcitonina",
-        "Hormona paratiroidea (PTH)",
         "Vitamina D",
+        "Hormona paratiroidea (PTH)",
         "Hormona de crecimiento"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La hormona paratiroidea (PTH) es la hormona principal producida por las células principales de las glándulas paratiroides. PTH es una hormona peptídica de 84 aminoácidos que juega un papel crucial en la regulación de los niveles de calcio sérico. PTH aumenta los niveles de calcio sérico mediante tres mecanismos principales: aumenta la reabsorción de calcio en los túbulos renales, aumenta la activación de vitamina D en los riñones (que aumenta la absorción intestinal de calcio), y aumenta la resorción ósea liberando calcio del hueso. Además, PTH disminuye la reabsorción renal de fósforo, resultando en una disminución de los niveles de fósforo sérico. La secreción de PTH es regulada por los niveles de calcio sérico mediante un mecanismo de retroalimentación negativa: los niveles bajos de calcio estimulan la secreción de PTH, mientras que los niveles altos de calcio la inhiben."
     },
     {
       "id": 59,
       "question": "¿Cuál es el mecanismo de regulación de la secreción de PTH?",
       "options": [
-        "Regulación por TSH de la hipófisis",
         "Regulación por retroalimentación negativa de los niveles de calcio sérico",
         "Regulación por insulina",
+        "Regulación por TSH de la hipófisis",
         "Regulación por cortisol"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La secreción de PTH es regulada principalmente por los niveles de calcio sérico mediante un mecanismo de retroalimentación negativa. Las células principales de las glándulas paratiroides tienen receptores sensores de calcio (CaSR) en su membrana plasmática que detectan los cambios en los niveles de calcio extracelular. Cuando los niveles de calcio sérico disminuyen, los receptores sensores de calcio se desactivan, resultando en un aumento de la secreción de PTH. Cuando los niveles de calcio sérico aumentan, los receptores sensores de calcio se activan, resultando en una disminución de la secreción de PTH. Este mecanismo de retroalimentación es muy eficiente y mantiene los niveles de calcio sérico dentro de un rango estrecho (8.5-10.5 mg/dL). Los niveles de fósforo sérico también afectan la secreción de PTH: los niveles altos de fósforo estimulan la secreción de PTH. La vitamina D también regula la secreción de PTH: los niveles altos de vitamina D activa inhiben la secreción de PTH."
     },
     {
@@ -727,60 +727,60 @@
       "id": 61,
       "question": "¿Cuál es la relación entre las glándulas paratiroides y el metabolismo del calcio?",
       "options": [
-        "Las glándulas paratiroides no tienen relación con el metabolismo del calcio",
         "Las glándulas paratiroides regulan los niveles de calcio sérico mediante la secreción de PTH",
         "Las glándulas paratiroides solo regulan el metabolismo del fósforo",
-        "Las glándulas paratiroides producen vitamina D"
+        "Las glándulas paratiroides producen vitamina D",
+        "Las glándulas paratiroides no tienen relación con el metabolismo del calcio"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las glándulas paratiroides juegan un papel crucial en la regulación de los niveles de calcio sérico mediante la secreción de PTH. PTH aumenta los niveles de calcio sérico mediante tres mecanismos principales: (1) aumenta la reabsorción de calcio en los túbulos renales colectores, (2) aumenta la activación de vitamina D en los riñones, que aumenta la absorción intestinal de calcio, y (3) aumenta la resorción ósea liberando calcio del hueso. Estos mecanismos trabajan juntos para mantener los niveles de calcio sérico dentro de un rango estrecho necesario para la función neuromuscular normal, la contracción muscular, la coagulación sanguínea y la transmisión sináptica. El calcio sérico es uno de los iones más estrictamente regulados en el cuerpo, y las glándulas paratiroides son responsables de mantener esta homeostasis. Las alteraciones en la función de las glándulas paratiroides resultan en hipercalcemia (en el hiperparatiroidismo) o hipocalcemia (en el hipoparatiroidismo)."
     },
     {
       "id": 62,
       "question": "¿Cuál es el papel de la vitamina D en la regulación del metabolismo del calcio?",
       "options": [
-        "La vitamina D no tiene relación con el metabolismo del calcio",
         "La vitamina D activa aumenta la absorción intestinal de calcio y fósforo",
+        "La vitamina D no tiene relación con el metabolismo del calcio",
         "La vitamina D solo regula el metabolismo del fósforo",
         "La vitamina D disminuye la absorción intestinal de calcio"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La vitamina D activa (calcitriol) juega un papel importante en la regulación del metabolismo del calcio. La vitamina D aumenta la absorción intestinal de calcio y fósforo, facilitando la entrada de estos iones en la circulación. La vitamina D también participa en la regulación de la resorción ósea y la reabsorción renal de calcio. La síntesis de vitamina D activa es regulada por PTH: cuando los niveles de calcio sérico disminuyen, PTH estimula la activación de vitamina D en los riñones, que a su vez aumenta la absorción intestinal de calcio. La vitamina D también regula la secreción de PTH: los niveles altos de vitamina D activa inhiben la secreción de PTH. La deficiencia de vitamina D resulta en una absorción intestinal deficiente de calcio, lo que puede llevar a hipocalcemia y estimulación secundaria de las glándulas paratiroides (hiperparatiroidismo secundario). La vitamina D también tiene funciones inmunológicas y antiproliferativas importantes."
     },
     {
       "id": 63,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el hiperparatiroidismo primario?",
       "options": [
-        "Atrofia de las células principales",
         "Hiperplasia de las células principales, aumento del tamaño de las glándulas",
-        "Aumento de las células adiposas",
-        "Fibrosis masiva"
+        "Atrofia de las células principales",
+        "Fibrosis masiva",
+        "Aumento de las células adiposas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "En el hiperparatiroidismo primario, los cambios histológicos más comunes incluyen hiperplasia de las células principales, resultando en un aumento del tamaño de las glándulas paratiroides. La hiperplasia puede ser difusa (afectando todas las glándulas) o nodular (formando nódulos discretos). En la hiperplasia difusa, todas las células principales muestran un aumento en el tamaño y número. En la hiperplasia nodular, hay formación de nódulos de células principales rodeados por tejido adiposo. Histológicamente, se observa una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Las células oxífilas pueden estar aumentadas en número. El aumento en el tamaño de las glándulas es el resultado de una pérdida de la sensibilidad al calcio, resultando en una secreción continua de PTH incluso cuando los niveles de calcio sérico están elevados. La hiperplasia puede ser causada por adenoma (hiperparatiroidismo primario esporádico) o por mutaciones en genes como MEN1 (hiperparatiroidismo familiar)."
     },
     {
       "id": 64,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el hipoparatiroidismo?",
       "options": [
-        "Hiperplasia de las células principales",
-        "Atrofia de las células principales, disminución del tamaño de las glándulas",
         "Aumento de las células adiposas",
-        "Formación de nódulos"
+        "Hiperplasia de las células principales",
+        "Formación de nódulos",
+        "Atrofia de las células principales, disminución del tamaño de las glándulas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "En el hipoparatiroidismo, los cambios histológicos incluyen atrofia de las células principales, resultando en una disminución del tamaño de las glándulas paratiroides. Las células principales muestran una disminución en el tamaño y número, con una disminución en el contenido de gránulos de secreción. Hay un aumento en la cantidad de tejido adiposo intersticial, reemplazando el tejido paratiroideo funcional. Las células oxífilas pueden estar disminuidas en número. El grado de atrofia depende de la causa del hipoparatiroidismo: en el hipoparatiroidismo idiopático, hay atrofia progresiva de las glándulas; en el hipoparatiroidismo postoperatorio (causado por daño quirúrgico de las glándulas durante la tiroidectomía), el grado de atrofia depende del daño causado. La atrofia de las glándulas paratiroides resulta en una disminución de la secreción de PTH, lo que lleva a hipocalcemia e hiperfosfatemia. El hipoparatiroidismo puede ser permanente o transitorio, dependiendo de si el daño a las glándulas es reversible."
     },
     {
       "id": 65,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el hiperparatiroidismo secundario?",
       "options": [
+        "Formación de nódulos únicos",
         "Atrofia de las células principales",
         "Hiperplasia difusa de las células principales, aumento del tamaño de las glándulas",
-        "Disminución del número de células",
-        "Formación de nódulos únicos"
+        "Disminución del número de células"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "En el hiperparatiroidismo secundario, los cambios histológicos incluyen hiperplasia difusa de las células principales, resultando en un aumento del tamaño de todas las glándulas paratiroides. La hiperplasia es una respuesta compensatoria a la hipocalcemia crónica causada por insuficiencia renal o deficiencia de vitamina D. Histológicamente, se observa una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Las células oxífilas pueden estar aumentadas en número. La hiperplasia es difusa, afectando todas las glándulas paratiroides de manera similar. El aumento en el tamaño de las glándulas es el resultado de una estimulación continua por hipocalcemia e hiperfosfatemia. A diferencia del hiperparatiroidismo primario, donde hay una pérdida de la sensibilidad al calcio, en el hiperparatiroidismo secundario las glándulas mantienen su sensibilidad al calcio pero están estimuladas crónicamente por hipocalcemia. El hiperparatiroidismo secundario puede progresar a hiperparatiroidismo terciario si se desarrolla una adenoma autónomo."
     },
     {
@@ -788,21 +788,21 @@
       "question": "¿Cuál es la diferencia histológica entre un adenoma paratiroideo y la hiperplasia paratiroides?",
       "options": [
         "No hay diferencias histológicas",
+        "La hiperplasia es siempre unilateral",
         "El adenoma es una lesión única con una cápsula bien definida; la hiperplasia afecta todas las glándulas",
-        "El adenoma afecta todas las glándulas",
-        "La hiperplasia es siempre unilateral"
+        "El adenoma afecta todas las glándulas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La diferencia fundamental entre un adenoma paratiroideo y la hiperplasia paratiroides es que el adenoma es una lesión única con una cápsula bien definida que la separa del tejido paratiroideo normal adyacente, mientras que la hiperplasia afecta todas las glándulas paratiroides de manera difusa. Histológicamente, un adenoma muestra una arquitectura de células principalmente principales o principalmente oxífilas, con una cápsula fibrosa que lo rodea. La glándula adyacente al adenoma generalmente está atrófica debido a la supresión de PTH por el adenoma. En la hiperplasia, todas las glándulas están aumentadas de tamaño con hiperplasia de células principales. La distinción entre adenoma y hiperplasia es importante desde el punto de vista clínico, ya que el tratamiento quirúrgico es diferente: en el adenoma, se realiza paratiroidectomía subtotal o total con autotrasplante; en la hiperplasia, se realiza paratiroidectomía subtotal de todas las glándulas. La distinción también es importante para el pronóstico: el adenoma tiene una tasa de recurrencia más baja que la hiperplasia."
     },
     {
       "id": 67,
       "question": "¿Cuáles son las características histológicas del carcinoma paratiroideo?",
       "options": [
-        "Células principales bien diferenciadas sin invasión",
-        "Invasión vascular y capsular, mitosis aumentadas, pleomorfismo nuclear",
         "Células oxífilas sin cambios malignos",
-        "Folículos bien definidos"
+        "Invasión vascular y capsular, mitosis aumentadas, pleomorfismo nuclear",
+        "Folículos bien definidos",
+        "Células principales bien diferenciadas sin invasión"
       ],
       "correctIndex": 1,
       "explanation": "El carcinoma paratiroideo es una neoplasia maligna rara que se caracteriza histológicamente por invasión vascular y capsular, mitosis aumentadas, pleomorfismo nuclear y necrosis. Las células tumorales pueden ser principalmente células principales o principalmente células oxífilas. La invasión vascular es un hallazgo importante que diferencia el carcinoma paratiroideo de los adenomas benignos. Se observa una pérdida de la arquitectura normal con reemplazo por células tumorales desorganizadas. El carcinoma paratiroideo generalmente se presenta con hipercalcemia severa y niveles muy elevados de PTH. El pronóstico del carcinoma paratiroideo es generalmente pobre, con una tasa de supervivencia a 5 años de aproximadamente 50%. La recurrencia local y la diseminación a distancia son comunes. El tratamiento incluye paratiroidectomía en bloque con resección de estructuras adyacentes afectadas. El carcinoma paratiroideo puede estar asociado con síndrome de hiperparatiroidismo-carcinoma paratiroideo (HPT-JT) causado por mutaciones en el gen CDC73."
@@ -811,24 +811,24 @@
       "id": 68,
       "question": "¿Cuál es la relación entre las glándulas paratiroides y el metabolismo del fósforo?",
       "options": [
+        "PTH aumenta la reabsorción renal de fósforo",
         "Las glándulas paratiroides no tienen relación con el metabolismo del fósforo",
         "PTH disminuye la reabsorción renal de fósforo, resultando en una disminución de los niveles de fósforo sérico",
-        "PTH aumenta la reabsorción renal de fósforo",
         "Las glándulas paratiroides producen fósforo"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Las glándulas paratiroides juegan un papel importante en la regulación del metabolismo del fósforo mediante la secreción de PTH. PTH disminuye la reabsorción renal de fósforo, resultando en un aumento de la excreción urinaria de fósforo y una disminución de los niveles de fósforo sérico. Este efecto de PTH sobre el fósforo es importante porque la disminución de los niveles de fósforo sérico facilita la activación de vitamina D en los riñones, que a su vez aumenta la absorción intestinal de calcio. La regulación del fósforo sérico es importante para mantener el producto calcio-fósforo dentro de un rango normal, previniendo la precipitación de fosfato de calcio en los tejidos. En el hiperparatiroidismo, hay una disminución de los niveles de fósforo sérico debido al efecto de PTH en la reabsorción renal de fósforo. En el hipoparatiroidismo, hay un aumento de los niveles de fósforo sérico debido a una disminución en la excreción urinaria de fósforo."
     },
     {
       "id": 69,
       "question": "¿Cuál es el papel del tejido conectivo intersticial en las glándulas paratiroides?",
       "options": [
-        "El tejido conectivo no tiene función en las glándulas paratiroides",
-        "El tejido conectivo proporciona soporte estructural y contiene vasos sanguíneos fenestrados para el intercambio hormonal",
+        "El tejido conectivo almacena calcio",
         "El tejido conectivo produce hormona paratiroidea",
-        "El tejido conectivo almacena calcio"
+        "El tejido conectivo no tiene función en las glándulas paratiroides",
+        "El tejido conectivo proporciona soporte estructural y contiene vasos sanguíneos fenestrados para el intercambio hormonal"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "El tejido conectivo intersticial de las glándulas paratiroides juega un papel importante en la función glandular. Proporciona soporte estructural a los cordones de células principales y células oxífilas. El tejido conectivo contiene vasos sanguíneos capilares fenestrados que facilitan un intercambio eficiente de iones de calcio y la secreción de hormona paratiroidea. La fenestración de los capilares permite que las moléculas de PTH secretadas por las células principales accedan rápidamente a la circulación. El tejido conectivo también contiene células del sistema inmunológico que participan en la regulación de la respuesta inmunológica local. El tejido conectivo contiene células adiposas que aumentan en número con la edad. En el hiperparatiroidismo primario, hay una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. En el hipoparatiroidismo, hay un aumento en la cantidad de tejido adiposo intersticial, reemplazando el tejido paratiroideo funcional."
     },
     {
@@ -836,35 +836,35 @@
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides durante el embarazo?",
       "options": [
         "No hay cambios significativos",
-        "Aumento del tamaño de las glándulas, hiperplasia de células principales",
         "Atrofia de las glándulas",
+        "Aumento del tamaño de las glándulas, hiperplasia de células principales",
         "Aumento de las células adiposas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Durante el embarazo, las glándulas paratiroides experimentan cambios histológicos que reflejan el aumento de la demanda de calcio para el desarrollo fetal. Se observa un aumento en el tamaño de las glándulas paratiroides, con hiperplasia de las células principales. El aumento en el tamaño es debido a la estimulación de las glándulas por la hipocalcemia relativa causada por el aumento de la demanda de calcio fetal. Histológicamente, hay una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Los niveles de PTH sérico aumentan durante el embarazo, reflejando la estimulación de las glándulas paratiroides. Los cambios histológicos son reversibles y las glándulas vuelven a su tamaño normal después del parto. Estos cambios fisiológicos son importantes para asegurar un suministro adecuado de calcio para el desarrollo fetal y para mantener la homeostasis del calcio materno durante el embarazo."
     },
     {
       "id": 71,
       "question": "¿Cuál es la relación entre las glándulas paratiroides y el hueso?",
       "options": [
+        "Las glándulas paratiroides inhiben la resorción ósea",
         "Las glándulas paratiroides no tienen relación con el hueso",
-        "PTH estimula la resorción ósea liberando calcio del hueso hacia la sangre",
         "Las glándulas paratiroides producen matriz ósea",
-        "Las glándulas paratiroides inhiben la resorción ósea"
+        "PTH estimula la resorción ósea liberando calcio del hueso hacia la sangre"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Las glándulas paratiroides juegan un papel importante en la regulación del metabolismo óseo mediante la secreción de PTH. PTH estimula la resorción ósea, un proceso en el cual los osteoclastos degradan la matriz ósea, liberando calcio y fósforo hacia la sangre. Este efecto de PTH sobre el hueso es importante para mantener los niveles de calcio sérico cuando la ingesta dietética de calcio es insuficiente o cuando hay una pérdida excesiva de calcio. PTH también estimula la diferenciación de osteoclastos a partir de sus precursores, aumentando el número de células resorptivas. A largo plazo, el hiperparatiroidismo crónico puede resultar en una pérdida significativa de masa ósea (osteoporosis), aumentando el riesgo de fracturas. En el hipoparatiroidismo, hay una disminución de la resorción ósea, resultando en un aumento de la densidad ósea. PTH también tiene efectos anabólicos sobre el hueso cuando se administra de manera intermitente, estimulando la formación ósea."
     },
     {
       "id": 72,
       "question": "¿Cuáles son las características histológicas del hiperparatiroidismo familiar?",
       "options": [
-        "Adenoma único",
         "Hiperplasia difusa de todas las glándulas paratiroides",
+        "Adenoma único",
         "Atrofia de las glándulas",
         "Fibrosis masiva"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El hiperparatiroidismo familiar se caracteriza histológicamente por hiperplasia difusa de todas las glándulas paratiroides. A diferencia del hiperparatiroidismo primario esporádico, que generalmente es causado por un adenoma único, el hiperparatiroidismo familiar es causado por mutaciones en genes como MEN1, CDC73 o CASR, resultando en una predisposición a la hiperplasia de todas las glándulas paratiroides. Histológicamente, todas las glándulas están aumentadas de tamaño con hiperplasia de células principales. La hiperplasia puede ser difusa o nodular. El hiperparatiroidismo familiar puede ser parte del síndrome de neoplasia endocrina múltiple (MEN1 o MEN2A), donde hay tumores en múltiples glándulas endocrinas. El diagnóstico de hiperparatiroidismo familiar requiere pruebas genéticas para identificar mutaciones en los genes responsables. El tratamiento quirúrgico del hiperparatiroidismo familiar es más complejo que el del hiperparatiroidismo esporádico, requiriendo paratiroidectomía subtotal de todas las glándulas o total con autotrasplante."
     },
     {
@@ -895,36 +895,36 @@
       "id": 75,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la insuficiencia renal crónica?",
       "options": [
-        "Atrofia de las glándulas",
         "Hiperplasia difusa de todas las glándulas paratiroides (hiperparatiroidismo secundario)",
         "Disminución del número de células",
-        "Formación de nódulos únicos"
+        "Formación de nódulos únicos",
+        "Atrofia de las glándulas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "En la insuficiencia renal crónica, hay hiperplasia difusa de todas las glándulas paratiroides, resultando en hiperparatiroidismo secundario. La hiperplasia es una respuesta compensatoria a la hipocalcemia crónica y la hiperfosfatemia causadas por la disminución de la función renal. Los riñones normalmente activan la vitamina D y excretan fósforo; en la insuficiencia renal, ambas funciones están comprometidas, resultando en hipocalcemia e hiperfosfatemia. La hipocalcemia e hiperfosfatemia estimulan la secreción de PTH, resultando en hiperplasia de las glándulas paratiroides. Histológicamente, se observa una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Con el tiempo, la hiperplasia puede progresar a hiperparatiroidismo terciario, donde se desarrollan adenomas autónomos que no responden a los cambios en los niveles de calcio. El hiperparatiroidismo secundario en la insuficiencia renal crónica puede resultar en complicaciones óseas severas y calcificaciones vasculares. El tratamiento incluye control de los niveles de fósforo, suplementos de vitamina D activa y, en algunos casos, paratiroidectomía."
     },
     {
       "id": 76,
       "question": "¿Cuál es el papel de la microvasculatura en la función paratiroides?",
       "options": [
-        "La microvasculatura no es importante para la función paratiroides",
         "La microvasculatura proporciona nutrientes, oxígeno y facilita el intercambio de calcio y la secreción de PTH",
+        "La microvasculatura produce hormona paratiroidea",
         "La microvasculatura solo proporciona soporte estructural",
-        "La microvasculatura produce hormona paratiroidea"
+        "La microvasculatura no es importante para la función paratiroides"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La microvasculatura de las glándulas paratiroides es crucial para su función normal. Los capilares sanguíneos fenestrados forman una red densa alrededor de los cordones de células paratiroides, proporcionando nutrientes y oxígeno necesarios para la síntesis de PTH. La fenestración de los capilares permite un intercambio eficiente de iones de calcio entre la sangre y el tejido intersticial, facilitando la detección de cambios en los niveles de calcio sérico por el receptor sensor de calcio. La microvasculatura también facilita la secreción rápida de PTH hacia la circulación sistémica. La regulación de la función paratiroides depende de la microvasculatura, ya que permite que los cambios en los niveles de calcio sérico sean detectados rápidamente por las células principales. La vascularización de las glándulas paratiroides puede cambiar en estados patológicos, afectando la función de las glándulas. En el hiperparatiroidismo, hay un aumento de la vascularización, reflejando el aumento de la actividad metabólica de las glándulas."
     },
     {
       "id": 77,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides durante la vejez?",
       "options": [
-        "No hay cambios significativos",
-        "Aumento de las células adiposas, atrofia de células principales, disminución del tamaño de las glándulas",
         "Hiperplasia de células principales",
-        "Aumento de la vascularización"
+        "Aumento de la vascularización",
+        "No hay cambios significativos",
+        "Aumento de las células adiposas, atrofia de células principales, disminución del tamaño de las glándulas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Durante la vejez, las glándulas paratiroides experimentan cambios histológicos progresivos que reflejan el envejecimiento. Se observa un aumento en la cantidad de tejido adiposo intersticial, reemplazando el tejido paratiroideo funcional. Las células principales muestran una disminución en el tamaño y número, con una disminución en el contenido de gránulos de secreción. El tamaño de las glándulas paratiroides disminuye gradualmente. La vascularización de las glándulas puede disminuir con la edad. Estos cambios histológicos son generalmente acompañados por cambios en la función paratiroides, aunque los mecanismos de regulación del calcio se mantienen relativamente intactos. La prevalencia de hiperparatiroidismo primario aumenta con la edad, probablemente debido a la acumulación de mutaciones en las células paratiroides. Los cambios histológicos relacionados con la edad son importantes para entender la fisiología paratiroides en los ancianos."
     },
     {
@@ -932,23 +932,23 @@
       "question": "¿Cuál es la relación entre las glándulas paratiroides y la función neuromuscular?",
       "options": [
         "Las glándulas paratiroides no tienen relación con la función neuromuscular",
+        "Las glándulas paratiroides solo afectan el metabolismo del fósforo",
         "Las glándulas paratiroides regulan los niveles de calcio sérico, que es esencial para la función neuromuscular normal",
-        "Las glándulas paratiroides producen neurotransmisores",
-        "Las glándulas paratiroides solo afectan el metabolismo del fósforo"
+        "Las glándulas paratiroides producen neurotransmisores"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Las glándulas paratiroides juegan un papel crucial en la regulación de la función neuromuscular mediante el mantenimiento de los niveles de calcio sérico. El calcio es esencial para la transmisión sináptica, la contracción muscular y la excitabilidad neuronal. La hipocalcemia (causada por hipoparatiroidismo) resulta en una excitabilidad neuromuscular aumentada, causando tetania, calambres musculares y convulsiones. La hipercalcemia (causada por hiperparatiroidismo) resulta en una disminución de la excitabilidad neuromuscular, causando debilidad muscular, fatiga y confusión mental. La regulación precisa de los niveles de calcio sérico por las glándulas paratiroides es importante para mantener la función neuromuscular normal. Las alteraciones en la función de las glándulas paratiroides pueden resultar en síntomas neuromusculares graves que pueden ser potencialmente mortales si no se tratan. El tratamiento de las enfermedades paratiroides está dirigido a normalizar los niveles de calcio sérico y restaurar la función neuromuscular normal."
     },
     {
       "id": 79,
       "question": "¿Cuáles son las características histológicas de la hiperplasia paratiroides nodular?",
       "options": [
+        "Células oxífilas predominantes",
         "Células principales uniformemente distribuidas",
         "Formación de nódulos discretos de células principales rodeados por tejido adiposo",
-        "Células oxífilas predominantes",
         "Folículos bien definidos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La hiperplasia paratiroides nodular se caracteriza histológicamente por la formación de nódulos discretos de células principales rodeados por tejido adiposo. Cada nódulo está separado del tejido paratiroideo adyacente por una cápsula de tejido conectivo fibroso. Los nódulos pueden variar en tamaño y pueden estar presentes en una o más glándulas. La hiperplasia nodular es más común en el hiperparatiroidismo secundario y terciario que en el hiperparatiroidismo primario. Histológicamente, los nódulos muestran una proliferación de células principalmente principales, con una arquitectura más compacta que el tejido paratiroideo normal. La presencia de nódulos puede complicar el diagnóstico intraoperatorio, ya que puede ser difícil distinguir entre un nódulo de hiperplasia y un adenoma. La hiperplasia nodular puede estar asociada con una mayor resistencia al tratamiento médico del hiperparatiroidismo secundario."
     },
     {
@@ -967,12 +967,12 @@
       "id": 81,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la hipercalcemia hipocalciúrica familiar?",
       "options": [
-        "Hiperplasia difusa de todas las glándulas",
         "Cambios mínimos o ausentes en la histología paratiroides",
         "Atrofia severa de las glándulas",
-        "Formación de nódulos"
+        "Formación de nódulos",
+        "Hiperplasia difusa de todas las glándulas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La hipercalcemia hipocalciúrica familiar (FHH) es una condición autosómica dominante causada por mutaciones en el gen del receptor sensor de calcio (CASR) que resultan en una pérdida de función del receptor. Histológicamente, las glándulas paratiroides generalmente muestran cambios mínimos o ausentes, ya que las células paratiroides tienen un umbral más alto para la supresión por calcio. La ausencia de cambios histológicos significativos es una característica importante que ayuda a diferenciar la FHH del hiperparatiroidismo primario. Los niveles de PTH sérico pueden estar normales o ligeramente elevados, a pesar de la hipercalcemia, debido a la pérdida de sensibilidad al calcio. El diagnóstico de FHH se basa en la historia familiar, los niveles bajos de excreción urinaria de calcio y las pruebas genéticas para mutaciones en el gen CASR. La FHH es generalmente asintomática y no requiere tratamiento, a diferencia del hiperparatiroidismo primario que requiere intervención quirúrgica o médica."
     },
     {
@@ -980,33 +980,33 @@
       "question": "¿Cuál es la relación entre las glándulas paratiroides y la presión arterial?",
       "options": [
         "Las glándulas paratiroides no tienen relación con la presión arterial",
-        "La hipercalcemia causada por hiperparatiroidismo puede contribuir a la hipertensión",
+        "Las glándulas paratiroides solo afectan el metabolismo del fósforo",
         "Las glándulas paratiroides producen sustancias vasodilatadoras",
-        "Las glándulas paratiroides solo afectan el metabolismo del fósforo"
+        "La hipercalcemia causada por hiperparatiroidismo puede contribuir a la hipertensión"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Las glándulas paratiroides pueden tener una relación indirecta con la presión arterial mediante los efectos del calcio sérico en la función vascular. La hipercalcemia causada por hiperparatiroidismo puede contribuir a la hipertensión mediante varios mecanismos: el calcio aumentado puede afectar la función endotelial y la reactividad vascular, puede aumentar la sensibilidad a las catecolaminas, y puede afectar el sistema renina-angiotensina-aldosterona. La corrección de la hipercalcemia mediante paratiroidectomía en pacientes con hiperparatiroidismo puede resultar en una disminución de la presión arterial. Sin embargo, la relación entre hiperparatiroidismo e hipertensión es compleja y no todos los pacientes con hiperparatiroidismo tienen hipertensión. La hipocalcemia causada por hipoparatiroidismo puede resultar en una disminución de la presión arterial. La regulación precisa de los niveles de calcio sérico por las glándulas paratiroides es importante para mantener la presión arterial normal."
     },
     {
       "id": 83,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la tiroiditis autoinmune?",
       "options": [
-        "No hay cambios en las glándulas paratiroides",
-        "Infiltración de linfocitos y células plasmáticas, destrucción de células paratiroides",
+        "Aumento de las células adiposas",
         "Hiperplasia de células principales",
-        "Aumento de las células adiposas"
+        "Infiltración de linfocitos y células plasmáticas, destrucción de células paratiroides",
+        "No hay cambios en las glándulas paratiroides"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "En la tiroiditis autoinmune, puede haber infiltración de linfocitos y células plasmáticas en las glándulas paratiroides, resultando en hipoparatiroidismo autoinmune. Histológicamente, se observa una infiltración de células inflamatorias que destruyen las células paratiroides funcionales. Esto puede resultar en una disminución de la secreción de PTH y hipocalcemia. El hipoparatiroidismo autoinmune puede ocurrir como parte de un síndrome poliglandular autoinmune, donde hay afectación de múltiples glándulas endocrinas. Los anticuerpos contra la enzima descarboxilasa del ácido glutámico (GAD) y contra otras proteínas paratiroides pueden estar presentes en el suero de pacientes con hipoparatiroidismo autoinmune. El diagnóstico de hipoparatiroidismo autoinmune se basa en la presencia de hipocalcemia, hiperfosfatemia, niveles bajos de PTH y evidencia de autoinmunidad. El tratamiento incluye suplementos de calcio y vitamina D activa para mantener los niveles de calcio sérico normales."
     },
     {
       "id": 84,
       "question": "¿Cuál es el papel de la inmunohistoquímica en el diagnóstico de patología paratiroides?",
       "options": [
-        "La inmunohistoquímica no es útil en el diagnóstico de patología paratiroides",
-        "La inmunohistoquímica permite identificar PTH, cromogranina A y otros marcadores para confirmar el diagnóstico",
         "La inmunohistoquímica solo se utiliza para medir los niveles de calcio",
-        "La inmunohistoquímica es un procedimiento postoperatorio"
+        "La inmunohistoquímica permite identificar PTH, cromogranina A y otros marcadores para confirmar el diagnóstico",
+        "La inmunohistoquímica es un procedimiento postoperatorio",
+        "La inmunohistoquímica no es útil en el diagnóstico de patología paratiroides"
       ],
       "correctIndex": 1,
       "explanation": "La inmunohistoquímica es una herramienta importante en el diagnóstico de patología paratiroides que permite identificar PTH, cromogranina A, sinaptofisina y otros marcadores neuroendocrinos para confirmar el diagnóstico de tejido paratiroideo. La inmunohistoquímica para PTH es particularmente útil para confirmar que el tejido es paratiroideo funcional y para identificar células paratiroides en biopsias o especímenes quirúrgicos. La inmunohistoquímica también puede ser útil para identificar el tipo de lesión paratiroides: los adenomas generalmente muestran una tinción homogénea para PTH, mientras que la hiperplasia muestra una tinción más heterogénea. La inmunohistoquímica para Ki-67 puede ser útil para evaluar la proliferación celular y diferenciar entre adenomas benignos y carcinomas malignos. La inmunohistoquímica para otros marcadores como calcitonina puede ser útil para excluir contaminación con tejido tiroideo. La inmunohistoquímica es una parte importante del protocolo de diagnóstico histológico de patología paratiroides."
@@ -1015,22 +1015,22 @@
       "id": 85,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el síndrome de neoplasia endocrina múltiple tipo 1 (MEN1)?",
       "options": [
-        "Adenoma único",
         "Hiperplasia difusa de todas las glándulas paratiroides",
+        "Adenoma único",
         "Atrofia de las glándulas",
         "Fibrosis masiva"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El síndrome de neoplasia endocrina múltiple tipo 1 (MEN1) es causado por mutaciones en el gen MEN1 que resultan en una predisposición a tumores en múltiples glándulas endocrinas, incluyendo las glándulas paratiroides. Histológicamente, las glándulas paratiroides muestran hiperplasia difusa de todas las glándulas, similar al hiperparatiroidismo familiar. La hiperplasia puede ser difusa o nodular. Los pacientes con MEN1 tienen un riesgo muy alto de desarrollar hiperparatiroidismo primario, con más del 90% de los pacientes afectados desarrollando hiperparatiroidismo antes de los 40 años. El diagnóstico de MEN1 se basa en la presencia de tumores en dos o más de las glándulas endocrinas afectadas (paratiroides, páncreas, hipófisis). El tratamiento del hiperparatiroidismo en MEN1 es más complejo que en el hiperparatiroidismo esporádico, requiriendo paratiroidectomía subtotal de todas las glándulas o total con autotrasplante, con una tasa de recurrencia más alta."
     },
     {
       "id": 86,
       "question": "¿Cuál es la relación entre la hipercalcemia y la función renal?",
       "options": [
-        "La hipercalcemia no afecta la función renal",
+        "La hipercalcemia solo afecta el metabolismo del fósforo",
         "La hipercalcemia crónica puede resultar en daño renal, incluyendo nefrolitiasis y nefrocalcinosis",
         "La hipercalcemia mejora la función renal",
-        "La hipercalcemia solo afecta el metabolismo del fósforo"
+        "La hipercalcemia no afecta la función renal"
       ],
       "correctIndex": 1,
       "explanation": "La hipercalcemia crónica causada por hiperparatiroidismo puede resultar en daño renal significativo. La hipercalcemia aumenta la excreción urinaria de calcio, lo que puede resultar en nefrolitiasis (formación de cálculos renales) y nefrocalcinosis (depósito de calcio en el tejido renal). La hipercalcemia también puede resultar en una disminución de la función renal glomerular, resultando en insuficiencia renal crónica. El daño renal causado por hipercalcemia es generalmente reversible si la hipercalcemia se corrige mediante paratiroidectomía. La hipercalcemia también puede afectar la función tubular renal, resultando en una disminución de la capacidad de concentración urinaria. La prevención del daño renal en pacientes con hiperparatiroidismo es una indicación importante para la intervención quirúrgica. La evaluación de la función renal es importante en el manejo de pacientes con hiperparatiroidismo, ya que la presencia de insuficiencia renal puede afectar el tratamiento."
@@ -1040,23 +1040,23 @@
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la radiación?",
       "options": [
         "No hay cambios significativos",
-        "Daño de las células paratiroides, inflamación, fibrosis y posible desarrollo de adenoma",
         "Hiperplasia de células principales",
+        "Daño de las células paratiroides, inflamación, fibrosis y posible desarrollo de adenoma",
         "Aumento de las células adiposas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La exposición a radiación ionizante puede causar daño a las glándulas paratiroides, resultando en cambios histológicos que incluyen daño directo de las células paratiroides, infiltración de células inflamatorias y fibrosis progresiva. La radiación puede resultar en una disminución de la función paratiroides (hipoparatiroidismo) o, paradójicamente, en el desarrollo de adenomas paratiroideos (hiperparatiroidismo). El riesgo de desarrollar adenoma paratiroideo después de radiación aumenta con la dosis de radiación recibida y con el tiempo transcurrido desde la exposición. Los cambios histológicos pueden incluir cambios displásicos en las células paratiroides que pueden progresar a malignidad. La tiroiditis por radiación puede ocurrir en pacientes que reciben radioterapia para cánceres de cabeza y cuello. La evaluación de la función paratiroides es importante en pacientes que han recibido radiación cervical."
     },
     {
       "id": 88,
       "question": "¿Cuál es la relación entre las glándulas paratiroides y la función cardiovascular?",
       "options": [
-        "Las glándulas paratiroides no tienen relación con la función cardiovascular",
         "La hipercalcemia causada por hiperparatiroidismo puede afectar la función cardíaca y aumentar el riesgo de arritmias",
         "Las glándulas paratiroides producen sustancias cardioactivas",
-        "Las glándulas paratiroides solo afectan el metabolismo del fósforo"
+        "Las glándulas paratiroides solo afectan el metabolismo del fósforo",
+        "Las glándulas paratiroides no tienen relación con la función cardiovascular"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las glándulas paratiroides pueden tener una relación importante con la función cardiovascular mediante los efectos del calcio sérico en la función cardíaca. La hipercalcemia causada por hiperparatiroidismo puede afectar la función cardíaca mediante varios mecanismos: el calcio aumentado puede afectar la conducción cardíaca, aumentar la irritabilidad miocárdica y aumentar el riesgo de arritmias. La hipercalcemia crónica puede resultar en calcificación de las válvulas cardíacas y de los vasos coronarios. La hipercalcemia también puede aumentar el riesgo de enfermedad cardiovascular mediante efectos en la presión arterial y el metabolismo lipídico. La hipocalcemia causada por hipoparatiroidismo puede resultar en prolongación del intervalo QT y arritmias cardíacas. La regulación precisa de los niveles de calcio sérico por las glándulas paratiroides es importante para mantener la función cardiovascular normal. El tratamiento del hiperparatiroidismo puede resultar en una mejora de la función cardiovascular."
     },
     {
@@ -1065,8 +1065,8 @@
       "options": [
         "Hiperplasia difusa de todas las glándulas",
         "Desarrollo de adenomas autónomos en el contexto de hiperparatiroidismo secundario crónico",
-        "Atrofia de las glándulas",
-        "Fibrosis masiva"
+        "Fibrosis masiva",
+        "Atrofia de las glándulas"
       ],
       "correctIndex": 1,
       "explanation": "El hiperparatiroidismo terciario se desarrolla cuando el hiperparatiroidismo secundario crónico progresa a una condición en la que se desarrollan adenomas autónomos que no responden a los cambios en los niveles de calcio. Histológicamente, hay desarrollo de nódulos de células principales que forman adenomas dentro del contexto de hiperplasia difusa. Los adenomas son autónomos y continúan secretando PTH incluso cuando los niveles de calcio sérico están elevados. El hiperparatiroidismo terciario ocurre típicamente en pacientes con insuficiencia renal crónica de larga duración que han recibido trasplante renal. Después del trasplante renal, la función renal mejora, pero los adenomas autónomos continúan secretando PTH, resultando en hipercalcemia persistente. El diagnóstico de hiperparatiroidismo terciario se basa en la presencia de hipercalcemia, niveles elevados de PTH y evidencia de insuficiencia renal previa. El tratamiento incluye paratiroidectomía subtotal o total con autotrasplante."
@@ -1075,36 +1075,36 @@
       "id": 90,
       "question": "¿Cuál es el papel de la tomografía por emisión de positrones (PET) en el diagnóstico de patología paratiroides?",
       "options": [
-        "La PET no es útil en el diagnóstico de patología paratiroides",
-        "La PET puede ser útil para localizar glándulas paratiroides ectópicas o adenomas en casos de hiperparatiroidismo persistente o recurrente",
         "La PET solo se utiliza para medir los niveles de PTH",
-        "La PET es un procedimiento postoperatorio"
+        "La PET es un procedimiento postoperatorio",
+        "La PET puede ser útil para localizar glándulas paratiroides ectópicas o adenomas en casos de hiperparatiroidismo persistente o recurrente",
+        "La PET no es útil en el diagnóstico de patología paratiroides"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La tomografía por emisión de positrones (PET) puede ser útil para localizar glándulas paratiroides ectópicas o adenomas en casos de hiperparatiroidismo persistente o recurrente cuando otras técnicas de localización han fallado. La PET utiliza trazadores radiactivos que se acumulan en el tejido paratiroideo hipermetabólico, permitiendo la visualización de la glándula paratiroides. La PET es particularmente útil en pacientes con hiperparatiroidismo recurrente después de paratiroidectomía previa, cuando la localización del tejido paratiroideo residual puede ser difícil. La PET también puede ser útil para detectar carcinoma paratiroideo metastásico. Sin embargo, la PET tiene una sensibilidad limitada en la localización de glándulas paratiroides normales o ligeramente aumentadas de tamaño. La PET generalmente se reserva para casos complejos donde otras técnicas de localización han fallado. La combinación de PET con otras técnicas de imagen como la resonancia magnética puede mejorar la precisión diagnóstica."
     },
     {
       "id": 91,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el síndrome de neoplasia endocrina múltiple tipo 2A (MEN2A)?",
       "options": [
+        "Fibrosis masiva",
         "Adenoma único",
         "Hiperplasia difusa de todas las glándulas paratiroides",
-        "Atrofia de las glándulas",
-        "Fibrosis masiva"
+        "Atrofia de las glándulas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El síndrome de neoplasia endocrina múltiple tipo 2A (MEN2A) es causado por mutaciones en el gen RET que resultan en una predisposición a tumores en múltiples glándulas endocrinas, incluyendo las glándulas paratiroides, la médula suprarrenal (feocromocitoma) y la glándula tiroides (carcinoma medular). Histológicamente, las glándulas paratiroides muestran hiperplasia difusa de todas las glándulas, similar al hiperparatiroidismo familiar. La hiperplasia puede ser difusa o nodular. Aproximadamente el 20-30% de los pacientes con MEN2A desarrollan hiperparatiroidismo. El diagnóstico de MEN2A se basa en la presencia de carcinoma medular de tiroides y feocromocitoma, con o sin hiperparatiroidismo. El tratamiento del hiperparatiroidismo en MEN2A es similar al del hiperparatiroidismo familiar, requiriendo paratiroidectomía subtotal de todas las glándulas o total con autotrasplante."
     },
     {
       "id": 92,
       "question": "¿Cuál es la relación entre la hipocalcemia y la función neuromuscular?",
       "options": [
-        "La hipocalcemia no afecta la función neuromuscular",
         "La hipocalcemia aumenta la excitabilidad neuromuscular, causando tetania, calambres y convulsiones",
         "La hipocalcemia disminuye la excitabilidad neuromuscular",
+        "La hipocalcemia no afecta la función neuromuscular",
         "La hipocalcemia solo afecta el metabolismo del fósforo"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La hipocalcemia causada por hipoparatiroidismo aumenta la excitabilidad neuromuscular, resultando en síntomas neuromusculares graves. La disminución del calcio sérico disminuye el umbral de excitabilidad de las neuronas y los músculos, resultando en una mayor propensión a la despolarización espontánea. Esto se manifiesta clínicamente como tetania (contracciones musculares involuntarias), calambres musculares, parestesias (sensaciones de hormigueo) y, en casos severos, convulsiones. La hipocalcemia severa puede resultar en arritmias cardíacas potencialmente mortales. El signo de Chvostek (contracción facial al golpear el nervio facial) y el signo de Trousseau (contracción de la mano al inflar un manguito de presión arterial) son signos clínicos de hipocalcemia. El tratamiento de la hipocalcemia incluye suplementos de calcio intravenoso en casos agudos y suplementos de calcio oral más vitamina D activa en casos crónicos. La corrección rápida de la hipocalcemia es importante para prevenir complicaciones neuromusculares severas."
     },
     {
@@ -1112,11 +1112,11 @@
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la hipercalcemia de la malignidad?",
       "options": [
         "Hiperplasia de células principales",
+        "Formación de nódulos",
         "Cambios mínimos o ausentes en la histología paratiroides",
-        "Atrofia de las glándulas",
-        "Formación de nódulos"
+        "Atrofia de las glándulas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "En la hipercalcemia de la malignidad, las glándulas paratiroides generalmente muestran cambios mínimos o ausentes en la histología, ya que la hipercalcemia es causada por factores tumorales (como hormona paratiroidea relacionada o calcitriol producido por el tumor) y no por disfunción paratiroides. De hecho, la hipercalcemia causada por factores tumorales generalmente resulta en una supresión de la secreción de PTH, resultando en atrofia de las glándulas paratiroides. Los niveles de PTH sérico son bajos o indetectables en la hipercalcemia de la malignidad, a diferencia del hiperparatiroidismo primario donde los niveles de PTH están elevados. El diagnóstico de hipercalcemia de la malignidad se basa en la presencia de malignidad, hipercalcemia y niveles bajos de PTH. La identificación de la causa de la hipercalcemia es importante para el tratamiento apropiado, ya que el tratamiento de la hipercalcemia de la malignidad está dirigido al tumor subyacente, no a las glándulas paratiroides."
     },
     {
@@ -1124,21 +1124,21 @@
       "question": "¿Cuál es el papel de la medición intraoperatoria de PTH durante la cirugía paratiroides?",
       "options": [
         "La medición intraoperatoria de PTH no es útil",
+        "La medición intraoperatoria de PTH es un procedimiento postoperatorio",
         "La medición intraoperatoria de PTH permite confirmar la resección adecuada del tejido paratiroideo hiperplásico",
-        "La medición intraoperatoria de PTH solo se utiliza para medir los niveles de calcio",
-        "La medición intraoperatoria de PTH es un procedimiento postoperatorio"
+        "La medición intraoperatoria de PTH solo se utiliza para medir los niveles de calcio"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La medición intraoperatoria de PTH es una herramienta importante durante la cirugía paratiroides que permite al cirujano confirmar la resección adecuada del tejido paratiroideo hiperplásico. Se obtiene una muestra de sangre antes de la resección (PTH basal) y luego se obtienen muestras después de la resección. Una disminución de al menos el 50% en los niveles de PTH después de la resección, o una disminución a niveles normales, indica una resección adecuada. La medición intraoperatoria de PTH es particularmente útil en casos de hiperparatiroidismo secundario o terciario, donde puede haber múltiples glándulas afectadas. La medición intraoperatoria de PTH también puede ser útil para identificar la glándula afectada en casos de hiperparatiroidismo primario, ya que la resección de la glándula afectada resultará en una disminución rápida de los niveles de PTH. La precisión de la medición intraoperatoria de PTH es generalmente alta, con una sensibilidad y especificidad superiores al 90%. La medición intraoperatoria de PTH es una parte importante del protocolo quirúrgico del hiperparatiroidismo."
     },
     {
       "id": 95,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la sarcoidosis?",
       "options": [
-        "No hay cambios en las glándulas paratiroides",
+        "Aumento de las células adiposas",
         "Infiltración de granulomas no caseosos, posible hipercalcemia por producción de calcitriol por macrófagos",
-        "Hiperplasia de células principales",
-        "Aumento de las células adiposas"
+        "No hay cambios en las glándulas paratiroides",
+        "Hiperplasia de células principales"
       ],
       "correctIndex": 1,
       "explanation": "En la sarcoidosis, puede haber infiltración de granulomas no caseosos en las glándulas paratiroides, resultando en hipercalcemia. La hipercalcemia en la sarcoidosis es causada por la producción de calcitriol (vitamina D activa) por macrófagos activados dentro de los granulomas. La hipercalcemia en la sarcoidosis es generalmente acompañada por niveles bajos de PTH debido a la supresión de la secreción de PTH por la hipercalcemia. Histológicamente, se observan granulomas no caseosos infiltrando las glándulas paratiroides, con posible destrucción de las células paratiroides. La hipercalcemia en la sarcoidosis puede resultar en daño renal y nefrolitiasis. El diagnóstico de hipercalcemia en la sarcoidosis se basa en la presencia de sarcoidosis sistémica, hipercalcemia y niveles bajos de PTH. El tratamiento de la hipercalcemia en la sarcoidosis incluye restricción de calcio dietético, corticosteroides para suprimir la producción de calcitriol por los macrófagos, y tratamiento de la sarcoidosis subyacente."
@@ -1147,34 +1147,34 @@
       "id": 96,
       "question": "¿Cuál es la relación entre la hipercalcemia y la función cognitiva?",
       "options": [
+        "La hipercalcemia solo afecta el metabolismo del fósforo",
         "La hipercalcemia no afecta la función cognitiva",
-        "La hipercalcemia crónica puede resultar en cambios cognitivos incluyendo confusión mental, depresión y deterioro cognitivo",
         "La hipercalcemia mejora la función cognitiva",
-        "La hipercalcemia solo afecta el metabolismo del fósforo"
+        "La hipercalcemia crónica puede resultar en cambios cognitivos incluyendo confusión mental, depresión y deterioro cognitivo"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La hipercalcemia crónica causada por hiperparatiroidismo puede resultar en cambios cognitivos significativos incluyendo confusión mental, depresión, ansiedad, irritabilidad y deterioro cognitivo. Estos cambios cognitivos son a menudo reversibles después de la corrección de la hipercalcemia mediante paratiroidectomía. Los mecanismos por los cuales la hipercalcemia afecta la función cognitiva incluyen efectos directos del calcio en la función neuronal, alteraciones en la neurotransmisión y efectos en la perfusión cerebral. La hipercalcemia severa puede resultar en encefalopatía hipercalcémica, caracterizada por letargo, confusión y, en casos severos, coma. La evaluación de la función cognitiva es importante en pacientes con hiperparatiroidismo, ya que la corrección de la hipercalcemia puede resultar en una mejora significativa de los síntomas cognitivos. La hipercalcemia crónica también puede estar asociada con osteoporosis y aumento del riesgo de fracturas, que pueden contribuir a la discapacidad cognitiva."
     },
     {
       "id": 97,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la tuberculosis?",
       "options": [
+        "Hiperplasia de células principales",
         "No hay cambios en las glándulas paratiroides",
         "Infiltración de granulomas caseosos, posible destrucción de células paratiroides resultando en hipoparatiroidismo",
-        "Hiperplasia de células principales",
         "Aumento de las células adiposas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "En la tuberculosis, puede haber infiltración de granulomas caseosos en las glándulas paratiroides, resultando en posible destrucción de las células paratiroides e hipoparatiroidismo. Histológicamente, se observan granulomas caseosos infiltrando las glándulas paratiroides, con necrosis central rodeada por células epiteloides y células gigantes multinucleadas. La infiltración de tuberculosis en las glándulas paratiroides es rara pero puede resultar en hipoparatiroidismo severo. El hipoparatiroidismo causado por tuberculosis puede resultar en hipocalcemia severa con síntomas neuromusculares. El diagnóstico de tuberculosis de las glándulas paratiroides se basa en la identificación de bacilos ácido-alcohol resistentes en los granulomas y en el cultivo de Mycobacterium tuberculosis. El tratamiento incluye terapia antituberculosa apropiada y suplementos de calcio y vitamina D para corregir la hipocalcemia. La tuberculosis de las glándulas paratiroides es una causa rara de hipoparatiroidismo en áreas donde la tuberculosis es endémica."
     },
     {
       "id": 98,
       "question": "¿Cuál es el papel de la resonancia magnética (RM) en la localización de glándulas paratiroides?",
       "options": [
-        "La RM no es útil en la localización de glándulas paratiroides",
+        "La RM es un procedimiento postoperatorio",
         "La RM puede ser útil para localizar glándulas paratiroides ectópicas o adenomas, especialmente en el mediastino",
         "La RM solo se utiliza para medir los niveles de PTH",
-        "La RM es un procedimiento postoperatorio"
+        "La RM no es útil en la localización de glándulas paratiroides"
       ],
       "correctIndex": 1,
       "explanation": "La resonancia magnética (RM) puede ser útil para localizar glándulas paratiroides ectópicas o adenomas, especialmente cuando están localizadas en el mediastino o en otras ubicaciones ectópicas. La RM tiene una buena resolución de tejidos blandos y puede diferenciar entre tejido paratiroideo y otros tejidos. La RM es particularmente útil en pacientes con hiperparatiroidismo recurrente después de paratiroidectomía previa, cuando la localización del tejido paratiroideo residual puede ser difícil. La RM también puede ser útil para detectar carcinoma paratiroideo invasivo. Sin embargo, la RM tiene una sensibilidad limitada en la localización de glándulas paratiroides normales o ligeramente aumentadas de tamaño. La RM generalmente se reserva para casos complejos donde otras técnicas de localización han fallado o cuando hay sospecha de carcinoma paratiroideo. La combinación de RM con otras técnicas de imagen como la PET puede mejorar la precisión diagnóstica."
@@ -1183,24 +1183,24 @@
       "id": 99,
       "question": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la hemocromatosis?",
       "options": [
-        "No hay cambios en las glándulas paratiroides",
-        "Depósito de hierro en las células paratiroides, posible disfunción paratiroides",
+        "Aumento de las células adiposas",
         "Hiperplasia de células principales",
-        "Aumento de las células adiposas"
+        "No hay cambios en las glándulas paratiroides",
+        "Depósito de hierro en las células paratiroides, posible disfunción paratiroides"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "En la hemocromatosis, puede haber depósito de hierro en las células paratiroides, resultando en posible disfunción paratiroides. Histológicamente, se observa depósito de hierro dentro de las células paratiroides, que puede ser demostrado mediante tinción de Prusia azul. El depósito de hierro puede resultar en destrucción de las células paratiroides e hipoparatiroidismo. La hemocromatosis también puede afectar otras glándulas endocrinas, resultando en diabetes mellitus, hipogonadismo e hipotiroidismo. El hipoparatiroidismo causado por hemocromatosis puede resultar en hipocalcemia e hiperfosfatemia. El diagnóstico de disfunción paratiroides en la hemocromatosis se basa en la presencia de hemocromatosis sistémica, hipocalcemia, hiperfosfatemia y niveles bajos de PTH. El tratamiento incluye flebotomía o quelación de hierro para reducir los depósitos de hierro, y suplementos de calcio y vitamina D para corregir la hipocalcemia. La hemocromatosis es una causa rara de hipoparatiroidismo."
     },
     {
       "id": 100,
       "question": "¿Cuál es la importancia de la biopsia por aspiración con aguja fina (BAAF) en el diagnóstico de patología paratiroides?",
       "options": [
-        "La BAAF no es útil en el diagnóstico de patología paratiroides",
-        "La BAAF es un procedimiento mínimamente invasivo que permite obtener células paratiroides para diagnóstico citológico",
+        "La BAAF es un procedimiento quirúrgico mayor",
         "La BAAF solo se utiliza para medir los niveles de PTH",
-        "La BAAF es un procedimiento quirúrgico mayor"
+        "La BAAF no es útil en el diagnóstico de patología paratiroides",
+        "La BAAF es un procedimiento mínimamente invasivo que permite obtener células paratiroides para diagnóstico citológico"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La biopsia por aspiración con aguja fina (BAAF) es un procedimiento mínimamente invasivo que permite obtener células paratiroides para diagnóstico citológico. La BAAF puede ser útil en la evaluación de lesiones paratiroides detectadas por ecografía o por otras técnicas de imagen. Las células obtenidas pueden ser examinadas citológicamente para evaluar características de malignidad. La BAAF puede ser útil para diferenciar entre adenoma paratiroideo benigno y carcinoma paratiroideo maligno. Sin embargo, la BAAF tiene limitaciones en la evaluación de patología paratiroides, ya que la distinción entre adenoma y carcinoma basada en características citológicas puede ser difícil. La BAAF también puede resultar en complicaciones como sangrado o infección, aunque estas complicaciones son raras. La BAAF generalmente se reserva para casos donde hay sospecha de carcinoma paratiroideo o cuando otras técnicas de diagnóstico han sido no concluyentes. La BAAF es menos comúnmente utilizada en la evaluación de patología paratiroides en comparación con la evaluación de patología tiroidea."
     }
   ]

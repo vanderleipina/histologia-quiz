@@ -6,19 +6,19 @@
     {
       "question": "¿Cuáles son las estructuras que componen el aparato digestivo?",
       "options": [
+        "Solo el esófago",
         "Solo el tubo digestivo",
         "Tubo digestivo más estructuras anexas (lengua, dientes, glándulas salivales, páncreas, hígado, vesícula biliar)",
-        "Solo glándulas salivales",
-        "Solo el esófago"
+        "Solo glándulas salivales"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El aparato digestivo está compuesto por el tubo digestivo y estructuras anexas como la lengua, dientes, glándulas salivales, páncreas, hígado y vesícula biliar."
     },
     {
       "question": "¿Cuáles son las funciones generales del aparato digestivo?",
       "options": [
-        "Solo digestión",
         "Digestión y absorción",
+        "Solo digestión",
         "Digestión, absorción y excreción",
         "Solo absorción"
       ],
@@ -29,75 +29,75 @@
       "question": "¿Cuáles son las divisiones de la cavidad bucal?",
       "options": [
         "Solo cavidad bucal propiamente dicha",
-        "Vestíbulo y cavidad bucal propiamente dicha",
         "Vestíbulo, cavidad bucal propiamente dicha y faringe",
-        "Solo vestíbulo"
+        "Solo vestíbulo",
+        "Vestíbulo y cavidad bucal propiamente dicha"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La cavidad bucal se divide en vestíbulo y cavidad bucal propiamente dicha."
     },
     {
       "question": "¿Cuáles son los tipos de mucosa que tapizan la cavidad bucal?",
       "options": [
-        "Solo mucosa masticatoria",
-        "Mucosa masticatoria y de revestimiento",
+        "Solo mucosa especializada",
         "Mucosa masticatoria, de revestimiento y especializada",
-        "Solo mucosa especializada"
+        "Mucosa masticatoria y de revestimiento",
+        "Solo mucosa masticatoria"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "La cavidad bucal está tapizada por tres tipos de mucosa: masticatoria, de revestimiento y especializada."
     },
     {
       "question": "¿Dónde se localiza la mucosa masticatoria?",
       "options": [
-        "En las mejillas y labios",
-        "En el paladar blando",
         "En el paladar duro y encías",
-        "En la lengua"
+        "En la lengua",
+        "En las mejillas y labios",
+        "En el paladar blando"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "La mucosa masticatoria se localiza en el paladar duro y las encías, donde soporta fuerzas masticatorias."
     },
     {
       "question": "¿Cuál es la función de la mucosa masticatoria?",
       "options": [
         "Facilitar movimientos",
-        "Resistir fuerzas mecánicas de la masticación",
         "Detectar sabores",
+        "Resistir fuerzas mecánicas de la masticación",
         "Producir enzimas digestivas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La mucosa masticatoria está adaptada para resistir las fuerzas mecánicas de la masticación."
     },
     {
       "question": "¿Dónde se localiza la mucosa de revestimiento?",
       "options": [
-        "En el paladar duro",
         "En las encías",
         "En las mejillas, labios y paladar blando",
+        "En el paladar duro",
         "En el dorso de la lengua"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "La mucosa de revestimiento se localiza en las mejillas, labios y paladar blando."
     },
     {
       "question": "¿Cuál es la función de la mucosa de revestimiento?",
       "options": [
-        "Resistir masticación",
-        "Flexible y móvil, facilita movimientos de masticación y deglución",
         "Detectar sabores",
-        "Producir saliva"
+        "Producir saliva",
+        "Resistir masticación",
+        "Flexible y móvil, facilita movimientos de masticación y deglución"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "La mucosa de revestimiento es flexible y móvil, facilitando los movimientos de masticación y deglución."
     },
     {
       "question": "¿Dónde se localiza la mucosa especializada?",
       "options": [
+        "En el paladar blando",
         "En las mejillas",
-        "En los labios",
         "En la lengua",
-        "En el paladar blando"
+        "En los labios"
       ],
       "correctIndex": 2,
       "explanation": "La mucosa especializada se localiza en la lengua, donde contiene las papilas gustativas."
@@ -105,111 +105,111 @@
     {
       "question": "¿Cuál es la función de la mucosa especializada?",
       "options": [
-        "Resistir masticación",
-        "Facilitar movimientos",
+        "Producir moco",
         "Contiene papilas gustativas y está especializada en la percepción del gusto",
-        "Producir moco"
+        "Facilitar movimientos",
+        "Resistir masticación"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "La mucosa especializada contiene papilas gustativas y está especializada en la percepción del gusto."
     },
     {
       "question": "¿Cuál es el vestíbulo de la cavidad bucal?",
       "options": [
+        "La lengua",
         "La cavidad bucal propiamente dicha",
-        "El espacio entre los dientes y los labios/mejillas",
         "El paladar duro",
-        "La lengua"
+        "El espacio entre los dientes y los labios/mejillas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "El vestíbulo es el espacio entre los dientes y los labios/mejillas."
     },
     {
       "question": "¿Qué es la cavidad bucal propiamente dicha?",
       "options": [
         "El espacio entre los dientes y los labios",
+        "Solo el paladar",
         "El espacio dentro de los dientes, limitado por el paladar arriba y la lengua abajo",
-        "Solo la lengua",
-        "Solo el paladar"
+        "Solo la lengua"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "La cavidad bucal propiamente dicha es el espacio dentro de los dientes, limitado por el paladar arriba y la lengua abajo."
     },
     {
       "question": "¿Cuáles son las funciones de la lengua?",
       "options": [
         "Solo masticación",
+        "Solo percepción del gusto",
         "Solo deglución",
-        "Masticación, deglución, fonación y percepción del gusto",
-        "Solo percepción del gusto"
+        "Masticación, deglución, fonación y percepción del gusto"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "La lengua participa en la masticación, deglución, fonación y percepción del gusto."
     },
     {
       "question": "¿Cuáles son los tipos de dientes en humanos?",
       "options": [
-        "Solo incisivos",
-        "Incisivos, caninos, premolares y molares",
+        "Incisivos y molares",
         "Solo molares",
-        "Incisivos y molares"
+        "Solo incisivos",
+        "Incisivos, caninos, premolares y molares"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Los dientes se clasifican en incisivos, caninos, premolares y molares."
     },
     {
       "question": "¿Cuál es la función de los incisivos?",
       "options": [
         "Desgarrar alimentos",
-        "Cortar alimentos",
+        "Sostener alimentos",
         "Moler alimentos",
-        "Sostener alimentos"
+        "Cortar alimentos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Los incisivos están adaptados para cortar alimentos."
     },
     {
       "question": "¿Cuál es la función de los caninos?",
       "options": [
         "Cortar alimentos",
+        "Sostener alimentos",
         "Desgarrar alimentos",
-        "Moler alimentos",
-        "Sostener alimentos"
+        "Moler alimentos"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Los caninos están adaptados para desgarrar alimentos."
     },
     {
       "question": "¿Cuál es la función de los molares?",
       "options": [
+        "Moler alimentos",
         "Cortar alimentos",
         "Desgarrar alimentos",
-        "Moler alimentos",
         "Sostener alimentos"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Los molares están adaptados para moler alimentos."
     },
     {
       "question": "¿Cuáles son las glándulas salivales principales?",
       "options": [
-        "Solo glándulas menores",
         "Glándulas parótidas, submandibulares y sublinguales",
+        "Solo glándulas menores",
         "Solo glándulas parótidas",
         "Solo glándulas sublinguales"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las glándulas salivales principales son las parótidas, submandibulares y sublinguales."
     },
     {
       "question": "¿Cuál es la función de la saliva?",
       "options": [
-        "Solo lubricar alimentos",
-        "Solo iniciar la digestión",
+        "Solo proteger contra bacterias",
         "Lubricar alimentos, iniciar la digestión y proteger contra bacterias",
-        "Solo proteger contra bacterias"
+        "Solo lubricar alimentos",
+        "Solo iniciar la digestión"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "La saliva lubrica los alimentos, inicia la digestión mediante enzimas y protege contra bacterias."
     },
     {
@@ -217,8 +217,8 @@
       "options": [
         "Pepsina",
         "Amilasa",
-        "Lipasa",
-        "Proteasa"
+        "Proteasa",
+        "Lipasa"
       ],
       "correctIndex": 1,
       "explanation": "La amilasa es la enzima principal de la saliva, que inicia la digestión de carbohidratos."
@@ -228,32 +228,32 @@
       "options": [
         "Solo esmalte",
         "Solo dentina",
-        "Esmalte, dentina, cemento y pulpa",
-        "Solo pulpa"
+        "Solo pulpa",
+        "Esmalte, dentina, cemento y pulpa"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "El diente está compuesto por esmalte, dentina, cemento y pulpa."
     },
     {
       "question": "¿Cuál es la función del esmalte dental?",
       "options": [
-        "Sostener el diente",
-        "Proteger la dentina",
         "Contener vasos sanguíneos",
-        "Producir dentina"
+        "Producir dentina",
+        "Proteger la dentina",
+        "Sostener el diente"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El esmalte protege la dentina y es la sustancia más dura del cuerpo."
     },
     {
       "question": "¿Cuál es la función de la dentina?",
       "options": [
-        "Proteger el esmalte",
         "Formar la mayor parte del diente",
+        "Proteger el esmalte",
         "Contener solo vasos sanguíneos",
         "Proteger la pulpa"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "La dentina forma la mayor parte del diente y está bajo el esmalte."
     },
     {
@@ -261,8 +261,8 @@
       "options": [
         "Tejido óseo",
         "Tejido conectivo con vasos sanguíneos y nervios",
-        "Tejido epitelial",
-        "Tejido muscular"
+        "Tejido muscular",
+        "Tejido epitelial"
       ],
       "correctIndex": 1,
       "explanation": "La pulpa es tejido conectivo que contiene vasos sanguíneos y nervios."
@@ -271,20 +271,20 @@
       "question": "¿Cuál es la función del cemento dental?",
       "options": [
         "Proteger la corona del diente",
-        "Unir el diente al hueso alveolar",
         "Contener vasos sanguíneos",
+        "Unir el diente al hueso alveolar",
         "Producir esmalte"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "El cemento une el diente al hueso alveolar a través del ligamento periodontal."
     },
     {
       "question": "¿Cuál es la estructura del paladar?",
       "options": [
+        "Solo velo del paladar",
         "Solo paladar duro",
-        "Solo paladar blando",
         "Paladar duro y paladar blando",
-        "Solo velo del paladar"
+        "Solo paladar blando"
       ],
       "correctIndex": 2,
       "explanation": "El paladar está compuesto por paladar duro (anterior) y paladar blando (posterior)."
@@ -292,32 +292,32 @@
     {
       "question": "¿Cuál es la función del paladar duro?",
       "options": [
-        "Facilitar deglución",
-        "Formar la bóveda del techo de la boca",
         "Producir saliva",
-        "Detectar sabores"
+        "Detectar sabores",
+        "Facilitar deglución",
+        "Formar la bóveda del techo de la boca"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "El paladar duro forma la bóveda del techo de la boca y es rígido."
     },
     {
       "question": "¿Cuál es la función del paladar blando?",
       "options": [
-        "Formar la bóveda del techo",
         "Facilitar la deglución y cerrar la nasofaringe",
         "Producir saliva",
-        "Detectar sabores"
+        "Detectar sabores",
+        "Formar la bóveda del techo"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "El paladar blando es móvil y facilita la deglución, cerrando la nasofaringe durante la deglución."
     },
     {
       "question": "¿Qué es el velo del paladar?",
       "options": [
-        "Parte del paladar duro",
+        "Parte de las encías",
         "Parte del paladar blando que cuelga hacia la faringe",
         "Parte de la lengua",
-        "Parte de las encías"
+        "Parte del paladar duro"
       ],
       "correctIndex": 1,
       "explanation": "El velo del paladar es la parte posterior del paladar blando que cuelga hacia la faringe."
@@ -326,31 +326,31 @@
       "question": "¿Cuáles son las papilas gustativas?",
       "options": [
         "Estructuras óseas",
-        "Estructuras nerviosas que detectan sabores",
+        "Estructuras glandulares",
         "Estructuras musculares",
-        "Estructuras glandulares"
+        "Estructuras nerviosas que detectan sabores"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Las papilas gustativas son estructuras nerviosas especializadas que detectan sabores."
     },
     {
       "question": "¿Cuáles son los tipos de papilas gustativas?",
       "options": [
-        "Solo fungiformes",
         "Fungiformes, foliadas y circunvaladas",
         "Solo circunvaladas",
-        "Fungiformes y foliadas"
+        "Fungiformes y foliadas",
+        "Solo fungiformes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las papilas gustativas se clasifican en fungiformes, foliadas y circunvaladas."
     },
     {
       "question": "¿Dónde se localizan las papilas fungiformes?",
       "options": [
-        "En los bordes de la lengua",
-        "En el dorso anterior de la lengua",
         "En la base de la lengua",
-        "En la punta de la lengua"
+        "En el dorso anterior de la lengua",
+        "En la punta de la lengua",
+        "En los bordes de la lengua"
       ],
       "correctIndex": 1,
       "explanation": "Las papilas fungiformes se localizan en el dorso anterior de la lengua."
@@ -358,34 +358,34 @@
     {
       "question": "¿Dónde se localizan las papilas foliadas?",
       "options": [
+        "En la punta de la lengua",
         "En el dorso de la lengua",
         "En los bordes laterales de la lengua",
-        "En la punta de la lengua",
         "En la base de la lengua"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Las papilas foliadas se localizan en los bordes laterales de la lengua."
     },
     {
       "question": "¿Dónde se localizan las papilas circunvaladas?",
       "options": [
-        "En el dorso anterior de la lengua",
-        "En los bordes laterales de la lengua",
         "En la base de la lengua",
-        "En la punta de la lengua"
+        "En el dorso anterior de la lengua",
+        "En la punta de la lengua",
+        "En los bordes laterales de la lengua"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Las papilas circunvaladas se localizan en la base de la lengua, formando una V."
     },
     {
       "question": "¿Cuál es la estructura del esófago?",
       "options": [
         "Solo mucosa",
-        "Mucosa, submucosa, muscular y serosa",
         "Solo muscular",
-        "Solo serosa"
+        "Solo serosa",
+        "Mucosa, submucosa, muscular y serosa"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "El esófago tiene cuatro capas: mucosa, submucosa, muscular y serosa."
     },
     {
@@ -402,12 +402,12 @@
     {
       "question": "¿Cuál es la longitud aproximada del esófago?",
       "options": [
-        "5 cm",
-        "10 cm",
+        "50 cm",
         "25 cm",
-        "50 cm"
+        "5 cm",
+        "10 cm"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "El esófago tiene una longitud aproximada de 25 cm."
     },
     {
@@ -424,21 +424,21 @@
     {
       "question": "¿Cuál es la función del esfínter esofágico superior?",
       "options": [
-        "Permitir paso de alimentos",
-        "Prevenir reflujo de contenido gástrico",
         "Controlar entrada de alimentos al esófago",
+        "Prevenir reflujo de contenido gástrico",
+        "Permitir paso de alimentos",
         "Producir saliva"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "El esfínter esofágico superior controla la entrada de alimentos al esófago desde la faringe."
     },
     {
       "question": "¿Cuál es la función del esfínter esofágico inferior?",
       "options": [
+        "Producir ácido",
         "Controlar entrada al esófago",
-        "Permitir paso de alimentos",
         "Prevenir reflujo de contenido gástrico",
-        "Producir ácido"
+        "Permitir paso de alimentos"
       ],
       "correctIndex": 2,
       "explanation": "El esfínter esofágico inferior previene el reflujo de contenido gástrico hacia el esófago."
@@ -447,18 +447,18 @@
       "question": "¿Qué tipo de epitelio reviste el esófago?",
       "options": [
         "Epitelio cilíndrico simple",
-        "Epitelio plano estratificado",
         "Epitelio pseudoestratificado",
-        "Epitelio cúbico simple"
+        "Epitelio cúbico simple",
+        "Epitelio plano estratificado"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "El esófago está revestido por epitelio plano estratificado que lo protege del roce de los alimentos."
     },
     {
       "question": "¿Cuál es la capa muscular del esófago?",
       "options": [
-        "Solo músculo liso",
         "Solo músculo esquelético",
+        "Solo músculo liso",
         "Músculo esquelético en el tercio superior, mixto en el medio y liso en el inferior",
         "Solo músculo cardíaco"
       ],
@@ -468,10 +468,10 @@
     {
       "question": "¿Qué es la peristalsis?",
       "options": [
-        "Contracción muscular local",
-        "Movimiento ondulatorio de las paredes del esófago que transporta alimentos",
         "Relajación muscular",
-        "Producción de enzimas"
+        "Movimiento ondulatorio de las paredes del esófago que transporta alimentos",
+        "Producción de enzimas",
+        "Contracción muscular local"
       ],
       "correctIndex": 1,
       "explanation": "La peristalsis es el movimiento ondulatorio de las paredes del esófago que transporta los alimentos hacia el estómago."
@@ -479,23 +479,23 @@
     {
       "question": "¿Cuáles son las glándulas menores de la cavidad bucal?",
       "options": [
-        "Solo glándulas palatinas",
         "Glándulas labiales, bucales, palatinas y linguales",
-        "Solo glándulas labiales",
-        "Solo glándulas linguales"
+        "Solo glándulas linguales",
+        "Solo glándulas palatinas",
+        "Solo glándulas labiales"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Las glándulas menores de la cavidad bucal incluyen glándulas labiales, bucales, palatinas y linguales."
     },
     {
       "question": "¿Cuál es la función de las glándulas menores?",
       "options": [
-        "Producir saliva en pequeñas cantidades",
-        "Producir enzimas digestivas",
         "Lubricar la cavidad bucal",
-        "Detectar sabores"
+        "Detectar sabores",
+        "Producir saliva en pequeñas cantidades",
+        "Producir enzimas digestivas"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Las glándulas menores producen saliva en pequeñas cantidades que lubrica la cavidad bucal."
     }
   ]

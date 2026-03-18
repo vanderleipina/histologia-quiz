@@ -98,14 +98,10 @@ app.post('/api/signup', (req, res) => {
 app.get('/api/themes', (req, res) => {
     res.json({
         themes: [
-            { id: 'endocrino-completo', name: 'Sistema Endócrino Completo', questions: 100 },
-            { id: 'tiroides-paratiroides', name: 'Tiroides y Paratiroides', questions: 100 },
-            { id: 'sistema-endocrino', name: 'Sistema Endócrino', questions: 50 },
-            { id: 'endocrino-1', name: 'Endocrino 1', questions: 50 },
-            { id: 'tiroides', name: 'Tiroides', questions: 50 },
-            { id: 'paratiroides', name: 'Paratiroides', questions: 50 },
+            { id: 'endocrino', name: 'Endócrino', questions: 100 },
+            { id: 'tiro-para', name: 'Tiroides & Paratiroides', questions: 100 },
             { id: 'suprarrenal', name: 'Suprarrenal', questions: 50 },
-            { id: 'sistema-tegumentario', name: 'Sistema Tegumentario', questions: 50 }
+            { id: 'sistema-tegumentario', name: 'Tegumentario', questions: 50 }
         ]
     });
 });

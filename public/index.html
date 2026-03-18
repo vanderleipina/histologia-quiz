@@ -474,9 +474,12 @@
 
         // Login
         async function login() {
-            const username = document.getElementById('loginUsername').value;
+            let username = document.getElementById('loginUsername').value;
             const password = document.getElementById('loginPassword').value;
             const errorDiv = document.getElementById('loginError');
+
+            // Convert to lowercase and remove spaces
+            username = username.toLowerCase().replace(/\s/g, '');
 
             if (!username || !password) {
                 errorDiv.textContent = 'Usuario y contraseña requeridos';
@@ -510,10 +513,13 @@
         // Signup
         async function signup() {
             const fullName = document.getElementById('signupFullName').value;
-            const username = document.getElementById('signupUsername').value;
+            let username = document.getElementById('signupUsername').value;
             const password = document.getElementById('signupPassword').value;
             const passwordConfirm = document.getElementById('signupPasswordConfirm').value;
             const errorDiv = document.getElementById('signupError');
+
+            // Convert to lowercase and remove spaces
+            username = username.toLowerCase().replace(/\s/g, '');
 
             if (!fullName || !username || !password) {
                 errorDiv.textContent = 'Nombre, usuario y contraseña requeridos';

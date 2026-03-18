@@ -106,6 +106,25 @@ app.get('/api/themes', (req, res) => {
     });
 });
 
+// Serve theme JSON files explicitly
+app.get('/themes/:themeId.json', (req, res) => {
+    const themeId = req.params.themeId;
+    const themePath = path.join(__dirname, 'public', 'themes', themeId + '.json');
+    
+    try {
+        if (fs.existsSync(themePath)) {
+            const data = fs.readFileSync(themePath, 'utf8');
+            res.setHeader('Content-Type', 'application/json');
+            res.send(data);
+        } else {
+            res.status(404).json({ error: 'Theme not found' });
+        }
+    } catch (error) {
+        console.error('Error loading theme:', error);
+        res.status(500).json({ error: 'Error loading theme' });
+    }
+});
+
 // Static files (after routes)
 app.use(express.static('public'));
 

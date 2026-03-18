@@ -1,0 +1,524 @@
+{
+  "id": "respiratorio",
+  "name": "Respiratorio",
+  "description": "Aparato respiratorio - histología, fisiología y patología",
+  "questions": [
+    {
+      "question": "¿Cuáles son las funciones principales del aparato respiratorio?",
+      "options": [
+        "Solo conducción del aire",
+        "Conducción del aire, filtración, intercambio de gases, fonación, olfación y secreción hormonal",
+        "Solo intercambio de gases",
+        "Filtración y olfación"
+      ],
+      "correctIndex": 1,
+      "explanation": "El aparato respiratorio tiene múltiples funciones: conducción del aire, filtración, intercambio de gases (respiración), generación de sonidos del habla (fonación), olfación y secreción hormonal."
+    },
+    {
+      "question": "¿Cuál es el diámetro aproximado de la tráquea?",
+      "options": [
+        "1 cm",
+        "2.5 cm",
+        "5 cm",
+        "10 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "La tráquea es un tubo corto y flexible con un diámetro aproximado de 2.5 cm y una longitud de 10 cm."
+    },
+    {
+      "question": "¿Dónde se localiza el segmento olfatorio en la cavidad nasal?",
+      "options": [
+        "En el piso de la cavidad nasal",
+        "En el techo de la cavidad nasal y extensión variable en paredes lateral y medial",
+        "En el vestíbulo nasal",
+        "En la rinofaringe"
+      ],
+      "correctIndex": 1,
+      "explanation": "El segmento olfatorio está situado en el techo de la cavidad nasal y tiene una extensión variable en las paredes lateral y medial, ocupando solo unos pocos centímetros cuadrados."
+    },
+    {
+      "question": "¿Qué tipo de epitelio reviste el vestíbulo nasal?",
+      "options": [
+        "Epitelio respiratorio",
+        "Epitelio plano estratificado",
+        "Epitelio cilíndrico simple",
+        "Epitelio pseudoestratificado"
+      ],
+      "correctIndex": 1,
+      "explanation": "El vestíbulo nasal está revestido por epitelio plano estratificado y contiene vibrisas (pelos rígidos) que atrapan partículas grandes."
+    },
+    {
+      "question": "¿Cuál es la función de los cornetes en la cavidad nasal?",
+      "options": [
+        "Producir moco",
+        "Aumentar la extensión de la superficie y causar turbulencia del aire",
+        "Filtrar bacterias",
+        "Producir células olfatorias"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los cornetes son repliegues en forma de cresta que aumentan la extensión de la superficie y causan turbulencia del aire, lo que ayuda a calentar, humedecer y filtrar el aire."
+    },
+    {
+      "question": "¿Qué células componen el epitelio olfatorio?",
+      "options": [
+        "Solo células olfatorias",
+        "Células olfatorias, de sostén, basales y en cepillo",
+        "Células ciliadas y mucosas",
+        "Células escamosas y cilíndricas"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epitelio olfatorio está compuesto por células olfatorias (neuronas bipolares), células sustentaculares (de sostén), células basales y células en cepillo."
+    },
+    {
+      "question": "¿Qué son las células olfatorias?",
+      "options": [
+        "Células de soporte mecánico",
+        "Neuronas bipolares con prolongaciones ciliadas",
+        "Células productoras de moco",
+        "Células epiteliales escamosas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células olfatorias son neuronas bipolares que poseen una prolongación con cilios especializados en la detección de olores."
+    },
+    {
+      "question": "¿Cuál es la función de las glándulas de Bowman?",
+      "options": [
+        "Producir saliva",
+        "Secretar moco seroso en la mucosa olfatoria",
+        "Filtrar el aire",
+        "Producir células olfatorias"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las glándulas de Bowman son glándulas tubuloalveolares serosas que representan una característica distintiva de la mucosa olfatoria."
+    },
+    {
+      "question": "¿Cuántos senos paranasales existen según su localización?",
+      "options": [
+        "2 tipos",
+        "3 tipos",
+        "4 tipos",
+        "5 tipos"
+      ],
+      "correctIndex": 2,
+      "explanation": "Los senos paranasales se clasifican en: etmoidal, esfenoidal, frontal y maxilar. Todos están tapizados por epitelio respiratorio."
+    },
+    {
+      "question": "¿Cuál es la función de la faringe?",
+      "options": [
+        "Solo paso de aire",
+        "Solo paso de alimentos",
+        "Paso de aire y alimentos, actuando como resonancia para la fonación",
+        "Producción de saliva"
+      ],
+      "correctIndex": 2,
+      "explanation": "La faringe comunica las cavidades nasal y oral con la laringe y el esófago, permitiendo el paso de aire y alimentos, y actúa como resonancia para la fonación."
+    },
+    {
+      "question": "¿Cuáles son las regiones de la faringe?",
+      "options": [
+        "Superior e inferior",
+        "Anterior y posterior",
+        "Rinofaringe, orofaringe y laringofaringe",
+        "Dorsal y ventral"
+      ],
+      "correctIndex": 2,
+      "explanation": "La faringe se divide en tres regiones: rinofaringe, orofaringe y laringofaringe."
+    },
+    {
+      "question": "¿Cuál es el órgano de la fonación?",
+      "options": [
+        "La faringe",
+        "La tráquea",
+        "La laringe",
+        "Los bronquios"
+      ],
+      "correctIndex": 2,
+      "explanation": "La laringe es el órgano de la fonación, ubicado entre la orofaringe y la tráquea."
+    },
+    {
+      "question": "¿Qué son los pliegues vocales verdaderos?",
+      "options": [
+        "Estructuras de resonancia",
+        "Repliegues que contienen músculo esquelético",
+        "Cartílagos de la laringe",
+        "Glándulas mucosas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los pliegues vocales o cuerdas vocales verdaderas contienen músculo esquelético y son responsables de la producción de sonidos."
+    },
+    {
+      "question": "¿Cuál es la función de los pliegues ventriculares?",
+      "options": [
+        "Producir sonidos",
+        "Actuar como caja de resonancia",
+        "Filtrar el aire",
+        "Producir moco"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los pliegues ventriculares o cuerdas vocales falsas son importantes como caja de resonancia para la fonación."
+    },
+    {
+      "question": "¿Dónde se divide la tráquea?",
+      "options": [
+        "En la laringe",
+        "En la mitad del tórax",
+        "En los pulmones",
+        "En la faringe"
+      ],
+      "correctIndex": 1,
+      "explanation": "La tráquea se extiende desde la laringe hasta la mitad del tórax, donde se divide en dos bronquios principales."
+    },
+    {
+      "question": "¿Qué estructura mantiene abierta la luz de la tráquea?",
+      "options": [
+        "Músculos lisos",
+        "Anillos de cartílago",
+        "Tejido conectivo",
+        "Epitelio cilíndrico"
+      ],
+      "correctIndex": 1,
+      "explanation": "La luz de la tráquea se mantiene abierta por anillos de cartílago incompletos."
+    },
+    {
+      "question": "¿Cuál es la porción conductora del aparato respiratorio?",
+      "options": [
+        "Solo los alveolos",
+        "Cavidad nasal, faringe, laringe, tráquea, bronquios principales, lobares y segmentarios, bronquiolos musculares y terminales",
+        "Solo los bronquios",
+        "Cavidad nasal y faringe"
+      ],
+      "correctIndex": 1,
+      "explanation": "La porción conductora incluye todas las estructuras desde la cavidad nasal hasta los bronquiolos terminales."
+    },
+    {
+      "question": "¿Cuál es la porción respiratoria del aparato respiratorio?",
+      "options": [
+        "Cavidad nasal y faringe",
+        "Laringe y tráquea",
+        "Bronquiolos respiratorios, conductos alveolares, sacos alveolares y alveolos",
+        "Bronquios principales"
+      ],
+      "correctIndex": 2,
+      "explanation": "La porción respiratoria incluye los bronquiolos respiratorios, conductos alveolares, sacos alveolares y alveolos, donde ocurre el intercambio de gases."
+    },
+    {
+      "question": "¿Cuántos pulmones componen el aparato respiratorio?",
+      "options": [
+        "Un pulmón",
+        "Dos pulmones",
+        "Tres pulmones",
+        "Cuatro pulmones"
+      ],
+      "correctIndex": 1,
+      "explanation": "El aparato respiratorio está compuesto por dos pulmones y una serie de vías aéreas que los comunican con el exterior."
+    },
+    {
+      "question": "¿Qué tipo de epitelio reviste la laringe?",
+      "options": [
+        "Solo epitelio respiratorio",
+        "Solo epitelio escamoso estratificado",
+        "Epitelio respiratorio y escamoso estratificado",
+        "Epitelio cilíndrico simple"
+      ],
+      "correctIndex": 2,
+      "explanation": "La laringe está revestida por epitelio respiratorio y epitelio escamoso estratificado."
+    },
+    {
+      "question": "¿Cuál es la longitud aproximada de la tráquea?",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "La tráquea tiene una longitud aproximada de 10 cm."
+    },
+    {
+      "question": "¿Qué son las vibrisas?",
+      "options": [
+        "Glándulas sebáceas",
+        "Pelos rígidos que atrapan partículas grandes",
+        "Células epiteliales",
+        "Estructuras cartilaginosas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las vibrisas son pelos rígidos presentes en el vestíbulo nasal que atrapan partículas grandes del aire."
+    },
+    {
+      "question": "¿Cuál es la función de las glándulas sebáceas en el vestíbulo nasal?",
+      "options": [
+        "Producir sudor",
+        "Secretar sustancia que ayuda a atrapar material particulado",
+        "Producir saliva",
+        "Secretar moco"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las glándulas sebáceas en el vestíbulo nasal secretan una sustancia que ayuda a atrapar material particulado del aire."
+    },
+    {
+      "question": "¿Cómo se adhiere la lámina propia al hueso en el segmento respiratorio nasal?",
+      "options": [
+        "Por fibras elásticas",
+        "Por colágeno",
+        "Se adhiere al periostio del hueso",
+        "No se adhiere"
+      ],
+      "correctIndex": 2,
+      "explanation": "En el segmento respiratorio nasal, la lámina propia se adhiere al periostio del hueso."
+    },
+    {
+      "question": "¿Qué células basales producen?",
+      "options": [
+        "Solo células olfatorias",
+        "Progenitoras de otros tipos celulares maduros",
+        "Solo células de sostén",
+        "Solo células en cepillo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células basales son las progenitoras de otros tipos celulares maduros en el epitelio olfatorio."
+    },
+    {
+      "question": "¿Qué función tienen las células sustentaculares?",
+      "options": [
+        "Detectar olores",
+        "Proveer sostén mecánico y olfatorio a las células olfatorias",
+        "Producir moco",
+        "Filtrar el aire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células sustentaculares proveen sostén mecánico y olfatorio a las células olfatorias."
+    },
+    {
+      "question": "¿Cuál es la función de las células en cepillo en el epitelio olfatorio?",
+      "options": [
+        "Producir cilios",
+        "Especializadas en la transducción de la percepción general",
+        "Producir moco",
+        "Sostener células olfatorias"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células en cepillo son cilíndricas especializadas en la transducción de la percepción general en el epitelio olfatorio."
+    },
+    {
+      "question": "¿Cuál es la forma de los cornetes nasales?",
+      "options": [
+        "Cilíndrica",
+        "Esférica",
+        "En forma de cresta",
+        "Plana"
+      ],
+      "correctIndex": 2,
+      "explanation": "Los cornetes tienen repliegues en forma de cresta que aumentan la extensión de la superficie de la cavidad nasal."
+    },
+    {
+      "question": "¿Cuántas divisiones tiene la cavidad nasal?",
+      "options": [
+        "Una división",
+        "Dos divisiones",
+        "Tres divisiones",
+        "Cuatro divisiones"
+      ],
+      "correctIndex": 2,
+      "explanation": "La cavidad nasal se divide en vestíbulo, segmento respiratorio y segmento olfatorio."
+    },
+    {
+      "question": "¿Qué comunica la cavidad nasal con el exterior?",
+      "options": [
+        "Las coanas",
+        "Los orificios del vestíbulo (narinas)",
+        "Los cornetes",
+        "La rinofaringe"
+      ],
+      "correctIndex": 1,
+      "explanation": "La cavidad nasal se comunica con el exterior a través de los orificios del vestíbulo de la nariz, llamados narinas."
+    },
+    {
+      "question": "¿Qué son las coanas?",
+      "options": [
+        "Orificios nasales externos",
+        "Comunicaciones posteriores de la cavidad nasal con la rinofaringe",
+        "Repliegues nasales",
+        "Glándulas nasales"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las coanas son las comunicaciones posteriores de la cavidad nasal con la rinofaringe."
+    },
+    {
+      "question": "¿Cuál es la estructura que separa las fosas nasales?",
+      "options": [
+        "Un cartílago",
+        "Un tabique óseo y cartilaginoso",
+        "Un músculo",
+        "Un ligamento"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las fosas nasales están separadas por un tabique óseo y cartilaginoso."
+    },
+    {
+      "question": "¿Qué tipo de mucosa reviste la faringe?",
+      "options": [
+        "Solo mucosa escamosa",
+        "Solo mucosa respiratoria",
+        "Mucosa escamosa y respiratoria",
+        "Mucosa especializada"
+      ],
+      "correctIndex": 2,
+      "explanation": "La faringe está recubierta por mucosa escamosa y mucosa respiratoria."
+    },
+    {
+      "question": "¿Cuál es el cartílago que protege la laringe?",
+      "options": [
+        "Cartílago elástico",
+        "Cartílago epiglótico",
+        "Cartílago cricoides",
+        "Cartílago aritenoides"
+      ],
+      "correctIndex": 1,
+      "explanation": "El cartílago epiglótico es un cartílago elástico que protege la laringe."
+    },
+    {
+      "question": "¿Cuántos bronquios principales se forman de la división de la tráquea?",
+      "options": [
+        "Un bronquio",
+        "Dos bronquios",
+        "Tres bronquios",
+        "Cuatro bronquios"
+      ],
+      "correctIndex": 1,
+      "explanation": "La tráquea se divide en dos bronquios principales, uno para cada pulmón."
+    },
+    {
+      "question": "¿Cuál es la clasificación de los bronquios según su tamaño?",
+      "options": [
+        "Solo principales",
+        "Principales, lobares y segmentarios",
+        "Principales, lobares, segmentarios, bronquiolos y alveolos",
+        "Solo segmentarios"
+      ],
+      "correctIndex": 2,
+      "explanation": "Los bronquios se clasifican en principales, lobares, segmentarios, bronquiolos musculares, bronquiolos terminales y bronquiolos respiratorios."
+    },
+    {
+      "question": "¿Dónde ocurre principalmente el intercambio de gases?",
+      "options": [
+        "En la tráquea",
+        "En los bronquios",
+        "En los alveolos",
+        "En la laringe"
+      ],
+      "correctIndex": 2,
+      "explanation": "El intercambio de gases ocurre principalmente en los alveolos, que son la unidad funcional del pulmón."
+    },
+    {
+      "question": "¿Cuál es la función del epitelio respiratorio?",
+      "options": [
+        "Solo absorber agua",
+        "Conducir aire y permitir intercambio de gases",
+        "Producir moco",
+        "Filtrar bacterias"
+      ],
+      "correctIndex": 1,
+      "explanation": "El epitelio respiratorio está especializado en conducir aire y permitir el intercambio de gases en la porción respiratoria."
+    },
+    {
+      "question": "¿Cuáles son los tipos de mucosa en la cavidad oral?",
+      "options": [
+        "Solo masticatoria",
+        "Solo de revestimiento",
+        "Masticatoria, de revestimiento y especializada",
+        "Solo especializada"
+      ],
+      "correctIndex": 2,
+      "explanation": "La cavidad oral está tapizada por tres tipos de mucosa: masticatoria, de revestimiento y especializada."
+    },
+    {
+      "question": "¿Cuál es la función de la mucosa masticatoria?",
+      "options": [
+        "Absorber nutrientes",
+        "Resistir fuerzas mecánicas de la masticación",
+        "Producir saliva",
+        "Detectar sabores"
+      ],
+      "correctIndex": 1,
+      "explanation": "La mucosa masticatoria está adaptada para resistir las fuerzas mecánicas de la masticación."
+    },
+    {
+      "question": "¿Dónde se localiza la mucosa masticatoria en la cavidad oral?",
+      "options": [
+        "En las mejillas",
+        "En el paladar duro y encías",
+        "En la lengua",
+        "En los labios"
+      ],
+      "correctIndex": 1,
+      "explanation": "La mucosa masticatoria se localiza en el paladar duro y las encías, donde soporta fuerzas masticatorias."
+    },
+    {
+      "question": "¿Cuál es la función de la mucosa de revestimiento?",
+      "options": [
+        "Resistir masticación",
+        "Flexible y móvil, facilita movimientos de masticación y deglución",
+        "Detectar sabores",
+        "Producir enzimas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La mucosa de revestimiento es flexible y móvil, facilitando los movimientos de masticación y deglución."
+    },
+    {
+      "question": "¿Dónde se localiza la mucosa de revestimiento?",
+      "options": [
+        "En el paladar duro",
+        "En las encías",
+        "En las mejillas, labios y paladar blando",
+        "En la lengua"
+      ],
+      "correctIndex": 2,
+      "explanation": "La mucosa de revestimiento se localiza en las mejillas, labios y paladar blando."
+    },
+    {
+      "question": "¿Cuál es la función de la mucosa especializada?",
+      "options": [
+        "Resistir masticación",
+        "Facilitar movimientos",
+        "Contiene papilas gustativas y está especializada en la percepción del gusto",
+        "Producir moco"
+      ],
+      "correctIndex": 2,
+      "explanation": "La mucosa especializada contiene papilas gustativas y está especializada en la percepción del gusto."
+    },
+    {
+      "question": "¿Dónde se localiza la mucosa especializada?",
+      "options": [
+        "En las mejillas",
+        "En los labios",
+        "En la lengua",
+        "En el paladar blando"
+      ],
+      "correctIndex": 2,
+      "explanation": "La mucosa especializada se localiza en la lengua, donde contiene las papilas gustativas."
+    },
+    {
+      "question": "¿Cuál es la estructura que divide las fosas nasales?",
+      "options": [
+        "Un cartílago puro",
+        "Un hueso puro",
+        "Un tabique óseo y cartilaginoso",
+        "Un ligamento"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las fosas nasales están separadas por un tabique que contiene tanto componentes óseos como cartilaginosos."
+    },
+    {
+      "question": "¿Qué sucede con el epitelio en la transición del vestíbulo al segmento respiratorio?",
+      "options": [
+        "Se mantiene igual",
+        "Cambia de epitelio plano estratificado a epitelio respiratorio",
+        "Se vuelve más grueso",
+        "Desaparece"
+      ],
+      "correctIndex": 1,
+      "explanation": "En la transición del vestíbulo al segmento respiratorio, el epitelio plano estratificado cambia a epitelio respiratorio."
+    }
+  ]
+}

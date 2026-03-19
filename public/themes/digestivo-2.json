@@ -1,0 +1,513 @@
+{
+  "id": "digestivo-2",
+  "nombre": "Digestivo II",
+  "descripcion": "Estómago, Intestino Delgado y Grueso",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la estructura histológica característica del estómago que permite su distensión?",
+      "opciones": [
+        "Mucosa lisa sin pliegues",
+        "Vellosidades intestinales",
+        "Pliegues gástricos o rugosidades",
+        "Criptas de Lieberkühn"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El estómago presenta pliegues gástricos o rugosidades que permiten su distensión cuando se llena de alimento. Estos pliegues desaparecen cuando el estómago está distendido."
+    },
+    {
+      "pregunta": "¿Qué tipo de epitelio recubre la mucosa gástrica?",
+      "opciones": [
+        "Epitelio cilíndrico simple",
+        "Epitelio cuboidal simple",
+        "Epitelio cilíndrico estratificado",
+        "Epitelio plano simple"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La mucosa gástrica está recubierta por un epitelio cilíndrico simple que contiene células secretoras de moco y ácido clorhídrico."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de las glándulas gástricas?",
+      "opciones": [
+        "Secreción de ácido clorhídrico y pepsinógeno",
+        "Absorción de nutrientes",
+        "Secreción de bilis",
+        "Secreción de insulina"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las glándulas gástricas secretan ácido clorhídrico (HCl) y pepsinógeno, que es el precursor inactivo de la pepsina, una enzima proteolítica."
+    },
+    {
+      "pregunta": "¿Dónde se localizan las células parietales en el estómago?",
+      "opciones": [
+        "En la submucosa",
+        "En el fondo de las glándulas gástricas",
+        "En la muscular",
+        "En la superficie de la mucosa"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células parietales se localizan en el fondo de las glándulas gástricas y secretan ácido clorhídrico y factor intrínseco."
+    },
+    {
+      "pregunta": "¿Cuál es la función del factor intrínseco secretado por las células parietales?",
+      "opciones": [
+        "Neutralizar el ácido gástrico",
+        "Facilitar la absorción de vitamina B12",
+        "Estimular la secreción de gastrina",
+        "Activar el pepsinógeno"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El factor intrínseco es una glicoproteína que se une a la vitamina B12 (cobalamina) para facilitar su absorción en el intestino delgado."
+    },
+    {
+      "pregunta": "¿Qué células secretan gastrina en el estómago?",
+      "opciones": [
+        "Células mucosas",
+        "Células parietales",
+        "Células G",
+        "Células principales"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las células G (gastrinoproductoras) secretan gastrina, una hormona que estimula la secreción de ácido clorhídrico y la motilidad gástrica."
+    },
+    {
+      "pregunta": "¿Cuál es la estructura histológica más característica del intestino delgado?",
+      "opciones": [
+        "Pliegues gástricos",
+        "Vellosidades intestinales",
+        "Tenias del colon",
+        "Criptas profundas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las vellosidades intestinales son proyecciones de la mucosa que aumentan enormemente la superficie de absorción del intestino delgado."
+    },
+    {
+      "pregunta": "¿Cuántos tipos celulares diferentes componen el epitelio del intestino delgado?",
+      "opciones": [
+        "Tres tipos",
+        "Dos tipos",
+        "Diez tipos",
+        "Seis tipos"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El epitelio cilíndrico simple del intestino delgado está compuesto por seis tipos celulares: células absortivas, células caliciformes, células de Paneth, células enteroendocrinas, células madre y células M."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de las células absortivas del intestino delgado?",
+      "opciones": [
+        "Secreción de moco",
+        "Secreción de enzimas",
+        "Absorción de nutrientes",
+        "Defensa inmunológica"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las células absortivas poseen un borde en cepillo con microvellosidades que facilita la absorción de nutrientes, agua y electrolitos."
+    },
+    {
+      "pregunta": "¿Qué estructura característica poseen las células absortivas del intestino delgado?",
+      "opciones": [
+        "Borde en cepillo (microvellosidades)",
+        "Vesículas pinocíticas",
+        "Cilia",
+        "Gránulos secretores"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El borde en cepillo está formado por microvellosidades que aumentan la superficie de absorción. Está cubierto por glucocáliz que facilita la absorción."
+    },
+    {
+      "pregunta": "¿Dónde se localizan las células de Paneth en el intestino delgado?",
+      "opciones": [
+        "En la superficie de las vellosidades",
+        "En el fondo de las criptas de Lieberkühn",
+        "En la lámina propia",
+        "En la submucosa"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células de Paneth se encuentran en el fondo de las criptas de Lieberkühn y secretan lisozimas con función antibacteriana."
+    },
+    {
+      "pregunta": "¿Cuál es la función de las células de Paneth?",
+      "opciones": [
+        "Secreción de moco",
+        "Secreción de enzimas digestivas",
+        "Absorción de nutrientes",
+        "Secreción de lisozimas y función antibacteriana"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Las células de Paneth son células fagocíticas que secretan lisozimas, teniendo una importante acción antibacteriana que regula la flora intestinal."
+    },
+    {
+      "pregunta": "¿Qué característica histológica tienen las células caliciformes?",
+      "opciones": [
+        "Son PAS negativas",
+        "Contienen gránulos eosinófilos",
+        "Son PAS positivas",
+        "Tienen borde en cepillo"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las células caliciformes son PAS positivas debido a su contenido de glucógeno y mucopolisacáridos. Secretan moco para proteger la mucosa."
+    },
+    {
+      "pregunta": "¿Cuál es la función de las células M del intestino delgado?",
+      "opciones": [
+        "Absorción de nutrientes",
+        "Secreción de moco",
+        "Transporte de antígenos",
+        "Síntesis de enzimas"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las células M cubren las placas de Peyer y forman espacios donde se alojan células dendríticas, macrófagos y linfocitos. Son transportadoras de antígenos."
+    },
+    {
+      "pregunta": "¿Qué son las placas de Peyer?",
+      "opciones": [
+        "Pliegues de la mucosa",
+        "Glándulas secretoras",
+        "Acúmulos de folículos linfocitarios",
+        "Vasos sanguíneos"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las placas de Peyer son acúmulos de folículos linfocitarios en la lámina propia del intestino delgado, importantes para la inmunidad local."
+    },
+    {
+      "pregunta": "¿Cuál es la función de las glándulas de Brunner?",
+      "opciones": [
+        "Absorción de nutrientes",
+        "Secreción de moco alcalino",
+        "Secreción de ácido clorhídrico",
+        "Secreción de bilis"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las glándulas de Brunner secretan una secreción espesa y mucosa con pH alcalino que protege la mucosa duodenal del ácido gástrico."
+    },
+    {
+      "pregunta": "¿En qué región del intestino delgado se localizan las glándulas de Brunner?",
+      "opciones": [
+        "En el yeyuno",
+        "En el duodeno",
+        "En el íleon",
+        "En todo el intestino delgado"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las glándulas de Brunner se localizan principalmente en el duodeno, siendo más abundantes en la primera y segunda porción."
+    },
+    {
+      "pregunta": "¿Cuál es el principal sitio de absorción de nutrientes en el intestino delgado?",
+      "opciones": [
+        "Íleon",
+        "Duodeno",
+        "Ciego",
+        "Yeyuno"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El yeyuno es el principal sitio de absorción de nutrientes en el intestino delgado debido a su gran superficie de vellosidades."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica del intestino grueso que lo diferencia del intestino delgado?",
+      "opciones": [
+        "Presencia de vellosidades",
+        "Mayor cantidad de células de Paneth",
+        "Ausencia de vellosidades",
+        "Presencia de glándulas de Brunner"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El intestino grueso no posee vellosidades, tiene una mucosa lisa. Presenta criptas de Lieberkühn más largas y rectas que en el intestino delgado."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal del intestino grueso?",
+      "opciones": [
+        "Síntesis de vitaminas",
+        "Digestión de proteínas",
+        "Absorción de agua y sales inorgánicas",
+        "Absorción de glucosa"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El intestino grueso absorbe agua y sales inorgánicas, concentrando el contenido intestinal. También facilita la eliminación de alimentos no digeridos."
+    },
+    {
+      "pregunta": "¿Cuál es la característica del borde en cepillo en el intestino grueso?",
+      "opciones": [
+        "Ausente",
+        "Igual que en el intestino delgado",
+        "Más alto que en el intestino delgado",
+        "Más bajo que en el intestino delgado"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El borde en cepillo de las células absortivas del intestino grueso es más bajo que en el intestino delgado, reflejando su menor capacidad absortiva."
+    },
+    {
+      "pregunta": "¿Cuál es la característica más notable de las células caliciformes en el intestino grueso?",
+      "opciones": [
+        "Son menos abundantes",
+        "Tienen borde en cepillo",
+        "Son mucho más abundantes",
+        "Están ausentes"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las células caliciformes son mucho más abundantes en el intestino grueso que en el intestino delgado, secretando abundante moco para facilitar la defecación."
+    },
+    {
+      "pregunta": "¿Cuáles son las tres secciones principales del intestino grueso?",
+      "opciones": [
+        "Colon, recto, ano",
+        "Ciego, colon, recto",
+        "Estómago, duodeno, ciego",
+        "Duodeno, yeyuno, íleon"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El intestino grueso se divide en tres secciones principales: ciego, colon y recto, seguido del canal anal."
+    },
+    {
+      "pregunta": "¿Qué son las tenias del colon?",
+      "opciones": [
+        "Glándulas secretoras",
+        "Vasos sanguíneos",
+        "Pliegues de la mucosa",
+        "Bandas longitudinales de la muscular externa"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Las tenias del colon son tres bandas longitudinales de la capa muscular externa que no están presentes en el recto."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica del recto?",
+      "opciones": [
+        "Presencia de tenias del colon",
+        "Ausencia de tenias del colon",
+        "Ausencia de criptas",
+        "Presencia de vellosidades"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El recto no presenta tenias del colon. Es la porción final del tracto digestivo antes del canal anal."
+    },
+    {
+      "pregunta": "¿Qué son las columnas anales?",
+      "opciones": [
+        "Pliegues longitudinales de la mucosa del canal anal",
+        "Esfínteres anales",
+        "Vasos sanguíneos",
+        "Glándulas anales"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las columnas anales son pliegues mucosos longitudinales presentes en el canal anal, formados por la mucosa del recto."
+    },
+    {
+      "pregunta": "¿Cuáles son las tres zonas histológicas del canal anal?",
+      "opciones": [
+        "Zona mucosa, zona submucosa, zona muscular",
+        "Zona gástrica, zona duodenal, zona ileal",
+        "Zona proximal, zona media, zona distal",
+        "Zona colorrectal, zona de transición anal, zona escamosa"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El canal anal presenta tres zonas: zona colorrectal (similar al colon), zona de transición anal (ATZ) con epitelio plano estratificado, y zona escamosa con queratina."
+    },
+    {
+      "pregunta": "¿Cuál es la composición del esfínter anal interno?",
+      "opciones": [
+        "Músculo liso",
+        "Músculo estriado",
+        "Tejido adiposo",
+        "Tejido conectivo"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El esfínter anal interno está compuesto por músculo liso, siendo una continuación de la muscular del recto."
+    },
+    {
+      "pregunta": "¿Cuál es la composición del esfínter anal externo?",
+      "opciones": [
+        "Tejido conectivo",
+        "Cartílago",
+        "Músculo estriado",
+        "Músculo liso"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El esfínter anal externo está compuesto por músculo estriado, bajo control voluntario, permitiendo la continencia fecal."
+    },
+    {
+      "pregunta": "¿Qué es el apéndice vermiforme?",
+      "opciones": [
+        "Una evaginación terminal del ciego",
+        "Una estructura del estómago",
+        "Un vaso sanguíneo",
+        "Una glándula digestiva"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El apéndice vermiforme es una evaginación terminal de longitud variable del ciego, con estructura similar al intestino grueso y abundante tejido linfoide."
+    },
+    {
+      "pregunta": "¿Cuál es la función del apéndice vermiforme?",
+      "opciones": [
+        "Digestión de alimentos",
+        "Absorción de agua",
+        "Función inmunológica",
+        "Síntesis de vitaminas"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El apéndice vermiforme tiene función inmunológica debido a su abundante tejido linfoide, formando parte del sistema inmunológico asociado al intestino."
+    },
+    {
+      "pregunta": "¿Cuál es la característica más notable de la lámina propia del intestino grueso?",
+      "opciones": [
+        "Muy abundante",
+        "Muy escasa",
+        "Contiene muchas glándulas",
+        "Ausente"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La lámina propia del intestino grueso es muy escasa debido a que las glándulas (criptas de Lieberkühn) están muy juntas."
+    },
+    {
+      "pregunta": "¿Dónde son más frecuentes los folículos linfáticos en el intestino?",
+      "opciones": [
+        "En el intestino grueso",
+        "En el íleon",
+        "En el yeyuno",
+        "En el duodeno"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Los folículos linfáticos son más frecuentes y desarrollados en el intestino grueso que en el intestino delgado."
+    },
+    {
+      "pregunta": "¿Cuál es la característica de las criptas de Lieberkühn en el intestino grueso?",
+      "opciones": [
+        "Están ausentes",
+        "Son largas y rectas",
+        "Son cortas y ramificadas",
+        "Son muy superficiales"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las criptas de Lieberkühn en el intestino grueso son más largas y rectas que en el intestino delgado, reflejando su función de absorción de agua."
+    },
+    {
+      "pregunta": "¿Qué tipo de epitelio recubre el canal anal en la zona escamosa?",
+      "opciones": [
+        "Epitelio cilíndrico estratificado",
+        "Epitelio cuboidal",
+        "Epitelio cilíndrico simple",
+        "Epitelio plano estratificado con queratina"
+      ],
+      "correctIndex": 3,
+      "explicacion": "La zona escamosa del canal anal está recubierta por epitelio plano estratificado con queratina y abundantes glándulas."
+    },
+    {
+      "pregunta": "¿Cuál es la función de la submucosa del intestino delgado?",
+      "opciones": [
+        "Absorción de nutrientes",
+        "Soporte estructural y contiene vasos sanguíneos y linfáticos",
+        "Contracción del intestino",
+        "Secreción de enzimas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La submucosa está compuesta de tejido conectivo denso que proporciona soporte estructural y contiene vasos sanguíneos y vías linfáticas."
+    },
+    {
+      "pregunta": "¿Cuál es la composición de la muscular del intestino delgado?",
+      "opciones": [
+        "Solo músculo circular",
+        "Capa circular interna y longitudinal externa",
+        "Tres capas musculares",
+        "Solo músculo longitudinal"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La muscular del intestino delgado está compuesta por una capa circular interna y una capa longitudinal externa, con el plexo mientérico entre ellas."
+    },
+    {
+      "pregunta": "¿Qué es el plexo mientérico?",
+      "opciones": [
+        "Un acúmulo de células inmunológicas",
+        "Una glándula secretora",
+        "Una red de vasos sanguíneos",
+        "Una red de nervios entre las capas musculares"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El plexo mientérico es una red de nervios parasimpáticos y simpáticos entre las capas musculares circular y longitudinal que controla la motilidad intestinal."
+    },
+    {
+      "pregunta": "¿Cuál es la función del glucocáliz en el borde en cepillo?",
+      "opciones": [
+        "Protección mecánica",
+        "Contracción celular",
+        "Síntesis de enzimas",
+        "Facilita la absorción de nutrientes"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El glucocáliz es una cubierta superficial del borde en cepillo que facilita la absorción de nutrientes y protege el epitelio."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica más importante del duodeno?",
+      "opciones": [
+        "Presencia de tenias del colon",
+        "Ausencia de vellosidades",
+        "Ausencia de criptas",
+        "Presencia de glándulas de Brunner"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El duodeno se caracteriza por la presencia de glándulas de Brunner que secretan moco alcalino para neutralizar el ácido gástrico."
+    },
+    {
+      "pregunta": "¿Cuál es la función del muco secretado por el estómago?",
+      "opciones": [
+        "Protección de la mucosa gástrica",
+        "Síntesis de ácido clorhídrico",
+        "Absorción de nutrientes",
+        "Digestión de proteínas"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El muco secretado por las células mucosas del estómago protege la mucosa gástrica del ácido clorhídrico y la pepsina."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia principal entre el duodeno y el yeyuno?",
+      "opciones": [
+        "El duodeno es más largo",
+        "El duodeno tiene glándulas de Brunner, el yeyuno no",
+        "El yeyuno tiene más criptas",
+        "El yeyuno tiene vellosidades más altas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La principal diferencia es que el duodeno contiene glándulas de Brunner mientras que el yeyuno no. El yeyuno es el principal sitio de absorción."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica del íleon?",
+      "opciones": [
+        "Presencia de glándulas de Brunner",
+        "Presencia de placas de Peyer más desarrolladas",
+        "Presencia de tenias del colon",
+        "Ausencia de vellosidades"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El íleon se caracteriza por la presencia de placas de Peyer más desarrolladas que en el duodeno y yeyuno."
+    },
+    {
+      "pregunta": "¿Cuál es la función de la serosa del intestino?",
+      "opciones": [
+        "Absorción de nutrientes",
+        "Contracción intestinal",
+        "Protección y reducción de fricción",
+        "Secreción de enzimas"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La serosa (peritoneo visceral) recubre el intestino, protegiéndolo y reduciendo la fricción durante los movimientos intestinales."
+    },
+    {
+      "pregunta": "¿Qué son los apéndices epiploicos del colon?",
+      "opciones": [
+        "Vasos sanguíneos",
+        "Pequeñas bolsas de grasa peritoneal",
+        "Glándulas secretoras",
+        "Nervios"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Los apéndices epiploicos son pequeñas bolsas de grasa peritoneal presentes en la serosa del colon, formados por la túnica serosa."
+    },
+    {
+      "pregunta": "¿Cuál es la función de las células enteroendocrinas del intestino?",
+      "opciones": [
+        "Secreción de hormonas reguladoras",
+        "Secreción de moco",
+        "Absorción de nutrientes",
+        "Defensa inmunológica"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las células enteroendocrinas secretan hormonas como colecistoquinina, secretina y gastrina que regulan la digestión y la motilidad intestinal."
+    }
+  ]
+}

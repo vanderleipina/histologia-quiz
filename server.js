@@ -102,6 +102,7 @@ app.get('/api/themes', (req, res) => {
             { id: 'tiro-para', name: 'Tiroides & Paratiroides', questions: 100 },
             { id: 'respiratorio', name: 'Respiratorio', questions: 50 },
             { id: 'digestivo-1', name: 'Digestivo I', questions: 50 },
+            { id: 'digestivo-2', name: 'Digestivo II', questions: 50 },
             { id: 'suprarrenal', name: 'Suprarrenal', questions: 50 },
             { id: 'sistema-tegumentario', name: 'Tegumentario', questions: 50 }
         ]

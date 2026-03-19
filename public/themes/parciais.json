@@ -1,129 +1,189 @@
 {
   "id": "parciais",
   "nombre": "Parciales",
-  "descripcion": "Preguntas de Exámenes Parciales - Piel, Respiratorio y Digestivo",
+  "descripcion": "Todas las preguntas de Exámenes Parciales - Piel, Respiratorio, Digestivo y más",
   "preguntas": [
     {
-      "pregunta": "COM RESPECTO A LAS CAPAS DE LA PIEL",
+      "pregunta": "COM RESPECTO A LAS CAPAS DE LA PIEL;",
       "opciones": [
-        "A y C son correctas",
-        "A y B son correctas",
-        "En el estrato granuloso se encuentran los gránulos de birbeck",
-        "En el estrato basal se encuentran las células de merkel",
-        "En el estrato espinoso son más visibles los desmosomas"
-      ],
-      "correctIndex": 0,
-      "explicacion": "En el estrato basal se encuentran células de Merkel y en el estrato espinoso los desmosomas son más visibles."
-    },
-    {
-      "pregunta": "CUAL DE LOS SIGUIENTES ESTRATOS DE LA PIEL VEMOS SOLO EN PIEL GRUESA",
-      "opciones": [
-        "Estrato lúcido",
-        "Estrato granuloso",
-        "Estrato espinoso",
-        "Estrato basal",
-        "Estrato córneo"
-      ],
-      "correctIndex": 0,
-      "explicacion": "El estrato lúcido es una capa translúcida que se encuentra solo en la piel gruesa, especialmente en palmas y plantas."
-    },
-    {
-      "pregunta": "NO ES CONSIDERADO COMO ANEXO CUTANEO A",
-      "opciones": [
-        "Hipodermis",
-        "Glándulas sebáceas",
-        "Glándulas sudoríparas",
-        "Uñas",
-        "Pelos"
-      ],
-      "correctIndex": 0,
-      "explicacion": "La hipodermis es una capa de la piel, no un anexo cutáneo. Los anexos incluyen pelos, glándulas y uñas."
-    },
-    {
-      "pregunta": "EL ESTRATO BASAL TAMBIEN ES LLAMADO ESTRATO GERMINATIVO, DEBIDO A QUE EN ESTA CAPA ENCONTRAMOS KERATINOCITOS EN DIVISION CELULAR",
-      "opciones": [
-        "Verdadero",
-        "Falso"
-      ],
-      "correctIndex": 0,
-      "explicacion": "El estrato basal es llamado germinativo porque contiene células madre que se dividen continuamente para renovar la epidermis."
-    },
-    {
-      "pregunta": "LA EPIGLOTES ESTA COMPUESTA POR, EXCEPTO",
-      "opciones": [
-        "Epitelio escamoso",
-        "Glándulas mucoserosas",
-        "Epitelio respiratorio",
-        "Cartílago hialino"
-      ],
-      "correctIndex": 2,
-      "explicacion": "La epiglotis está compuesta por cartílago elástico, epitelio escamoso estratificado y glándulas mucoserosas, pero no por epitelio respiratorio."
-    },
-    {
-      "pregunta": "CUAL DE LAS SIGUIENTES NO ES UNA FUNCION DEL HIGADO",
-      "opciones": [
-        "Almacenamiento de vitaminas solubles en grasa",
-        "Almacenamiento de bilis",
-        "Conversión de glucosa en glucógeno",
-        "Síntesis de colesterol"
+        "A y C son correctas.",
+        "En el estrato basal se encuentran las células de merkel;",
+        "En el estrato granuloso se encuentran los gránulos de birbeck;",
+        "A y B son correctas;",
+        "En el estrato espinoso son más visibles los desmosomas;"
       ],
       "correctIndex": 1,
-      "explicacion": "El hígado produce bilis pero la almacena en la vesícula biliar, no en el hígado mismo."
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
-      "pregunta": "CUAL DE ESTAS CELULAS CORRESPONDE A LAS LLAMADAS CELULAS DEL POLVO",
+      "pregunta": "CUAL DE LOS SIGUIENTES ESTRATOS DE LA PIEL VEMOS SOLO EN PIEL GRUESA?",
       "opciones": [
-        "Células en cepillo",
-        "Células de Clara",
-        "Neumocito tipo II",
-        "Macrófagos"
+        "Estrato lucido;",
+        "Estrato corneo.",
+        "Estrato basal;",
+        "Estrato granuloso;",
+        "Estrato espinoso;"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "NO ES CONSIDERADO COMO ANEXO CUTANEO A?",
+      "opciones": [
+        "Pelos;",
+        "Glándulas sebáceas.",
+        "Glándulas sudor íparas;",
+        "Hipodermis;",
+        "Uñas;"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "EL ESTRATO BASAL TAMBIEN ES LLAMADO ESTRATO GERMINATIVO, DEBIDO A QUE  EN ESTA CAPA ENCONTRAMOS KERATINOCITOS EN DIVISION CELULAR:",
+      "opciones": [
+        "Falso.",
+        "Verdadero ;"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "CUAL DE LAS SIGUIENTES NO COR RESPONDE A LAS FUNCIONES DE LA PIEL?",
+      "opciones": [
+        "Termorregulación;",
+        "Producción de vitamina D;",
+        "Recepción sensorial;",
+        "Protección contra la perdida de agua insensible;",
+        "Todas son correctas."
+      ],
+      "correctIndex": 1,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "LAS GLANDULAS SUDORIPARAS DE TIPO APÓ CRINA PODEMOS ENCONTRAR EN EXCEPTO?",
+      "opciones": [
+        "Región perianal.",
+        "Areola;",
+        "Región posterior del cuello;",
+        "Axila;",
+        "Vulva;"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "MARQUE LA ALTERNATIVA CORRECTA:",
+      "opciones": [
+        "Las células de langerhans son células presentadoras de antígenos que representan"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "COM RESPECTO A LA DERMIS ES CORRECTO:",
+      "opciones": [
+        "El estrato reticular se compone de tejido conectivo denso irregular y colágeno",
+        "El estrato papilar se compone de tejido conectivo laxo y colágeno tipo III;"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "LA EPIGLOTES ESTA COMPUESTA POR, EXCEPTO?",
+      "opciones": [
+        "EPITÉLIO RESPIRATORIO",
+        "GLANDULAS MUCOSEROSAS",
+        "EPITELIO ESCAMOSO",
+        "CARTILAGO HIALINO"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "CUAL DE LAS SEGUIENTES NO ES UNA FUNCION DEL HIGADO ?",
+      "opciones": [
+        "CONVERSION DE GLUCOSA EM GLUCOGENO",
+        "ARMACENAMIENTO DE BILIS",
+        "ALMACENAMIENTO  DE VITAMINAS SOLUBLES EN GRASA",
+        "SÍNTESIS DE COLESTEROL"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "CUAL DE ESTAS CELULAS CORRESPONDE A LAS LLAMADAS  CELULAS DEL POLVO?",
+      "opciones": [
+        "NEUMOCITO TIPO II",
+        "CÉLULAS DE CLARA"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "EL C ANAL DE LAMBERG COMUNICA ?",
+      "opciones": [
+        "N.D.A",
+        "ALVEOLO Y ALVEOLO",
+        "CANAL ALVEOLAR Y ALVEOLO",
+        "BRONQUILO Y ALVEOLO"
       ],
       "correctIndex": 3,
-      "explicacion": "Los macrófagos alveolares son llamados células del polvo porque fagocitan partículas de polvo y bacterias."
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
-      "pregunta": "EL CANAL DE LAMBERT COMUNICA",
+      "pregunta": "EL TABIQUE ALVEOLAR QUE DEBE ATRAVESAR EL OXIGENO  HASTA EL ERITOCITO ES :",
       "opciones": [
-        "Bronquilo y alveolo",
-        "Canal alveolar y alveolo",
-        "Alveolo y alveolo",
-        "Ninguna de las anteriores"
-      ],
-      "correctIndex": 2,
-      "explicacion": "El canal de Lambert es una comunicación entre alveolos adyacentes que permite el paso de aire entre ellos."
-    },
-    {
-      "pregunta": "EL TABIQUE ALVEOLAR QUE DEBE ATRAVESAR EL OXIGENO HASTA EL ERITROCITO INCLUYE",
-      "opciones": [
-        "Surfactante, neumocito tipo II, lámina basal, endotelio",
-        "Macrófagos alveolares",
-        "Solo neumocito tipo I",
-        "Epitelio, lámina basal, endotelio"
+        "SURFACTANTE,NEUMOCITO TIPO II,LAMINA BASAL,ENDOTELIO.",
+        "SURFACTANTE,NEUMOCITO TIPO I,LAMINA BASAL,TEJIDO  CONECTIVO.LAMINA  BASAL Y",
+        "SURFACTANTE.NEUM OCITO TIPO I.LAMINA BASAL.ENDOTELIO"
       ],
       "correctIndex": 0,
-      "explicacion": "El oxígeno debe atravesar múltiples capas: surfactante, neumocito tipo II, lámina basal compartida y endotelio capilar."
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
-      "pregunta": "MARQUE LA ALTERNATIVA CORRECTA SOBRE LAS CELULAS DE LANGERHANS",
+      "pregunta": "CUAL DE LAS SIGUIENTES NO ES UNA FUNCION DEL HIGADO?",
       "opciones": [
-        "Todas las anteriores son correctas",
-        "Son células presentadoras de antígenos",
-        "Representan alrededor del 2% de las células de la epidermis",
-        "Representan un componente importante de las defensas cutáneas"
+        "PRODUCCION DE COLECISTOQUININA (Produção no duodeno e yeyuno)",
+        "PRODUCION DE BILIS",
+        "DESINTOXICAÇÃO",
+        "SINTESIS DE FATORES DE COAGULACÃO"
       ],
       "correctIndex": 0,
-      "explicacion": "Las células de Langerhans son células dendríticas que presentan antígenos y representan aproximadamente el 2% de las células epidérmicas."
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
-      "pregunta": "COM RESPECTO A LA DERMIS ES CORRECTO",
+      "pregunta": "CUÁL DE ESTAS CÉLULAS SON CONOCIDAS COMO CÉLULAS  SEPTALES ?",
       "opciones": [
-        "El estrato reticular se compone de tejido conectivo denso regular y colágeno tipo I",
-        "A y B son correctas",
-        "El estrato reticular se compone de tejido conectivo denso irregular y colágeno tipo I",
-        "El estrato papilar se compone de tejido conectivo laxo y colágeno tipo III"
+        "CÉLULA DE CLARA",
+        "NEUMOCITO TIPO II",
+        "NEUMOCITO TIPO I",
+        "CÉLULA CILIADA"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "CONTRIBUYEN A FORMAN EL SURFACTANTE PULMONAR?",
+      "opciones": [
+        "NEUMOCITO TIPO I",
+        "NEUMOCITO TIPO II",
+        "B Y C SON CORRECTAS",
+        "CELULAS DE CLARA"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "ES CORRECTO CON RESPECTO A LA MUCOSA OLFATORIA:",
+      "opciones": [
+        "LAS CÉLULAS BASALES SON CÉLULAS CAPACES DE DIFERENCIARSE HACIA NEURONALES",
+        "LAS CÉLULAS OLFATOR IAS SON COMPUESTAS POR NEURONAS BIPOLARES",
+        "TODAS SON CORRECTAS",
+        "EN LA LÁMINA PROPRIA SE OBSERVA GLÁNDULAS TUBULO  ALVEOLARES SEROSAS"
       ],
       "correctIndex": 1,
-      "explicacion": "La dermis tiene dos capas: papilar (tejido laxo, colágeno III) y reticular (tejido denso irregular, colágeno I)."
+      "explicacion": "Consulte los materiales de clase para la explicación detallada."
     }
   ]
 }

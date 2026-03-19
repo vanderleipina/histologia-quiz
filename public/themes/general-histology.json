@@ -1,0 +1,614 @@
+{
+  "id": "general-histology",
+  "nombre": "Histología General",
+  "descripcion": "Cuestionario General de Histología - Endócrino, Respiratorio y más",
+  "preguntas": [
+    {
+      "pregunta": "Con relación al sistema endocrino, indique la respuesta correcta:",
+      "opciones": [
+        "Está compuesta por glándulas exocrinas",
+        "Producen mucina",
+        "Producen sustancias proteinicas secretadas al exterior",
+        "Produce diversas secreciones denominadas hormonas que ingresan al torrente sanguíneo"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El sistema endocrino produce diversas secreciones denominadas hormonas que ingresan al torrente sanguíneo para su transporte hacia las células diana."
+    },
+    {
+      "pregunta": "¿Qué porción de la hipófisis se conecta con el hipotálamo?",
+      "opciones": [
+        "Neurohipófisis",
+        "Infundíbulo",
+        "Pars intermedia",
+        "Adenohipófisis"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El infundíbulo es la porción de la hipófisis que se conecta con el hipotálamo, permitiendo la comunicación neuroendocrina."
+    },
+    {
+      "pregunta": "Con respecto a la Neurohipófisis, es correcto afirmar:",
+      "opciones": [
+        "El lóbulo posterior es una extensión del SNP",
+        "La vasopresina y oxitocina son secretadas por neuronas del hipotálamo",
+        "La ADH y la oxitocina son producidos por el cuerpo de Herring",
+        "Está formado por cuerpos neuronales y axones"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La vasopresina (ADH) y la oxitocina son secretadas por neuronas localizadas en el núcleo supraóptico y paraventricular del hipotálamo."
+    },
+    {
+      "pregunta": "Las hormonas esteroideas ejercen su función luego de atravesar la membrana plasmática y fijarse a un receptor específico localizado en el núcleo celular.",
+      "opciones": [
+        "Falso",
+        "Verdadero"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las hormonas esteroideas son liposolubles y pueden atravesar la membrana plasmática, fijándose a receptores nucleares."
+    },
+    {
+      "pregunta": "El lóbulo anterior de la hipófisis está compuesto por tres porciones: distal, intermedia y tuberal.",
+      "opciones": [
+        "Falso",
+        "Verdadero"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El lóbulo anterior (adenohipófisis) tiene estas tres porciones que rodean el infundíbulo."
+    },
+    {
+      "pregunta": "La adenohipófisis está constituida por 50% células acidófilas, 10% células basófilas y 40% células cromófobas.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La composición es aproximadamente 50% acidófilas, 15-20% basófilas y 30-35% cromófobas."
+    },
+    {
+      "pregunta": "La oxitocina secretada en la hipófisis estimula la producción y secreción de leche.",
+      "opciones": [
+        "Falso",
+        "Verdadero"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La prolactina estimula la producción de leche. La oxitocina estimula su expulsión."
+    },
+    {
+      "pregunta": "¿Una célula acidófila podría producir cuál de estas hormonas?",
+      "opciones": [
+        "Hormona del crecimiento",
+        "Hormona Luteinizante",
+        "Hormona Foliculoestimulante",
+        "Hormona Adrenocorticotropa"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las células acidófilas producen hormona del crecimiento (STH) y prolactina."
+    },
+    {
+      "pregunta": "¿Cuál de estas hormonas se produce en la adenohipófisis?",
+      "opciones": [
+        "Calcitonina",
+        "Oxitocina",
+        "Cortisol",
+        "Prolactina"
+      ],
+      "correctIndex": 3,
+      "explicacion": "La prolactina es producida por células acidófilas de la adenohipófisis."
+    },
+    {
+      "pregunta": "Las células acidófilas se encuentran en mayor porcentaje dentro de la adenohipófisis.",
+      "opciones": [
+        "Falso",
+        "Verdadero"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las células cromófobas son las más abundantes, seguidas de las acidófilas."
+    },
+    {
+      "pregunta": "Con respecto a la Glándula Tiroides, señale la alternativa correcta:",
+      "opciones": [
+        "El coloide se almacena dentro de la célula",
+        "Los folículos tiroideos están compuestos por células foliculares y células C",
+        "Las células foliculares son planas pero varían según el estado funcional",
+        "Producen únicamente T3 y T4"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Los folículos tiroideos están compuestos por células foliculares (que producen T3 y T4) y células C (que producen calcitonina)."
+    },
+    {
+      "pregunta": "Los folículos tiroideos están revestidos por un epitelio de tipo:",
+      "opciones": [
+        "Cilíndrico pseudoestratificado",
+        "Plano estratificado",
+        "Cúbico simple",
+        "Plano simple"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El epitelio folicular es cúbico simple, aunque puede variar entre plano y cilíndrico según la actividad funcional."
+    },
+    {
+      "pregunta": "Con respecto a la Glándula Suprarrenal, es correcto:",
+      "opciones": [
+        "En la zona fasciculada se produce aldosterona",
+        "Las células de la zona fascicular son espongiocitos",
+        "La relación corteza/médula es 10/90",
+        "Los andrógenos son producidos en la zona glomerular"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células localizadas en la zona fascicular son llamadas espongiocitos."
+    },
+    {
+      "pregunta": "Con respecto a la corteza suprarrenal, marque la opción correcta:",
+      "opciones": [
+        "La zona reticular se compone de células pequeñas formando fascículos",
+        "La zona glomerular adopta disposición radial en cordones",
+        "Todas las anteriores",
+        "La zona fasciculada se compone de células en grupos redondeados"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La zona reticular se compone por células pequeñas formando fascículos y cordones anastomosados."
+    },
+    {
+      "pregunta": "Con respecto a las células C, es correcto:",
+      "opciones": [
+        "Sus células adoptan disposición radial en cordones",
+        "Secretan calcitonina que regula el metabolismo del calcio",
+        "Células pequeñas formando cordones anastomosados",
+        "Son células agrupadas con función desconocida"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células C secretan calcitonina, una hormona que regula el metabolismo del calcio."
+    },
+    {
+      "pregunta": "La hormona paratiroidea regula las concentraciones de calcio y fosfato en la sangre.",
+      "opciones": [
+        "Falso",
+        "Verdadero"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La PTH regula el calcio y fosfato, aumentando la concentración de Ca2+ en la sangre."
+    },
+    {
+      "pregunta": "La médula suprarrenal contiene células cromafines que sintetizan adrenalina y noradrenalina.",
+      "opciones": [
+        "Falso",
+        "Verdadero"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células cromafines de la médula suprarrenal sintetizan catecolaminas (adrenalina y noradrenalina)."
+    },
+    {
+      "pregunta": "Las glándulas suprarrenales están organizadas en corteza (esteroides) y médula (catecolaminas).",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La corteza suprarrenal secreta esteroides y la médula secreta catecolaminas."
+    },
+    {
+      "pregunta": "La corteza suprarrenal está dividida en tres zonas: glomerular (interna), fasciculada (media) y reticular (externa).",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La zona glomerular es externa, la fasciculada es media y la reticular es interna."
+    },
+    {
+      "pregunta": "Con respecto a las vías aéreas, la laringe es:",
+      "opciones": [
+        "Paso del alimento hacia esófago",
+        "Continuación posterior de cavidades bucal y nasal",
+        "Conexión entre faringe y tráquea con pliegues vocales",
+        "Estructura tapizada por mucosa respiratoria"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La laringe es una conexión entre la faringe y la tráquea que contiene pliegues vocales para producir sonido."
+    },
+    {
+      "pregunta": "La epiglotis está formada por cartílago:",
+      "opciones": [
+        "Fibroso",
+        "Hialino",
+        "No posee cartílago",
+        "Elástico"
+      ],
+      "correctIndex": 3,
+      "explicacion": "La epiglotis está formada por cartílago elástico, lo que le permite flexibilidad."
+    },
+    {
+      "pregunta": "¿Cuál es el epitelio respiratorio?",
+      "opciones": [
+        "Epitelio cilíndrico pseudoestrificado con células caliciformes",
+        "Epitelio plano simple",
+        "Epitelio plano estratificado queratinizado",
+        "Epitelio cilíndrico simple"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El epitelio respiratorio es cilíndrico pseudoestrificado con células caliciformes secretoras de moco."
+    },
+    {
+      "pregunta": "Los bronquios son estructuras tapizadas por mucosa respiratoria con placas cartilaginosas.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Los bronquios poseen mucosa respiratoria y placas cartilaginosas con una capa circular de músculo liso."
+    },
+    {
+      "pregunta": "En la región anterior del abdomen, delante de los riñones, se localizan:",
+      "opciones": [
+        "Glándulas suprarrenales",
+        "Glándulas salivales",
+        "Glándulas mamarias",
+        "Glándulas sudoríparas"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las glándulas suprarrenales se localizan en la cara superior de cada riñón, dentro del tejido adiposo perirrenal."
+    },
+    {
+      "pregunta": "¿Cuál es la estructura histológica característica del estómago que permite su distensión?",
+      "opciones": [
+        "Criptas de Lieberkühn",
+        "Mucosa lisa sin pliegues",
+        "Vellosidades intestinales",
+        "Pliegues gástricos o rugosidades"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El estómago presenta pliegues gástricos o rugosidades que permiten su distensión cuando se llena de alimento."
+    },
+    {
+      "pregunta": "¿Qué tipo de epitelio recubre la mucosa gástrica?",
+      "opciones": [
+        "Epitelio plano simple",
+        "Epitelio cuboidal simple",
+        "Epitelio cilíndrico estratificado",
+        "Epitelio cilíndrico simple"
+      ],
+      "correctIndex": 3,
+      "explicacion": "La mucosa gástrica está recubierta por epitelio cilíndrico simple que contiene células secretoras."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de las glándulas gástricas?",
+      "opciones": [
+        "Absorción de nutrientes",
+        "Secreción de ácido clorhídrico y pepsinógeno",
+        "Secreción de insulina",
+        "Secreción de bilis"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las glándulas gástricas secretan ácido clorhídrico y pepsinógeno, precursor de la pepsina."
+    },
+    {
+      "pregunta": "¿Dónde se localizan las células parietales en el estómago?",
+      "opciones": [
+        "En la muscular",
+        "En el fondo de las glándulas gástricas",
+        "En la submucosa",
+        "En la superficie de la mucosa"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células parietales se localizan en el fondo de las glándulas gástricas y secretan ácido clorhídrico."
+    },
+    {
+      "pregunta": "¿Cuál es la función del factor intrínseco secretado por las células parietales?",
+      "opciones": [
+        "Estimular la secreción de gastrina",
+        "Activar el pepsinógeno",
+        "Neutralizar el ácido gástrico",
+        "Facilitar la absorción de vitamina B12"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El factor intrínseco facilita la absorción de vitamina B12 en el intestino delgado."
+    },
+    {
+      "pregunta": "¿Qué células secretan gastrina en el estómago?",
+      "opciones": [
+        "Células principales",
+        "Células G",
+        "Células parietales",
+        "Células mucosas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células G secretan gastrina, hormona que estimula la secreción de ácido clorhídrico."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica más característica del intestino delgado?",
+      "opciones": [
+        "Criptas profundas",
+        "Pliegues gástricos",
+        "Tenias del colon",
+        "Vellosidades intestinales"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Las vellosidades intestinales son proyecciones que aumentan la superficie de absorción."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de las células absortivas del intestino delgado?",
+      "opciones": [
+        "Secreción de moco",
+        "Absorción de nutrientes",
+        "Secreción de enzimas",
+        "Defensa inmunológica"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células absortivas poseen borde en cepillo con microvellosidades para absorber nutrientes."
+    },
+    {
+      "pregunta": "¿Qué estructura característica poseen las células absortivas del intestino delgado?",
+      "opciones": [
+        "Borde en cepillo (microvellosidades)",
+        "Cilia",
+        "Gránulos secretores",
+        "Vesículas pinocíticas"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El borde en cepillo está formado por microvellosidades que aumentan la superficie de absorción."
+    },
+    {
+      "pregunta": "¿Dónde se localizan las células de Paneth en el intestino delgado?",
+      "opciones": [
+        "En el fondo de las criptas de Lieberkühn",
+        "En la superficie de las vellosidades",
+        "En la lámina propia",
+        "En la submucosa"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las células de Paneth se encuentran en el fondo de las criptas de Lieberkühn."
+    },
+    {
+      "pregunta": "¿Cuál es la función de las células de Paneth?",
+      "opciones": [
+        "Secreción de moco",
+        "Secreción de lisozimas y función antibacteriana",
+        "Secreción de enzimas digestivas",
+        "Absorción de nutrientes"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células de Paneth secretan lisozimas con importante acción antibacteriana."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica del intestino grueso que lo diferencia del intestino delgado?",
+      "opciones": [
+        "Presencia de vellosidades",
+        "Mayor cantidad de células de Paneth",
+        "Ausencia de vellosidades",
+        "Presencia de glándulas de Brunner"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El intestino grueso no posee vellosidades, tiene una mucosa lisa."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal del intestino grueso?",
+      "opciones": [
+        "Síntesis de vitaminas",
+        "Absorción de agua y sales inorgánicas",
+        "Absorción de glucosa",
+        "Digestión de proteínas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El intestino grueso absorbe agua y sales inorgánicas, concentrando el contenido intestinal."
+    },
+    {
+      "pregunta": "¿Cuáles son las tres secciones principales del intestino grueso?",
+      "opciones": [
+        "Duodeno, yeyuno, íleon",
+        "Estómago, duodeno, ciego",
+        "Colon, recto, ano",
+        "Ciego, colon, recto"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El intestino grueso se divide en ciego, colon y recto."
+    },
+    {
+      "pregunta": "¿Qué son las tenias del colon?",
+      "opciones": [
+        "Glándulas secretoras",
+        "Vasos sanguíneos",
+        "Pliegues de la mucosa",
+        "Bandas longitudinales de la muscular externa"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Las tenias del colon son tres bandas longitudinales de la capa muscular externa."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica del recto?",
+      "opciones": [
+        "Ausencia de tenias del colon",
+        "Ausencia de criptas",
+        "Presencia de vellosidades",
+        "Presencia de tenias del colon"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El recto no presenta tenias del colon, es la porción final del tracto digestivo."
+    },
+    {
+      "pregunta": "¿Qué son las columnas anales?",
+      "opciones": [
+        "Pliegues longitudinales de la mucosa del canal anal",
+        "Esfínteres anales",
+        "Glándulas anales",
+        "Vasos sanguíneos"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las columnas anales son pliegues mucosos longitudinales presentes en el canal anal."
+    },
+    {
+      "pregunta": "¿Cuál es la composición del esfínter anal interno?",
+      "opciones": [
+        "Tejido conectivo",
+        "Músculo liso",
+        "Músculo estriado",
+        "Tejido adiposo"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El esfínter anal interno está compuesto por músculo liso, continuación de la muscular del recto."
+    },
+    {
+      "pregunta": "¿Cuál es la composición del esfínter anal externo?",
+      "opciones": [
+        "Cartílago",
+        "Músculo liso",
+        "Tejido conectivo",
+        "Músculo estriado"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El esfínter anal externo está compuesto por músculo estriado, bajo control voluntario."
+    },
+    {
+      "pregunta": "¿Qué es el apéndice vermiforme?",
+      "opciones": [
+        "Una evaginación terminal del ciego",
+        "Una glándula digestiva",
+        "Un vaso sanguíneo",
+        "Una estructura del estómago"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El apéndice vermiforme es una evaginación terminal del ciego con abundante tejido linfoide."
+    },
+    {
+      "pregunta": "¿Cuál es la función del apéndice vermiforme?",
+      "opciones": [
+        "Absorción de agua",
+        "Síntesis de vitaminas",
+        "Digestión de alimentos",
+        "Función inmunológica"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El apéndice tiene función inmunológica debido a su abundante tejido linfoide."
+    },
+    {
+      "pregunta": "¿Cuál es la característica más notable de las células caliciformes en el intestino grueso?",
+      "opciones": [
+        "Están ausentes",
+        "Son menos abundantes",
+        "Son mucho más abundantes",
+        "Tienen borde en cepillo"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las células caliciformes son mucho más abundantes en el intestino grueso que en el intestino delgado."
+    },
+    {
+      "pregunta": "¿Cuál es la función de la submucosa del intestino delgado?",
+      "opciones": [
+        "Contracción del intestino",
+        "Secreción de enzimas",
+        "Absorción de nutrientes",
+        "Soporte estructural y contiene vasos sanguíneos y linfáticos"
+      ],
+      "correctIndex": 3,
+      "explicacion": "La submucosa proporciona soporte estructural y contiene vasos sanguíneos y linfáticos."
+    },
+    {
+      "pregunta": "¿Cuál es la composición de la muscular del intestino delgado?",
+      "opciones": [
+        "Tres capas musculares",
+        "Solo músculo longitudinal",
+        "Capa circular interna y longitudinal externa",
+        "Solo músculo circular"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La muscular tiene capa circular interna y longitudinal externa con plexo mientérico entre ellas."
+    },
+    {
+      "pregunta": "¿Qué es el plexo mientérico?",
+      "opciones": [
+        "Un acúmulo de células inmunológicas",
+        "Una red de nervios entre las capas musculares",
+        "Una glándula secretora",
+        "Una red de vasos sanguíneos"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El plexo mientérico es una red de nervios que controla la motilidad intestinal."
+    },
+    {
+      "pregunta": "¿Cuál es la función del glucocáliz en el borde en cepillo?",
+      "opciones": [
+        "Protección mecánica",
+        "Contracción celular",
+        "Síntesis de enzimas",
+        "Facilita la absorción de nutrientes"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El glucocáliz facilita la absorción de nutrientes y protege el epitelio."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica más importante del duodeno?",
+      "opciones": [
+        "Presencia de glándulas de Brunner",
+        "Presencia de tenias del colon",
+        "Ausencia de criptas",
+        "Ausencia de vellosidades"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El duodeno se caracteriza por la presencia de glándulas de Brunner que secretan moco alcalino."
+    },
+    {
+      "pregunta": "¿Cuál es la función del muco secretado por el estómago?",
+      "opciones": [
+        "Síntesis de ácido clorhídrico",
+        "Digestión de proteínas",
+        "Protección de la mucosa gástrica",
+        "Absorción de nutrientes"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El muco protege la mucosa gástrica del ácido clorhídrico y la pepsina."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia principal entre el duodeno y el yeyuno?",
+      "opciones": [
+        "El yeyuno tiene vellosidades más altas",
+        "El yeyuno tiene más criptas",
+        "El duodeno es más largo",
+        "El duodeno tiene glándulas de Brunner, el yeyuno no"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El duodeno contiene glándulas de Brunner mientras que el yeyuno no."
+    },
+    {
+      "pregunta": "¿Cuál es la característica histológica del íleon?",
+      "opciones": [
+        "Presencia de glándulas de Brunner",
+        "Ausencia de vellosidades",
+        "Presencia de tenias del colon",
+        "Presencia de placas de Peyer más desarrolladas"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El íleon se caracteriza por placas de Peyer más desarrolladas que en otras regiones."
+    },
+    {
+      "pregunta": "¿Cuál es la función de la serosa del intestino?",
+      "opciones": [
+        "Protección y reducción de fricción",
+        "Absorción de nutrientes",
+        "Contracción intestinal",
+        "Secreción de enzimas"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La serosa protege el intestino y reduce la fricción durante los movimientos."
+    },
+    {
+      "pregunta": "¿Qué son los apéndices epiploicos del colon?",
+      "opciones": [
+        "Pequeñas bolsas de grasa peritoneal",
+        "Nervios",
+        "Vasos sanguíneos",
+        "Glándulas secretoras"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Los apéndices epiploicos son pequeñas bolsas de grasa peritoneal en la serosa del colon."
+    },
+    {
+      "pregunta": "¿Cuál es la función de las células enteroendocrinas del intestino?",
+      "opciones": [
+        "Secreción de hormonas reguladoras",
+        "Secreción de muco",
+        "Defensa inmunológica",
+        "Absorción de nutrientes"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Las células enteroendocrinas secretan hormonas que regulan la digestión y motilidad intestinal."
+    }
+  ]
+}

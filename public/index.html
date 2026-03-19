@@ -194,11 +194,29 @@
         }
 
         .question-text {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: 600;
             color: #1a1a1a;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
             line-height: 1.5;
+        }
+
+        .question-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            max-height: 300px;
+            object-fit: contain;
+        }
+
+        .question-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
         }
 
         .options-container {
@@ -427,7 +445,10 @@
             </div>
 
             <div class="question-number" id="questionNumber"></div>
-            <div class="question-text" id="questionText"></div>
+            <div class="question-container">
+                <div class="question-text" id="questionText"></div>
+                <img id="questionImage" class="question-image" style="display: none;" alt="Pregunta imagen">
+            </div>
 
             <div class="quiz-error" id="quizError"></div>
 
@@ -635,6 +656,15 @@
             document.getElementById('progressFill').style.width = progress + '%';
             document.getElementById('questionNumber').textContent = `Pregunta ${currentQuestionIndex + 1} de ${questions.length}`;
             document.getElementById('questionText').textContent = question.pregunta || question.question;
+            
+            // Handle question image
+            const imageElement = document.getElementById('questionImage');
+            if (question.imagen || question.image) {
+                imageElement.src = question.imagen || question.image;
+                imageElement.style.display = 'block';
+            } else {
+                imageElement.style.display = 'none';
+            }
 
             const optionsContainer = document.getElementById('optionsContainer');
             optionsContainer.innerHTML = '';

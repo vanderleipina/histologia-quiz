@@ -105,7 +105,8 @@ app.get('/api/themes', (req, res) => {
             { id: 'digestivo-2', name: 'Digestivo II', questions: 50 },
             { id: 'suprarrenal', name: 'Suprarrenal', questions: 50 },
             { id: 'sistema-tegumentario', name: 'Tegumentario', questions: 50 },
-            { id: 'general-histology', name: 'Histología General', questions: 50 }
+            { id: 'general-histology', name: 'Histología General', questions: 50 },
+            { id: 'parciais', name: 'Parciales', questions: 19 }
         ]
     });
 });

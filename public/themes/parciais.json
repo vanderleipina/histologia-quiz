@@ -219,6 +219,248 @@
       ],
       "correctIndex": 0,
       "explicacion": "Es verdadero. La secretina regula la secreción de bicarbonato y agua por la porción excretora del páncreas"
+    },
+    {
+      "pregunta": "¿QUE TIPO DE HORMONA ES LA INSULINA?",
+      "opciones": [
+        "Lípido esteroides",
+        "Prostaglandina",
+        "Derivado de aminoácido",
+        "Proteína"
+      ],
+      "correctIndex": 3,
+      "explicacion": "La insulina es una hormona proteica compuesta por 51 aminoácidos organizados en dos cadenas (A y B) unidas por puentes disulfuro. Es sintetizada en el páncreas por las células beta de los islotes de Langerhans. La insulina es fundamental para la regulación del metabolismo de la glucosa, permitiendo que las células capten glucosa de la sangre. Actúa como una hormona anabólica, promoviendo el almacenamiento de glucosa como glucógeno y la síntesis de lípidos y proteínas."
+    },
+    {
+      "pregunta": "¿QUE PORCIÓN DE LA HIPÓFISIS ESTA CONECTADA AL HIPOTÁLAMO?",
+      "opciones": [
+        "Infundíbulo (tallo neural)",
+        "Neurohipófisis",
+        "Pars distalis",
+        "Pars intermedia"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El infundíbulo, también llamado tallo neural o tallo hipofisario, es la estructura que conecta el hipotálamo con la hipófisis. Esta conexión es fundamental para la regulación neuroendocrina. A través del infundíbulo descienden las fibras nerviosas que conectan el hipotálamo con la neurohipófisis, permitiendo la liberación de oxitocina y vasopresina. Además, los vasos sanguíneos del sistema porta hipofisario transportan factores liberadores desde el hipotálamo hasta la adenohipófisis."
+    },
+    {
+      "pregunta": "¿QUE CÉLULAS SECRETAN PROLACTINA?",
+      "opciones": [
+        "Basófilas, gonadotrofilas",
+        "Células foliculares",
+        "Cromofilas, acidófilas, lactotrofilas",
+        "Células cromófobas"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La prolactina es secretada por las células lactotrofilas (también llamadas células acidófilas o cromofilas) de la adenohipófisis. Estas células representan aproximadamente el 15-20% de la población celular de la adenohipófisis. La prolactina es una hormona proteica que estimula la producción de leche en las glándulas mamarias después del parto. Su secreción es regulada principalmente por la dopamina (factor inhibidor de prolactina) del hipotálamo, que mantiene la prolactina bajo control tónico."
+    },
+    {
+      "pregunta": "¿QUE GLÁNDULA SECRETA CALCITONINA?",
+      "opciones": [
+        "Paratiroides",
+        "Páncreas",
+        "Tiroide",
+        "Glándula suprarrenal"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La calcitonina es secretada por las células C (células parafoliculares) de la glándula tiroides. Estas células se encuentran entre los folículos tiroideos y representan aproximadamente el 1% de las células tiroideas. La calcitonina es una hormona peptídica de 32 aminoácidos que juega un papel importante en la regulación del calcio sérico. Su principal función es disminuir los niveles de calcio en la sangre inhibiendo la resorción ósea y aumentando la excreción renal de calcio."
+    },
+    {
+      "pregunta": "¿CUALES SON LOS COMPONENTES DE LA GLÁNDULA SUPRARRENAL?",
+      "opciones": [
+        "Cordones celulares separados por capilares y vénulas, células cromafines, células ganglionares simpáticas",
+        "Células productoras de insulina",
+        "Folículos cerrados con células endocrinas",
+        "Solo células secretoras de cortisol"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La glándula suprarrenal está compuesta por dos estructuras principales: la corteza y la médula. La médula suprarrenal contiene células cromafines (también llamadas células feocromocitarias) que secretan catecolaminas (adrenalina y noradrenalina). Estas células están organizadas en cordones celulares separados por capilares y vénulas, lo que permite una rápida difusión de las hormonas al torrente sanguíneo. También contiene células ganglionares simpáticas que regulan la función de las células cromafines. La corteza suprarrenal rodea la médula y está dividida en tres zonas."
+    },
+    {
+      "pregunta": "¿CUAL ES LA CÉLULA PRINCIPAL DE LA GLÁNDULA PINEAL?",
+      "opciones": [
+        "Pinealocito y células intersticiales",
+        "Células foliculares",
+        "Células beta",
+        "Células cromafines"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La glándula pineal está compuesta principalmente por pinealocitos y células intersticiales. Los pinealocitos son células neuroendocrinas especializadas que secretan melatonina, una hormona indolamina que regula los ritmos circadianos. Los pinealocitos tienen características ultraestructurales similares a las de los fotorreceptores retinianos, lo que sugiere una evolución común. Las células intersticiales son células de soporte derivadas de la glía. La pineal también contiene células inmunológicas y una red vascular rica que facilita la distribución de melatonina."
+    },
+    {
+      "pregunta": "¿QUIÉN SECRETA MSH (MELANOTROFINA)?",
+      "opciones": [
+        "Pars distalis",
+        "Pars tuberalis",
+        "Pars intermedia",
+        "Neurohipófisis"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La hormona estimulante de melanocitos (MSH o melanotrofina) es secretada por la pars intermedia de la adenohipófisis. La pars intermedia es una región pequeña pero importante de la hipófisis que se encuentra entre la pars distalis y la neurohipófisis. En los humanos, la pars intermedia es menos desarrollada que en otros mamíferos, pero aún produce MSH. La MSH estimula la producción y dispersión de melanina en los melanocitos, regulando la pigmentación de la piel. Su secreción es regulada por factores inhibidores y liberadores del hipotálamo."
+    },
+    {
+      "pregunta": "¿EN LA ADENOHIPÓFISIS LA MAYORÍA DE LAS CÉLULAS SON BASÓFILAS?",
+      "opciones": [
+        "Depende de la edad",
+        "Verdadero",
+        "Falso",
+        "Parcialmente verdadero"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es falso que la mayoría de las células de la adenohipófisis sean basófilas. Las células de la adenohipófisis se clasifican en cromófilas (que se tiñen con colorantes) y cromófobas (que no se tiñen). Las cromófilas se dividen en acidófilas (que se tiñen con colorantes ácidos) y basófilas (que se tiñen con colorantes básicos). Las células acidófilas representan aproximadamente el 50% de la población celular, mientras que las basófilas representan solo el 10-15%. Las células cromófobas representan el 35-40% de la población. Por lo tanto, las células acidófilas son más abundantes que las basófilas."
+    },
+    {
+      "pregunta": "¿DONDE SE PRODUCEN LA OXITOCINA Y LA VASOPRESINA?",
+      "opciones": [
+        "En la glándula pineal",
+        "En los núcleos paraventricular y supraóptico del hipotálamo",
+        "En la glándula tiroides",
+        "En la adenohipófisis"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La oxitocina y la vasopresina (hormona antidiurética) se producen en los núcleos paraventricular y supraóptico del hipotálamo. Estos núcleos contienen neuronas magnocelulares que sintetizan estas hormonas peptídicas. Las hormonas se transportan a lo largo de los axones de estas neuronas hasta la neurohipófisis (lóbulo posterior de la hipófisis), donde se almacenan en vesículas sinápticas. La oxitocina estimula la contracción del miometrio durante el parto y la eyección de leche durante la lactancia. La vasopresina regula la reabsorción de agua en los riñones y la presión arterial."
+    },
+    {
+      "pregunta": "¿CUAL ES LA ACCIÓN DE LAS HORMONAS EN LAS CÉLULAS CONTIGUAS?",
+      "opciones": [
+        "Autocrina",
+        "Parácrina",
+        "Justácrina",
+        "Endócrina"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La acción justácrina es aquella en la que las hormonas actúan sobre células contiguas o adyacentes a través del contacto directo de membrana a membrana. Este tipo de comunicación celular es menos conocida que la comunicación parácrina o endócrina, pero es importante en varios contextos fisiológicos. En la justácrina, los factores se presentan en la superficie celular y actúan sobre receptores de células adyacentes sin necesidad de ser secretados al espacio extracelular. Esto permite una comunicación celular muy localizada y específica entre células que están en contacto directo."
+    },
+    {
+      "pregunta": "¿CUAL ES EL TEJIDO CONECTIVO DE LOS FOLÍCULOS TIROIDEOS?",
+      "opciones": [
+        "Tejido óseo",
+        "Tejido adiposo",
+        "Cartílago hialino",
+        "Interfolicular con fibroblastos dispersos y fibras de colágeno"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El tejido conectivo de los folículos tiroideos es el tejido interfolicular, que se encuentra entre los folículos tiroideos. Este tejido está compuesto principalmente por fibroblastos dispersos y fibras de colágeno tipo I y III. El tejido interfolicular también contiene células endoteliales que forman una red vascular rica, fundamental para el aporte de sangre y nutrientes a los folículos. Además, contiene células inmunológicas como linfocitos y macrófagos que forman parte del sistema inmunológico local de la glándula tiroides."
+    },
+    {
+      "pregunta": "¿LOS ESTEROIDES TIENEN SUS RECEPTORES EN EL NÚCLEO CELULAR?",
+      "opciones": [
+        "Verdadero",
+        "Depende del tipo de esteroide",
+        "Falso",
+        "Solo en algunas células"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es falso que los esteroides tengan sus receptores únicamente en el núcleo celular. Los receptores de esteroides se encuentran principalmente en el citoplasma celular, no en el núcleo. Cuando los esteroides (como el cortisol, la testosterona o el estradiol) se unen a sus receptores citoplasmáticos, el complejo hormona-receptor se transloca al núcleo donde actúa como factor de transcripción. Algunos receptores de esteroides también se encuentran en la membrana celular, permitiendo efectos rápidos no genómicos. Los receptores nucleares de esteroides se encuentran principalmente asociados con el retículo endoplasmático rugoso y la cromatina."
+    },
+    {
+      "pregunta": "¿CUALES CÉLULAS SECRETAN CALCITONINA?",
+      "opciones": [
+        "Células principales",
+        "Células basales",
+        "Células foliculares",
+        "Células C"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Las células C (también llamadas células parafoliculares) son las células que secretan calcitonina. Estas células se encuentran dispersas entre los folículos tiroideos y representan aproximadamente el 1% de las células tiroideas. Las células C derivan de la cresta neural y migran durante el desarrollo embrionario hacia la glándula tiroides. Tienen características ultraestructurales de células neuroendocrinas, incluyendo numerosas mitocondrias y vesículas secretoras. Además de calcitonina, las células C también secretan otras sustancias como somatostatina, calcitonina relacionada con genes (CGRP) y otras neuropéptidos."
+    },
+    {
+      "pregunta": "¿LA CALCITONINA TIENE RETROALIMENTACIÓN POSITIVA?",
+      "opciones": [
+        "No está claro",
+        "Verdadero",
+        "Falso",
+        "Solo en ciertas condiciones"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es verdadero que la calcitonina tiene retroalimentación positiva en ciertos contextos. Aunque la calcitonina disminuye los niveles de calcio sérico (efecto negativo), cuando los niveles de calcio están elevados, la calcitonina secretada por las células C inhibe la resorción ósea, lo que reduce aún más el calcio sérico. Sin embargo, en algunos estudios se ha observado que la calcitonina puede estimular su propia secreción en ciertos contextos, constituyendo una retroalimentación positiva. La regulación de la calcitonina es compleja e involucra múltiples factores, incluyendo el calcio sérico, el magnesio y varios péptidos intestinales."
+    },
+    {
+      "pregunta": "¿QUE SECRETA LA CORTEZA SUPRARRENAL?",
+      "opciones": [
+        "Zona glomerular: mineralocorticoides; Zona fascicular: glucocorticoides; Zona reticular: andrógenos",
+        "Solo adrenalina",
+        "Solo hormona tiroidea",
+        "Solo insulina"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La corteza suprarrenal está dividida en tres zonas que secretan diferentes hormonas esteroides. La zona glomerular (externa) secreta mineralocorticoides, principalmente aldosterona, que regulan el equilibrio de sodio y potasio. La zona fascicular (media) secreta glucocorticoides, principalmente cortisol, que regulan el metabolismo de carbohidratos y proteínas. La zona reticular (interna) secreta andrógenos débiles, principalmente dehidroepiandrosterona (DHEA), que tienen efectos androgénicos menores. Todas estas hormonas son esteroides derivados del colesterol y son esenciales para mantener la homeostasis del cuerpo."
+    },
+    {
+      "pregunta": "¿LA CORTEZA SUPRARRENAL ES INDISPENSABLE PARA LA VIDA?",
+      "opciones": [
+        "Depende de la edad",
+        "Falso",
+        "Solo en ciertas condiciones",
+        "Verdadero"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Es verdadero que la corteza suprarrenal es indispensable para la vida. La corteza suprarrenal secreta glucocorticoides y mineralocorticoides que son esenciales para mantener la presión arterial, el equilibrio de electrolitos y la respuesta al estrés. Sin la corteza suprarrenal, los niveles de cortisol caen drásticamente, lo que resulta en insuficiencia adrenal aguda, una condición potencialmente mortal caracterizada por hipotensión, hipoglucemia e hiponatremia. Aunque la médula suprarrenal puede extirparse sin consecuencias graves (ya que sus funciones pueden ser compensadas por el sistema nervioso simpático), la extirpación de la corteza es incompatible con la vida sin reemplazo hormonal."
+    },
+    {
+      "pregunta": "¿CUAL ES LA FUNCIÓN DEL GSR (RECEPTOR DE GLUCOCORTICOIDES)?",
+      "opciones": [
+        "Regulación metabólica",
+        "Regulación de la presión arterial",
+        "Regulación de la temperatura",
+        "Regulación del pH"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El receptor de glucocorticoides (GR o GSR) es un receptor nuclear que media los efectos de los glucocorticoides como el cortisol. Su función principal es la regulación metabólica, incluyendo la gluconeogénesis, la lipólisis y la proteólisis. El GSR actúa como factor de transcripción, regulando la expresión de genes involucrados en el metabolismo de carbohidratos, lípidos y proteínas. Además de la regulación metabólica, el GSR también participa en la regulación de la inflamación, la inmunidad y la respuesta al estrés. El GSR se encuentra en prácticamente todas las células del cuerpo, lo que explica los múltiples efectos sistémicos de los glucocorticoides."
+    },
+    {
+      "pregunta": "¿CUALES SON LOS EFECTOS DE LA ADRENALINA EXCEPTO?",
+      "opciones": [
+        "Aumento de la frecuencia cardíaca",
+        "Aumento de la presión arterial",
+        "Broncoconstricción",
+        "Dilatación de las pupilas"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La broncoconstricción NO es un efecto de la adrenalina. De hecho, la adrenalina produce el efecto opuesto: broncodilatación. La adrenalina actúa sobre receptores adrenérgicos beta-2 en el músculo liso bronquial, causando relajación y dilatación de las vías respiratorias. Este es el mecanismo por el cual la adrenalina (epinefrina) se utiliza en el tratamiento de la anafilaxia y el asma agudo. Los otros efectos mencionados sí son causados por la adrenalina: aumento de la frecuencia cardíaca (por receptores beta-1), dilatación de las pupilas (por receptores alfa), y aumento de la presión arterial (por receptores alfa en los vasos sanguíneos)."
+    },
+    {
+      "pregunta": "¿DONDE SE FORMAN T3 Y T4?",
+      "opciones": [
+        "En la médula tiroidea",
+        "En la periferia de la luz folicular",
+        "En el núcleo de las células foliculares",
+        "En el tejido conectivo interfolicular"
+      ],
+      "correctIndex": 1,
+      "explicacion": "T3 (triyodotironina) y T4 (tiroxina) se forman en la periferia de la luz folicular de la glándula tiroides. Las células foliculares sintetizan tiroglobulina, una proteína que contiene residuos de tirosina. La tiroglobulina se secreta en la luz folicular donde se yoda (se incorporan átomos de yodo) en presencia de peroxidasa tiroidea. La yodación de los residuos de tirosina produce monoiodotirosina (MIT) y diiodotirosina (DIT). La combinación de dos DIT produce T4, mientras que la combinación de un MIT y un DIT produce T3. Estas hormonas permanecen unidas a la tiroglobulina en el coloide folicular hasta que son liberadas por proteólisis."
+    },
+    {
+      "pregunta": "¿CUAL ES LA PARTICIPACIÓN DE LA PARATIROIDES EN EL CALCIO?",
+      "opciones": [
+        "Mantenimiento de la concentración normal de calcio en los líquidos del organismo",
+        "Disminución de la absorción de calcio",
+        "Inhibición de la resorción ósea",
+        "Aumento de la excreción renal de calcio"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La paratiroides juega un papel fundamental en el mantenimiento de la concentración normal de calcio en los líquidos del organismo. La glándula paratiroides secreta hormona paratiroidea (PTH), que actúa sobre varios órganos para aumentar los niveles de calcio sérico. La PTH estimula la resorción ósea (liberando calcio del hueso), aumenta la reabsorción renal de calcio en los túbulos renales, e incrementa la activación de vitamina D en los riñones, lo que aumenta la absorción intestinal de calcio. La PTH también disminuye la reabsorción renal de fosfato, promoviendo su excreción. Esta regulación es fundamental para mantener la homeostasis del calcio, que es esencial para la función neuromuscular y la salud ósea."
+    },
+    {
+      "pregunta": "¿CUAL ES EL EPITELIO QUE RECUBRE EL ESTRATO ANTERIOR DE LA CÓRNEA?",
+      "opciones": [
+        "Epitelio cúbico simple",
+        "Epitelio plano simple",
+        "Epitelio plano estratificado no queratinizado",
+        "Epitelio cilíndrico simple"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El epitelio que recubre el estrato anterior (epitelio corneal) de la córnea es epitelio plano estratificado no queratinizado. Este epitelio está compuesto por aproximadamente 5-7 capas de células. Las células superficiales son planas y tienen microvellosidades que facilitan la adhesión de la película lagrimal. Las células intermedias son más cúbicas, y las células basales son cilíndricas y están unidas a la membrana basal por hemidesmosomas. Este epitelio proporciona una barrera protectora contra patógenos y cuerpos extraños. Tiene una alta capacidad regenerativa, con un tiempo de renovación de aproximadamente 7-10 días. El epitelio corneal también es responsable de mantener la transparencia de la córnea."
+    },
+    {
+      "pregunta": "¿CUAL ES EL EPITELIO QUE RECUBRE EL ESTRATO POSTERIOR DE LA CÓRNEA?",
+      "opciones": [
+        "Epitelio cúbico simple",
+        "Epitelio cilíndrico simple",
+        "Epitelio plano simple",
+        "Epitelio plano estratificado"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El epitelio que recubre el estrato posterior (endotelio corneal) de la córnea es epitelio plano simple. Este endotelio está compuesto por una sola capa de células planas y hexagonales que se encuentran en contacto directo con el humor acuoso. Las células endoteliales están unidas entre sí por uniones estrechas que forman una barrera selectivamente permeable. El endotelio corneal es responsable de mantener el equilibrio de fluidos entre el humor acuoso y el estroma corneal, lo que es crucial para mantener la transparencia corneal. Las células endoteliales tienen una alta densidad de mitocondrias, lo que refleja su alto metabolismo y su capacidad de transporte activo. Con la edad, el número de células endoteliales disminuye, lo que puede afectar la función corneal."
     }
   ]
 }

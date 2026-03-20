@@ -210,6 +210,15 @@
       ],
       "correctIndex": 1,
       "explicacion": "La faringe está revestida por epitelio plano estratificado no queratinizado en la mayor parte, pero también tiene epitelio cilíndrico pseudoestratificado con células caliciformes"
+    },
+    {
+      "pregunta": "EL CONTENIDO DE BICARBONATO Y AGUA DEL JUGO PANCREÁTICO SECRETADO POR LA PORCIÓN EXCRETORA DEL PANCREAS, SIENDO REGULADO POR LA SECRETINA",
+      "opciones": [
+        "VERDADEIRO",
+        "FALSO"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Es verdadero. La secretina regula la secreción de bicarbonato y agua por la porción excretora del páncreas"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "id": "parciais",
-  "nombre": "Parciales",
+  "id": "provas-parciales",
+  "nombre": "Provas Parciales",
   "descripcion": "Preguntas de Exámenes Parciales",
   "preguntas": [
     {

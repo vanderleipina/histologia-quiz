@@ -461,6 +461,589 @@
       ],
       "correctIndex": 2,
       "explicacion": "El epitelio que recubre el estrato posterior (endotelio corneal) de la córnea es epitelio plano simple. Este endotelio está compuesto por una sola capa de células planas y hexagonales que se encuentran en contacto directo con el humor acuoso. Las células endoteliales están unidas entre sí por uniones estrechas que forman una barrera selectivamente permeable. El endotelio corneal es responsable de mantener el equilibrio de fluidos entre el humor acuoso y el estroma corneal, lo que es crucial para mantener la transparencia corneal. Las células endoteliales tienen una alta densidad de mitocondrias, lo que refleja su alto metabolismo y su capacidad de transporte activo. Con la edad, el número de células endoteliales disminuye, lo que puede afectar la función corneal."
+    },
+    {
+      "pregunta": "¿DONDE PODEMOS ENCONTRAR CÉLULAS EN CEPILLO?",
+      "opciones": [
+        "Solo en bronquios",
+        "En la tráquea y laringe",
+        "Alvéolos, bronquios, bronquíolos, conducto alveolar",
+        "Solo en alvéolos"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las células en cepillo (brush cells) se pueden encontrar en múltiples estructuras del tracto respiratorio: alvéolos, bronquios, bronquíolos y conductos alveolares. Estas células tienen microvellosidades apicales que se asemejan a un cepillo, de donde deriva su nombre. Las células en cepillo son células sensoriales que contienen gránulos secretores y se cree que tienen función quimiorreceptora. Se encuentran dispersas entre otras células epiteliales y pueden estar involucradas en la detección de cambios en la composición del aire o en la secreción de sustancias bioactivas. Su presencia en múltiples niveles del árbol respiratorio sugiere un papel importante en la homeostasis del tracto respiratorio."
+    },
+    {
+      "pregunta": "¿DE QUE CAPAS ESTAN COMPUESTAS LAS PAREDES DEL BRONQUIO?",
+      "opciones": [
+        "Mucosa, cartilaginosa, adventicia",
+        "Mucosa, muscular, submucosa, cartilaginosa, adventicia",
+        "Mucosa, muscular, adventicia",
+        "Solo mucosa y muscular"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las paredes del bronquio están compuestas por cinco capas principales: mucosa (epitelio cilíndrico pseudoestratificado con células caliciformes), submucosa (tejido conectivo laxo con glándulas mucosas), capa muscular (músculo liso circular), capa cartilaginosa (anillos de cartílago hialino incompletos) y adventicia (tejido conectivo fibroso). Esta estructura es similar a la de la tráquea pero con cartílago en forma de anillos incompletos en lugar de anillos completos. La capa muscular permite la contracción y relajación del bronquio, regulando el flujo de aire. La submucosa contiene glándulas que secretan moco para proteger el epitelio."
+    },
+    {
+      "pregunta": "¿QUE ES INCORRECTO RESPECTO A LA GLÁNDULA HIPOFISARIA?",
+      "opciones": [
+        "La hipófisis está conectada al hipotálamo",
+        "La hipófisis tiene dos lóbulos",
+        "La excreción de leche por contracción de los conductos mamarios se produce por oxitocina, no por prolactina",
+        "La prolactina estimula la producción de leche"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es incorrecto afirmar que la excreción de leche por contracción de los conductos mamarios se produce por prolactina. La prolactina estimula la síntesis de leche en las glándulas mamarias, pero la excreción de leche (reflejo de eyección láctea) es mediada por oxitocina. La oxitocina causa la contracción de las células mioepiteliales alrededor de los acinos mamarios, permitiendo que la leche sea expulsada a través de los conductos. Este es un reflejo neuroendocrino desencadenado por la succión del bebé. La prolactina y la oxitocina trabajan juntas pero tienen funciones distintas en la lactancia."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO SOBRE LAS HORMONAS TIROIDEAS?",
+      "opciones": [
+        "Las hormonas tiroideas disminuyen el metabolismo basal",
+        "Las hormonas tiroideas solo regulan el metabolismo de proteínas",
+        "Las hormonas tiroideas regulan la producción de calor de las células y tejidos",
+        "Las hormonas tiroideas no tienen efecto en la temperatura corporal"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es correcto que las hormonas tiroideas (T3 y T4) regulan la producción de calor de las células y tejidos. Las hormonas tiroideas aumentan la tasa metabólica basal, lo que incrementa la producción de ATP y calor en las mitocondrias. Este efecto termogénico es uno de los principales efectos de las hormonas tiroideas. Las hormonas tiroideas también regulan el metabolismo de carbohidratos, lípidos y proteínas, afectando la velocidad de prácticamente todas las reacciones metabólicas. Un exceso de hormonas tiroideas (hipertiroidismo) causa aumento de la producción de calor, mientras que una deficiencia (hipotiroidismo) causa disminución de la producción de calor."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO SOBRE LA GLÁNDULA SUPRARRENAL?",
+      "opciones": [
+        "Las catecolaminas no tienen efecto en la presión arterial",
+        "Las catecolaminas disminuyen la frecuencia cardíaca",
+        "Las catecolaminas preparan al cuerpo para la respuesta de lucha o huida",
+        "Las catecolaminas solo actúan en el hígado"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es correcto que las catecolaminas (adrenalina y noradrenalina) secretadas por la médula suprarrenal preparan al cuerpo para la respuesta de lucha o huida. Las catecolaminas actúan sobre receptores adrenérgicos en múltiples órganos, causando aumento de la frecuencia cardíaca, aumento de la presión arterial, dilatación de las pupilas, redistribución del flujo sanguíneo hacia los músculos, y movilización de glucosa y lípidos. Estos efectos preparan al cuerpo para enfrentar una situación de estrés o peligro. Las catecolaminas son liberadas rápidamente en respuesta a estímulos simpáticos, permitiendo una respuesta rápida del cuerpo."
+    },
+    {
+      "pregunta": "¿EL LÓBULO POSTERIOR DE LA HIPÓFISIS SINTETIZA Y SECRETA OXITOCINA Y VASOPRESINA?",
+      "opciones": [
+        "Solo secreta",
+        "Solo sintetiza",
+        "Falso",
+        "Verdadero"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es falso que el lóbulo posterior de la hipófisis (neurohipófisis) sintetice oxitocina y vasopresina. Estas hormonas son sintetizadas en el hipotálamo (específicamente en los núcleos paraventricular y supraóptico) y transportadas a lo largo de los axones de las neuronas hasta la neurohipófisis, donde se almacenan en vesículas sinápticas y se secretan. La neurohipófisis solo almacena y secreta estas hormonas, no las sintetiza. Esta es una distinción importante entre la adenohipófisis (que sintetiza sus propias hormonas) y la neurohipófisis (que almacena y secreta hormonas sintetizadas en el hipotálamo)."
+    },
+    {
+      "pregunta": "¿LAS GLÁNDULAS PARATIROIDEAS DESEMPEÑAN UN PAPEL FUNDAMENTAL EN LA HOMEOSTASIS DEL CALCIO Y FOSFATO?",
+      "opciones": [
+        "Solo en el calcio",
+        "Verdadero",
+        "Falso",
+        "Solo en el fosfato"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es verdadero que las glándulas paratiroideas desempeñan un papel fundamental en el mantenimiento de la homeostasis del calcio y fosfato en los líquidos del organismo. Las paratiroideas secretan hormona paratiroidea (PTH), que actúa para aumentar los niveles de calcio sérico y disminuir los niveles de fosfato. La PTH estimula la resorción ósea (liberando calcio), aumenta la reabsorción renal de calcio, disminuye la reabsorción renal de fosfato, e incrementa la activación de vitamina D. Esta regulación es esencial para mantener la concentración normal de calcio (8.5-10.5 mg/dL) y fosfato, que son críticos para la función neuromuscular, la salud ósea y muchas otras funciones fisiológicas."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO SOBRE LA HIPÓFISIS?",
+      "opciones": [
+        "No hay células basófilas en la adenohipófisis",
+        "Las células basófilas representan el 80% de las células",
+        "Las células basófilas representan el 50% de las células",
+        "Las células basófilas representan aproximadamente el 10% de las células de la adenohipófisis"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Es correcto que las células basófilas representan aproximadamente el 10-15% de las células de la adenohipófisis. Las células basófilas incluyen las gonadotrofas (que secretan FSH y LH) y las tireotrofas (que secretan TSH). Las células acidófilas representan aproximadamente el 50% de la población celular, mientras que las células cromófobas representan el 35-40%. Esta distribución puede variar ligeramente dependiendo del estado fisiológico del individuo. Las células basófilas son importantes para la regulación de la reproducción y el metabolismo a través de sus hormonas respectivas."
+    },
+    {
+      "pregunta": "¿COMO ES EL EPITELIO DE LOS BRONQUÍOLOS TERMINALES?",
+      "opciones": [
+        "Epitelio cúbico simple con células de Clara dispersas",
+        "Epitelio cilíndrico pseudoestratificado",
+        "Epitelio plano simple",
+        "Epitelio escamoso estratificado"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Los bronquíolos terminales presentan un epitelio cúbico simple en el cual hay células de Clara (células de Clara o células secretoras) dispersas entre las células cúbicas. Las células de Clara secretan un surfactante proteolipídico que protege el epitelio y tiene propiedades antimicrobianas. El epitelio cúbico simple es más bajo que el epitelio cilíndrico pseudoestratificado de los bronquios, reflejando la transición hacia la región respiratoria. Los bronquíolos terminales son los últimos conductos puramente conductores antes de que comience la región respiratoria con los bronquíolos respiratorios."
+    },
+    {
+      "pregunta": "¿CUAL ES LA FORMA Y ESTRUCTURA DEL CARTÍLAGO TRAQUEAL?",
+      "opciones": [
+        "No tiene cartílago",
+        "Tiene forma de espiral",
+        "Tiene forma de anillo completo",
+        "Tiene forma de C y se separa de la submucosa por el pericondrio"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El cartílago traqueal tiene forma característica de C (herradura) y se separa de la submucosa por el pericondrio, que es una vaina de tejido conectivo fibroso que rodea el cartílago. La forma de C permite que la tráquea sea flexible y que se pueda dilatar durante la deglución. La abertura posterior de la C está ocupada por el músculo traqueal (músculo liso) que se extiende entre los extremos del cartílago. El pericondrio proporciona nutrientes al cartílago (que es avascular) y sirve como punto de inserción para los músculos y ligamentos. Esta estructura única de la tráquea permite que sea tanto resistente como flexible."
+    },
+    {
+      "pregunta": "¿QUE OCURRE CUANDO LAS CÉLULAS FOLICULARES SON ESTIMULADAS POR TSH?",
+      "opciones": [
+        "Disminuyen la producción de hormonas",
+        "Reabsorben coloide y transportan T3 y T4 hacia la circulación",
+        "Sintetizan más tiroglobulina",
+        "Aumentan el tamaño del folículo"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es verdadero que en respuesta a la estimulación de TSH, las células foliculares reabsorben coloide y transportan T3 y T4 hacia la circulación. La TSH (hormona estimulante de la tiroides) se une a receptores en las células foliculares, activando vías de señalización que promueven la endocitosis del coloide. El coloide es degradado por enzimas lisosomales, liberando T3 y T4 de la tiroglobulina. Estas hormonas son entonces transportadas a través de la membrana celular hacia la sangre. La TSH también estimula la síntesis de nueva tiroglobulina y la captación de yodo, manteniendo la producción de hormonas tiroideas."
+    },
+    {
+      "pregunta": "¿QUE ES INCORRECTO RESPECTO A LA GLÁNDULA PARATIROIDES?",
+      "opciones": [
+        "Las células principales secretan PTH",
+        "Las células oxífilas son las más abundantes de las células parenquimatosas",
+        "Las células oxífilas tienen función endocrina",
+        "La paratiroides tiene cuatro glándulas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es incorrecto afirmar que las células oxífilas son las más abundantes de las células parenquimatosas. Las células principales (células claras) son las más abundantes en la paratiroides, representando aproximadamente el 70-80% de las células parenquimatosas. Las células principales secretan hormona paratiroidea (PTH). Las células oxífilas (células acidófilas) son menos abundantes (10-15%) y tienen una función endocrina menos clara, aunque se cree que pueden secretar PTH. Las células oxífilas contienen muchas mitocondrias, lo que les da su aspecto característico al microscopio. La paratiroides normalmente tiene cuatro glándulas, aunque puede haber variaciones anatómicas."
+    },
+    {
+      "pregunta": "¿DONDE SE ENCUENTRA LA MUCOSA MASTICATORIA?",
+      "opciones": [
+        "En el piso de la boca",
+        "En las mejillas",
+        "En las encías y paladar duro",
+        "En la lengua y paladar blando"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La mucosa masticatoria se encuentra en las encías (gingiva) y en el paladar duro. Esta mucosa está especializada para soportar las fuerzas de masticación y tiene características histológicas distintas de otras mucosas orales. La mucosa masticatoria está firmemente adherida al periostio subyacente, lo que le permite resistir las fuerzas de masticación. Tiene un epitelio estratificado queratinizado o paraqueratinizado que proporciona protección mecánica. Las encías rodean los dientes y ayudan a mantenerlos en su lugar, mientras que el paladar duro forma el techo de la cavidad oral."
+    },
+    {
+      "pregunta": "¿COMO ESTAN RODEADAS LAS PAPILAS CIRCUNVALADAS?",
+      "opciones": [
+        "Están rodeadas por vasos sanguíneos",
+        "Están rodeadas por nervios",
+        "Están rodeadas por epitelio plano",
+        "Están rodeadas por un surco profundo donde desemboca el conducto excretor de la glándula de Von Ebner"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Las papilas circunvaladas están rodeadas por un surco profundo (surco circunvalado) en donde desemboca el conducto excretor de la glándula de Von Ebner. Esta glándula secreta saliva serosa que contiene enzimas digestivas y lípasa lingual. Las papilas circunvaladas contienen botones gustativos (calículos gustativos) que permiten la percepción del gusto. El surco profundo ayuda a retener los estímulos gustativos en contacto con los botones gustativos. Las papilas circunvaladas son las más grandes de las papilas linguales y se encuentran en la parte posterior de la lengua, formando una V lingual."
+    },
+    {
+      "pregunta": "¿QUE HACEN LOS CONDUCTOS INTERCALARES DE LAS GLÁNDULAS SALIVARES?",
+      "opciones": [
+        "Secretan bicarbonato y absorben cloruro",
+        "Solo secretan saliva",
+        "Solo absorben agua",
+        "No tienen función secretora"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Los conductos intercalares de las glándulas salivares secretan bicarbonato y absorben cloruro. Esta función es importante para modificar la composición de la saliva. El bicarbonato secretado por los conductos intercalares aumenta el pH de la saliva, lo que es importante para neutralizar los ácidos de la boca y proteger los dientes. La absorción de cloruro ayuda a mantener el equilibrio iónico. Los conductos intercalares son los conductos más pequeños de las glándulas salivares y conectan los acinos con los conductos estriados. Esta modificación de la saliva es un proceso activo que requiere energía."
+    },
+    {
+      "pregunta": "¿A TRAVES DE CUALES ESTRUCTURAS SE DA EL INTERCAMBIO GASEOSO, EXCEPTO?",
+      "opciones": [
+        "Neumocitos tipo II",
+        "Neumocitos tipo I",
+        "Capilares sanguíneos",
+        "Membrana basal"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El intercambio gaseoso NO se produce a través de los neumocitos tipo II. Los neumocitos tipo II son células secretoras que producen surfactante pulmonar, no participan directamente en el intercambio gaseoso. El intercambio gaseoso se produce a través de los neumocitos tipo I (que cubren el 95% de la superficie alveolar), los capilares sanguíneos, y la membrana basal. El oxígeno debe atravesar el epitelio alveolar (neumocitos tipo I), la membrana basal, el endotelio capilar y la sangre para llegar a los eritrocitos. Los neumocitos tipo II tienen un papel importante en mantener la integridad del epitelio alveolar y en la producción de surfactante."
+    },
+    {
+      "pregunta": "¿DONDE SE ENCUENTRA EL CARTÍLAGO FIBROSO?",
+      "opciones": [
+        "En las articulaciones móviles",
+        "En la tráquea",
+        "En la laringe",
+        "En la sínfisis del púbis"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El cartílago fibroso se encuentra en la sínfisis del púbis, que es una articulación cartilaginosa entre los huesos púbicos. El cartílago fibroso (fibrocartílago) es un tipo de cartílago que contiene muchas fibras de colágeno tipo I, lo que le da mayor resistencia a la tensión. La sínfisis del púbis es una articulación semimóvil que permite cierta flexibilidad, especialmente importante durante el parto. El cartílago fibroso también se encuentra en otros lugares como los discos intervertebrales, los meniscos de la rodilla, y los discos articulares de la articulación temporomandibular."
+    },
+    {
+      "pregunta": "¿CUAL ES LA FUNCIÓN DEL PLEXO NERVIOSO DE AUERBACH?",
+      "opciones": [
+        "Regula la secreción de ácido gástrico",
+        "Regula la actividad muscular de la pared muscular externa",
+        "Regula la absorción de nutrientes",
+        "Regula la motilidad del esófago"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El plexo nervioso de Auerbach (plexo mioentérico) es el que regula la actividad muscular de la pared muscular externa (muscular externa) del tracto gastrointestinal. Este plexo está localizado entre las capas de músculo liso circular e longitudinal del intestino. El plexo de Auerbach contiene neuronas simpáticas y parasimpáticas que coordinan la contracción de los músculos lisos, produciendo los movimientos peristálticos que propulsan el contenido intestinal. Hay otro plexo importante llamado plexo de Meissner (plexo submucoso) que se encuentra en la submucosa y regula la secreción y la absorción."
+    },
+    {
+      "pregunta": "¿CUALES CÉLULAS NO ESTABLECEN UNIONES DESMOSÓMICAS CON LOS QUERATINOCITOS?",
+      "opciones": [
+        "Células basales",
+        "Células de Langerhans y melanocitos",
+        "Células de Merkel",
+        "Células escamosas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células de Langerhans y los melanocitos son las células que NO establecen uniones desmosómicas con los queratinocitos. Las células de Langerhans son células presentadoras de antígenos derivadas de la médula ósea, mientras que los melanocitos son células productoras de melanina derivadas de la cresta neural. Ambas células están dispersas entre los queratinocitos pero no forman desmosomas con ellos. Las células de Merkel sí forman uniones desmosómicas con los queratinocitos. La falta de desmosomas en las células de Langerhans y melanocitos permite que estas células sean más móviles y puedan interactuar con múltiples queratinocitos."
+    },
+    {
+      "pregunta": "¿QUE ES INCORRECTO RESPECTO AL ESTÓMAGO?",
+      "opciones": [
+        "Las células de Paneth se ubican en el fondo de las fositas gástricas",
+        "Las células parietales secretan ácido clorhídrico",
+        "Las células mucosas secretan moco",
+        "Las células principales secretan pepsinógeno"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Es incorrecto afirmar que las células de Paneth se ubican en el fondo de las fositas gástricas. Las células de Paneth se encuentran en las criptas de Lieberkuhn del intestino delgado, no en el estómago. En el estómago, las glándulas gástricas contienen células parietales (que secretan ácido clorhídrico y factor intrínseco), células principales (que secretan pepsinógeno), células mucosas (que secretan moco), y células enteroendocrinas. Las células de Paneth en el intestino delgado secretan lisozima y otras sustancias antimicrobianas. Esta es una distinción importante entre la histología del estómago e intestino delgado."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO RESPECTO AL HÍGADO?",
+      "opciones": [
+        "No hay sinusoides en el hígado",
+        "Los hepatocitos irradian hacia la periferia desde un pequeño vaso central y están separados por sinusoides",
+        "Los hepatocitos están organizados en capas simples",
+        "El hígado no tiene vasos sanguíneos"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es correcto que los hepatocitos irradian hacia la periferia desde un pequeño vaso central (vena centrolobulillar) y están separados por sinusoides. Los sinusoides son capilares especializados compuestos por células endoteliales aplanadas y células de Kupffer (macrófagos hepáticos). Esta arquitectura permite el contacto directo entre los hepatocitos y la sangre, facilitando el intercambio de sustancias. El hígado tiene una estructura única donde la sangre proveniente de la vena porta y la arteria hepática fluye a través de los sinusoides hacia la vena centrolobulillar. Esta organización permite que el hígado realice sus múltiples funciones metabólicas."
+    },
+    {
+      "pregunta": "¿CUAL CÉLULA GÁSTRICA SECRETA ÁCIDO CLORHÍDRICO Y DONDE SE UBICA?",
+      "opciones": [
+        "Célula parietal, en el cuerpo y fondo del estómago",
+        "Célula mucosa, en el píloro",
+        "Célula enteroendocrina, en toda la mucosa",
+        "Célula principal, en el cardias"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La célula parietal (también llamada célula oxíntica) es la que secreta ácido clorhídrico (HCl) y se ubica principalmente en el cuerpo y fondo del estómago. Las células parietales también secretan factor intrínseco, que es necesario para la absorción de vitamina B12 en el intestino delgado. Las células parietales contienen muchas mitocondrias y vesículas secretoras que reflejan su alto metabolismo. La secreción de HCl es regulada por gastrina, histamina y acetilcolina. El HCl es importante para la activación del pepsinógeno a pepsina y para la desinfección del contenido gástrico."
+    },
+    {
+      "pregunta": "¿CUALES SON LOS COMPONENTES DE LA TRÍADA PORTAL?",
+      "opciones": [
+        "Solo hepatocitos",
+        "Solo vena central",
+        "Solo sinusoides",
+        "Conductillo biliar intralobulillar, arteriola hepática y vénula porta"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Los componentes de la tríada portal son: conductillo biliar intralobulillar, arteriola hepática y vénula porta. La tríada portal se encuentra en los ángulos de los lobulillos hepáticos. El conductillo biliar recibe bilis de los hepatocitos, la arteriola hepática aporta sangre arterial, y la vénula porta aporta sangre venosa proveniente del tracto gastrointestinal. Estos tres componentes están rodeados por tejido conectivo. La sangre de la arteriola y vénula porta se mezcla en los sinusoides y fluye hacia la vena centrolobulillar. La tríada portal es importante para la identificación histológica de los lobulillos hepáticos."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO SOBRE LAS GLÁNDULAS DE BRUNNER?",
+      "opciones": [
+        "Se encuentran en el estómago",
+        "Secretan enzimas digestivas",
+        "Son glándulas con adenómeros de secreción mucosa rica en bicarbonato",
+        "Son glándulas serosas"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es correcto que las glándulas de Brunner (glándulas duodenales) son glándulas con adenómeros de secreción mucosa rica en bicarbonato. Estas glándulas se encuentran en la submucosa del duodeno, especialmente en la primera y segunda porción. El moco secretado por las glándulas de Brunner es alcalino y contiene bicarbonato, lo que ayuda a neutralizar el ácido gástrico que entra del estómago. El bicarbonato también proporciona un ambiente óptimo para la acción de las enzimas pancreáticas. Las glándulas de Brunner disminuyen en número en las porciones distales del duodeno y están ausentes en el yeyuno e íleon."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO RESPECTO A LAS GLÁNDULAS GÁSTRICAS?",
+      "opciones": [
+        "Las células parietales secretan HCl y factor intrínseco gástrico",
+        "Las células mucosas secretan pepsinógeno",
+        "Las células principales secretan ácido",
+        "No hay células especializadas en el estómago"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Es correcto que las células parietales secretan HCl (ácido clorhídrico) y factor intrínseco gástrico. El HCl es importante para la digestión de proteínas y para la desinfección del contenido gástrico. El factor intrínseco es una glicoproteína que se une a la vitamina B12 (cobalamina), permitiendo su absorción en el intestino delgado. Las células parietales también secretan gastrina (en respuesta a estímulos), que estimula la secreción de ácido. La deficiencia de factor intrínseco puede llevar a anemia perniciosa. Las células parietales son particularmente abundantes en las glándulas del fondo del estómago."
+    },
+    {
+      "pregunta": "¿COMO SE CARACTERIZA UNA GLÁNDULA CARDIAL AL MICROSCOPIO ÓPTICO?",
+      "opciones": [
+        "Presentan muchas células parietales",
+        "Presentan fositas poco profundas, glándulas poco ramificadas y células mucosas del cuello",
+        "Presentan células principales abundantes",
+        "Presentan fositas profundas"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Una glándula cardial se caracteriza por presentar fositas poco profundas, glándulas poco ramificadas y células mucosas del cuello. Las glándulas cardiales se encuentran en la región cardial del estómago (cerca de la unión gastroesofágica). Estas glándulas son menos complejas que las glándulas del fondo y secretan principalmente moco. Las células mucosas del cuello secretan moco alcalino que protege la mucosa gástrica. Las glándulas cardiales tienen una estructura más simple comparada con las glándulas del fondo, que tienen fositas más profundas y glándulas más ramificadas con múltiples tipos celulares."
+    },
+    {
+      "pregunta": "¿QUE SON LAS CRIPTAS DE LIEBERKUHN?",
+      "opciones": [
+        "Son glándulas serosas",
+        "Son glándulas mucosas",
+        "Son glándulas tubulares simples que se encuentran tanto en intestino grueso como delgado",
+        "Son solo en el intestino grueso"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Las criptas de Lieberkuhn (también llamadas glándulas intestinales) son glándulas tubulares simples que se encuentran tanto en el intestino delgado como en el intestino grueso. En el intestino delgado, las criptas de Lieberkuhn contienen células caliciformes (que secretan moco), células enteroendocrinas, células de Paneth (que secretan lisozima y otras sustancias), y células madre. En el intestino grueso, las criptas son más profundas y contienen principalmente células caliciformes. Las criptas de Lieberkuhn son importantes para la regeneración del epitelio intestinal, que se renueva aproximadamente cada 3-5 días."
+    },
+    {
+      "pregunta": "¿DE QUE ORIGEN TIENE LA CÉLULA CENTROACINA?",
+      "opciones": [
+        "Origen a conducto intercalar",
+        "Origen a célula endotelial",
+        "Origen a célula mioepitelial",
+        "Origen a célula acinosa"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La célula centroacina da origen al conducto intercalar. Las células centroacinares son células que se encuentran en el centro de los acinos pancreáticos, rodeadas por células acinosas. Estas células son en realidad las primeras células del sistema de conductos pancreáticos. Las células centroacinares secretan bicarbonato y agua, modificando la composición del jugo pancreático. El conducto intercalar que surge de las células centroacinares se une con otros conductos intercalares para formar conductos estriados, que finalmente se unen para formar conductos más grandes que desembocan en el conducto pancreático principal."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO SOBRE LA VESÍCULA BILIAR?",
+      "opciones": [
+        "La vesícula biliar tiene cartílago",
+        "La vesícula biliar no tiene capas musculares",
+        "Los senos de Rokitansky-Aschoff son vasos sanguíneos",
+        "Los senos de Rokitansky-Aschoff pueden extenderse a través de la muscular externa"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Es correcto que los senos de Rokitansky-Aschoff pueden extenderse a través de la muscular externa de la vesícula biliar. Los senos de Rokitansky-Aschoff son invaginaciones de la mucosa de la vesícula biliar que penetran en la muscular y a veces en la serosa. Estas estructuras pueden albergar bacterias y contribuir a la formación de cálculos biliares. La vesícula biliar tiene tres capas principales: mucosa (epitelio simple cilíndrico), muscular (músculo liso), y serosa (peritoneo visceral). Los senos de Rokitansky-Aschoff son más comunes en vesículas biliares con cálculos o en colecistitis crónica."
+    },
+    {
+      "pregunta": "¿CON QUE SE CONTINUA EL FOLÍCULO PILOSO?",
+      "opciones": [
+        "Con la dermis",
+        "Con la hipodermis",
+        "Con la epidermis",
+        "Con la vaina radicular externa del folículo piloso"
+      ],
+      "correctIndex": 3,
+      "explicacion": "El folículo piloso es una invaginación de la epidermis que se continúa con la vaina radicular externa del folículo piloso. La vaina radicular externa es una continuación de la capa basal y capas suprabasales de la epidermis que rodea el folículo. La vaina radicular interna es una estructura derivada de la matriz del folículo. El folículo piloso tiene una estructura compleja que incluye el pelo, las vainas radiculares, la glándula sebácea, y la glándula sudorípara apocrina. La profundidad del folículo piloso varía, siendo más profundo en el cuero cabelludo que en otras partes del cuerpo."
+    },
+    {
+      "pregunta": "¿CUALES GLÁNDULAS DRENAN SU CONDUCTO EXCRETOR EN EL INTERIOR DEL FOLÍCULO PILOSO?",
+      "opciones": [
+        "Solo glándula sudorípara",
+        "Solo glándula sebácea",
+        "Glándula sudorípara ecrina",
+        "Glándula sebácea y glándula sudorípara apocrina"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Las glándulas cuyo conducto excretor drenan en el interior del folículo piloso son la glándula sebácea y la glándula sudorípara apocrina. La glándula sebácea secreta sebo que lubrica el pelo y la piel. La glándula sudorípara apocrina secreta un sudor más espeso que contiene lípidos y proteínas. Ambas glándulas están asociadas con el folículo piloso. Las glándulas sudoríparas ecrinas, por el contrario, tienen conductos que desembocan directamente en la superficie de la piel. Esta asociación de glándulas con el folículo piloso forma la unidad pilosebácea, que es importante para la función de la piel."
+    },
+    {
+      "pregunta": "¿CUAL ES EL LOBULILLO HEPÁTICO QUE HACE REFERENCIA A LA FUNCIÓN EXÓCRINA DEL HÍGADO?",
+      "opciones": [
+        "Espacio de Disse",
+        "Lobulillo clásico",
+        "Lobulillo portal",
+        "Acino hepático"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El lobulillo portal es el lobulillo hepático que hace referencia a la función exócrina del hígado. El lobulillo portal está centrado en la tríada portal (conductillo biliar, arteriola hepática y vénula porta) y representa la unidad funcional de secreción biliar. El lobulillo clásico, por el contrario, está centrado en la vena centrolobulillar y representa la unidad funcional de metabolismo y detoxificación. El acino hepático es la unidad funcional más pequeña que considera el flujo de sangre. La función exócrina del hígado se refiere a la secreción de bilis, que es recolectada por los conductillos biliares de la tríada portal."
+    },
+    {
+      "pregunta": "¿DONDE COMIENZAN A APARECER LOS COLANGIOCITOS?",
+      "opciones": [
+        "En el conducto de Hering",
+        "En la vena centrolobulillar",
+        "En los sinusoides",
+        "En el conducto intercalar"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Los colangiocitos comienzan a aparecer en el conducto de Hering. El conducto de Hering es una estructura de transición entre los canalículos biliares (formados por hepatocitos) y los conductillos biliares (formados por células epiteliales especializadas). Los colangiocitos son células epiteliales especializadas que forman los conductos biliares y secretan un fluido rico en bicarbonato que modifica la composición de la bilis. El conducto de Hering representa el punto donde la bilis secretada por los hepatocitos comienza a ser modificada por los colangiocitos. Los conductos de Hering son cortos y pueden no ser visibles en todas las secciones histológicas."
+    },
+    {
+      "pregunta": "¿DONDE SE UBICAN LAS CÉLULAS SECRETORAS DE INSULINA?",
+      "opciones": [
+        "En la glándula tiroides",
+        "En los islotes de Langerhans y se denominan células Beta",
+        "En la corteza suprarrenal",
+        "En el hígado"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Las células secretoras de insulina se ubican en los islotes de Langerhans del páncreas y se denominan células Beta. Las células Beta representan aproximadamente el 70% de la población celular de los islotes de Langerhans. Estas células secretan insulina en respuesta a niveles elevados de glucosa en la sangre. La insulina es una hormona peptídica que promueve la captación de glucosa por las células y el almacenamiento de glucosa como glucógeno. Los islotes de Langerhans también contienen células Alfa (que secretan glucagón), células Delta (que secretan somatostatina), y células PP (que secretan polipéptido pancreático)."
+    },
+    {
+      "pregunta": "¿DONDE SE LOCALIZAN RESPECTIVAMENTE EL CORPÚSCULO DE PACCINI Y DE MEISSNER?",
+      "opciones": [
+        "Ambos en la dermis",
+        "Corpúsculo de Paccini en hipodermis, corpúsculo de Meissner en papila dérmica",
+        "Ambos en la hipodermis",
+        "Ambos en la epidermis"
+      ],
+      "correctIndex": 1,
+      "explicacion": "El corpúsculo de Paccini se localiza en la hipodermis, mientras que el corpúsculo de Meissner se localiza en la papila dérmica. El corpúsculo de Paccini es un receptor de presión profunda que detecta vibraciones y presión sostenida. El corpúsculo de Meissner es un receptor de tacto fino que detecta cambios rápidos en la presión y texturas. Ambos son mecanorreceptores especializados que contribuyen a la sensibilidad táctil de la piel. El corpúsculo de Paccini tiene una estructura en forma de cebolla con múltiples capas de células conectivas, mientras que el corpúsculo de Meissner tiene una estructura más simple."
+    },
+    {
+      "pregunta": "¿QUE ES INCORRECTO EN RELACIÓN AL RIÑÓN?",
+      "opciones": [
+        "La médula recibe entre el 90 a 95% de la sangre",
+        "La corteza renal recibe aproximadamente 5 a 10% de la sangre que entra al riñón",
+        "La médula contiene los tubos colectores",
+        "La corteza contiene los glomérulos"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es incorrecto afirmar que la corteza renal recibe aproximadamente 5 a 10% de la sangre que entra al riñón. De hecho, la corteza renal recibe aproximadamente el 90-95% de la sangre que entra al riñón, mientras que la médula recibe solo el 5-10%. Esta distribución es importante porque los glomérulos (donde ocurre la filtración) están localizados en la corteza. La mayor parte del flujo sanguíneo en la corteza permite una filtración eficiente. La médula recibe menos sangre porque su función principal es la reabsorción de agua y solutos, no la filtración."
+    },
+    {
+      "pregunta": "¿QUE ES INCORRECTO EN RELACIÓN A LAS CÉLULAS DE SERTOLI?",
+      "opciones": [
+        "Producen proteína ligadora de andrógenos",
+        "Participan en la barrera hematotesticular",
+        "Son células cilíndricas que se encuentran en el intersticio del túbulo seminífero y secretan testosterona",
+        "Tienen función de soporte"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es incorrecto afirmar que las células de Sertoli son células cilíndricas que se encuentran en el intersticio del túbulo seminífero. Las células de Sertoli se encuentran DENTRO del túbulo seminífero, no en el intersticio. Las células de Sertoli tienen forma de pirámide invertida y se extienden desde la membrana basal hasta la luz del túbulo. Las células de Sertoli tienen función de soporte para las células germinales, producen proteína ligadora de andrógenos, y participan en la barrera hematotesticular. Las células que se encuentran en el intersticio son las células de Leydig, que secretan testosterona."
+    },
+    {
+      "pregunta": "¿DE QUE ESTA COMPUESTO EL APARATO DE FILTRACIÓN GLOMERULAR?",
+      "opciones": [
+        "Endotelio glomerular, membrana basal glomerular y capa visceral de la cápsula de Bowman",
+        "Solo membrana basal",
+        "Solo cápsula de Bowman",
+        "Solo endotelio"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El aparato de filtración glomerular está compuesto por tres capas: el endotelio glomerular (con fenestras), la membrana basal glomerular (que es la barrera de filtración más importante), y la capa visceral de la cápsula de Bowman (formada por podocitos). Estas tres capas forman la barrera de filtración que permite el paso de agua y solutos pequeños mientras retiene proteínas grandes y células sanguíneas. El endotelio glomerular tiene fenestras que permiten el paso de moléculas pequeñas. La membrana basal es una estructura acelular que proporciona la mayor resistencia a la filtración. Los podocitos tienen pies que forman las ranuras de filtración."
+    },
+    {
+      "pregunta": "¿DE QUE CAPAS ESTA COMPUESTA LA PARED DE LA TROMPA UTERINA?",
+      "opciones": [
+        "Muscular y serosa",
+        "Mucosa, muscular, adventicia o serosa",
+        "Mucosa y muscular",
+        "Solo mucosa"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La pared de la trompa uterina (trompa de Falopio) está compuesta por tres capas: mucosa (epitelio cilíndrico simple con células ciliadas y células secretoras), muscular (capas de músculo liso), y adventicia o serosa (peritoneo visceral). La mucosa tiene pliegues longitudinales que aumentan la superficie. Las células ciliadas ayudan a transportar el óvulo hacia el útero. La capa muscular permite la contracción de la trompa para facilitar el movimiento del óvulo. La trompa uterina es el sitio donde típicamente ocurre la fertilización."
+    },
+    {
+      "pregunta": "¿EN QUE SECUENCIA ESTAN FORMADOS LOS TÚBULOS Y CONDUCTOS INTRA Y EXTRATESTICULARES?",
+      "opciones": [
+        "Solo túbulos seminíferos",
+        "Túbulos seminíferos – túbulos rectos – rete testis – conductillos eferentes – conducto del epidídimo – conducto deferente",
+        "Rete testis – conducto del epidídimo",
+        "Túbulos seminíferos – conducto deferente"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Los túbulos y conductos intra y extratesticulares están formados en la siguiente secuencia: túbulos seminíferos (donde se produce la espermatogénesis) → túbulos rectos (transición) → rete testis (red de túbulos) → conductillos eferentes (transportan esperma) → conducto del epidídimo (almacenamiento y maduración del esperma) → conducto deferente (transporte durante la eyaculación). Esta secuencia es importante para el transporte y maduración del esperma. Los túbulos seminíferos son los sitios de producción de esperma, mientras que los conductos posteriores son principalmente para el transporte y almacenamiento."
+    },
+    {
+      "pregunta": "¿DE QUE ESTA FORMADA LA BARRERA HEMATOTESTICULAR?",
+      "opciones": [
+        "De células endoteliales",
+        "De células de Leydig",
+        "De células mioepiteliales",
+        "De uniones oclusivas entre las células Sertoli"
+      ],
+      "correctIndex": 3,
+      "explicacion": "La barrera hematotesticular está formada por uniones oclusivas (tight junctions) entre las células de Sertoli adyacentes. Estas uniones crean una barrera que separa el compartimiento basal (donde están las células germinales tempranas) del compartimiento adluminal (donde están las células germinales tardías). La barrera hematotesticular es importante para proteger las células germinales del sistema inmunológico y para mantener un ambiente especial para la espermatogénesis. La barrera también regula el paso de sustancias entre la sangre y el líquido seminífero. Las uniones entre células de Sertoli son dinámicas y se reabren para permitir el paso de células germinales en desarrollo."
+    },
+    {
+      "pregunta": "¿QUE ES CORRECTO RESPECTO AL APARATO REPRODUCTOR FEMENINO Y SUS HORMONAS?",
+      "opciones": [
+        "El endometrio no cambia durante el ciclo menstrual",
+        "La progesterona disminuye el grosor del endometrio",
+        "La fase proliferativa es regulada por la progesterona",
+        "La fase secretora del endometrio es regulada por la progesterona"
+      ],
+      "correctIndex": 3,
+      "explicacion": "Es correcto que la fase secretora del endometrio es regulada por la progesterona. La progesterona es secretada por el cuerpo lúteo después de la ovulación y prepara el endometrio para la implantación del embrión. Durante la fase secretora, el endometrio se vuelve más grueso, vascularizado y secretor. La progesterona estimula la secreción de glucógeno y otras sustancias por las glándulas endometriales. Si no ocurre la implantación, los niveles de progesterona disminuyen, lo que lleva a la menstruación. La fase proliferativa, por el contrario, es regulada por el estrógeno secretado por los folículos ováricos."
+    },
+    {
+      "pregunta": "¿COMO ESTA FORMADO EL EPITELIO DEL CONDUCTO DEFERENTE?",
+      "opciones": [
+        "Epitelio cilíndrico pseudoestratificado con estereocilios",
+        "Epitelio plano simple",
+        "Epitelio cúbico simple",
+        "Epitelio cilíndrico simple"
+      ],
+      "correctIndex": 0,
+      "explicacion": "El epitelio del conducto deferente está formado por epitelio cilíndrico pseudoestratificado con estereocilios. Los estereocilios son microvellosidades largas que aumentan la superficie de absorción. El conducto deferente tiene una pared muscular gruesa que permite la contracción durante la eyaculación. El epitelio del conducto deferente es similar al del epidídimo, pero el conducto deferente tiene una pared muscular más desarrollada. Los estereocilios del conducto deferente pueden absorber sustancias y contribuir al ambiente del conducto."
+    },
+    {
+      "pregunta": "¿DONDE SE DA LA MAYOR ABSORCIÓN DE GLUCOSA?",
+      "opciones": [
+        "En el túbulo colector",
+        "En el túbulo contorneado proximal",
+        "En el túbulo contorneado distal",
+        "En el asa de Henle"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La mayor absorción de glucosa se da en el túbulo contorneado proximal. El túbulo contorneado proximal es el sitio principal de reabsorción de glucosa, aminoácidos, iones, y otras sustancias útiles que fueron filtradas en el glomérulo. La reabsorción de glucosa ocurre por transporte activo secundario, acoplado al transporte de sodio. El túbulo contorneado proximal tiene células epiteliales cuboides con muchas mitocondrias que reflejan su alto metabolismo. La glucosa es completamente reabsorbida en condiciones normales, por lo que no aparece en la orina."
+    },
+    {
+      "pregunta": "¿DONDE SE DA LA MADURACIÓN DEL ESPERMATOZOIDE?",
+      "opciones": [
+        "En la rete testis",
+        "En el conducto del epidídimo",
+        "En los conductillos eferentes",
+        "En los túbulos seminíferos"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La maduración del espermatozoide (adquisición de capacidad de movilidad y fecundación) se da en el conducto del epidídimo. El epidídimo es un órgano enrollado donde el esperma pasa aproximadamente 12-20 días mientras se reabsorben fluidos y se completa la maduración. Durante este tiempo, el esperma adquiere motilidad y capacidad de fecundar. El epidídimo también almacena esperma. El conducto del epidídimo tiene un epitelio cilíndrico pseudoestratificado con estereocilios. Los túbulos seminíferos son donde se produce la espermatogénesis, pero los espermatozoides inmadutos no tienen motilidad."
+    },
+    {
+      "pregunta": "¿COMO ESTA FORMADO EL FOLÍCULO PRIMORDIAL?",
+      "opciones": [
+        "El folículo primordial tiene múltiples capas",
+        "Falso - El folículo primordial está formado por el ovocito primario rodeado por una única capa de células foliculares cuboides",
+        "El folículo primordial no tiene células foliculares",
+        "Verdadero"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es falso que el folículo primordial esté formado por el ovocito primario rodeado por una única capa de células foliculares cuboides. De hecho, el folículo primordial SÍ está formado por el ovocito primario rodeado por una única capa de células foliculares cuboides. Esta es la descripción correcta del folículo primordial. El folículo primordial es el folículo ovárico más inmaduro. Cuando las células foliculares cambian de forma cúbica a columnar y se vuelven más activas, el folículo se convierte en un folículo primario. Los folículos primordiales representan la mayoría de los folículos en el ovario."
+    },
+    {
+      "pregunta": "¿CUALES SON LOS PRINCIPALES COMPONENTES DEL SEMEN?",
+      "opciones": [
+        "El epidídimo aporta la mayoría",
+        "Los testículos aportan la mayoría",
+        "Verdadero - Las vesículas seminales aportan aproximadamente 65-75% y la próstata 25-30%",
+        "Falso"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es verdadero que los principales componentes del semen son las secreciones de las vesículas seminales (aproximadamente 65-75%) y de la próstata (aproximadamente 25-30%). Las vesículas seminales secretan fructosa, proteínas, prostaglandinas y otras sustancias que nutren y protegen el esperma. La próstata secreta un fluido ácido que contiene enzimas proteolíticas, ácido cítrico, y otras sustancias. El esperma de los testículos y epidídimo representa solo aproximadamente el 5% del volumen total del semen. El semen tiene un pH ligeramente alcalino que neutraliza la acidez de la vagina."
+    },
+    {
+      "pregunta": "¿QUE OCURRE CON EL CUERPO LÚTEO SI NO HAY EMBARAZO?",
+      "opciones": [
+        "Se desintegra inmediatamente",
+        "Permanece activo indefinidamente",
+        "Permanece activo por 10 días, secreta progesterona, luego se transforma en cuerpo albicans",
+        "Se transforma en folículo"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Si no hay embarazo, el cuerpo lúteo permanece activo por aproximadamente 10-12 días, secreta progesterona durante este tiempo, y luego se transforma en cuerpo albicans (tejido cicatricial). La disminución de progesterona después de la regresión del cuerpo lúteo desencadena la menstruación. El cuerpo albicans es una estructura de tejido conectivo fibroso que permanece en el ovario como cicatriz. Si ocurre el embarazo, el cuerpo lúteo es mantenido por la hormona coriónica gonadotropina (hCG) secretada por el trofoblasto, permitiendo que continúe secretando progesterona para mantener el embarazo."
+    },
+    {
+      "pregunta": "¿DONDE OCURRE MAS COMÚNMENTE LA FECUNDACIÓN?",
+      "opciones": [
+        "En la ampolla de la trompa uterina",
+        "En el útero",
+        "En el ovario",
+        "En el cuello uterino"
+      ],
+      "correctIndex": 0,
+      "explicacion": "La fecundación ocurre más comúnmente en la ampolla de la trompa uterina. La ampolla es la porción más dilatada de la trompa uterina y es donde típicamente ocurre la fertilización después de que el óvulo es liberado del ovario. El esperma viaja a través del útero y entra en la trompa uterina, donde se encuentra con el óvulo. Después de la fecundación, el cigoto comienza a dividirse mientras es transportado por las células ciliadas de la trompa hacia el útero, donde se implanta aproximadamente 6-10 días después de la fecundación."
+    },
+    {
+      "pregunta": "¿QUE ES INCORRECTO EN RELACIÓN A LAS CÉLULAS DE LEYDIG?",
+      "opciones": [
+        "Se encuentran en el intersticio testicular",
+        "Tienen función endocrina",
+        "Poseen receptores para FSH",
+        "Secretan testosterona"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Es incorrecto afirmar que las células de Leydig poseen receptores para FSH. Las células de Leydig poseen receptores para LH (hormona luteinizante), no para FSH. La LH estimula las células de Leydig a secretar testosterona. Las células de Sertoli, por el contrario, poseen receptores para FSH. Las células de Leydig se encuentran en el intersticio testicular y tienen función endocrina. La testosterona secretada por las células de Leydig es importante para el desarrollo sexual masculino y la espermatogénesis."
+    },
+    {
+      "pregunta": "¿EL ENDOMETRIO ESTA SEPARADO DEL MIOMETRIO POR UNA GRUESA SUBMUCOSA?",
+      "opciones": [
+        "Solo en algunas mujeres",
+        "Falso",
+        "Verdadero",
+        "Solo durante la menstruación"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Es falso que el endometrio esté separado del miometrio por una gruesa submucosa. El endometrio está directamente adherido al miometrio sin una submucosa clara entre ellos. El endometrio consiste en epitelio cilíndrico simple y glándulas, mientras que el miometrio es la capa muscular del útero. No hay una submucosa bien definida entre estas dos capas. El endometrio se regenera cada mes durante el ciclo menstrual, mientras que el miometrio permanece relativamente constante. La falta de una barrera submucosa clara permite la interacción directa entre el endometrio y el miometrio durante la menstruación."
+    },
+    {
+      "pregunta": "¿QUIEN SECRETA LA ZONA O MEMBRANA PELÚCIDA DEL FOLÍCULO OVÁRICO?",
+      "opciones": [
+        "Las células de la teca",
+        "El ovocito",
+        "El cuerpo lúteo",
+        "Las células foliculares"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La zona pelúcida (también llamada membrana pelúcida) del folículo ovárico es secretada por el ovocito. La zona pelúcida es una estructura acelular compuesta principalmente por glucoproteínas (ZP1, ZP2, ZP3, ZP4). La ZP3 es importante para el reconocimiento del esperma y la unión al óvulo. La zona pelúcida rodea el ovocito y persiste alrededor del embrión después de la fecundación, siendo importante para prevenir la polispermia. La zona pelúcida también es importante durante la implantación, protegiéndose el embrión de la respuesta inmunológica del útero. Las células foliculares no secretan la zona pelúcida, aunque interactúan con ella."
+    },
+    {
+      "pregunta": "¿UNA NEFRONA MAS SU TÚBULO CONECTOR QUE LE COMUNICA CON EL CONDUCTO COLECTOR FORMAN EL TÚBULO URINÍFERO?",
+      "opciones": [
+        "Verdadero",
+        "Depende del riñón",
+        "Solo en algunos casos",
+        "Falso"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Es verdadero que una nefrona más su túbulo conector que la comunica con el conducto colector forman el túbulo urinífero. El túbulo urinífero es la unidad funcional completa del riñón que incluye: corpúsculo renal (glomérulo y cápsula de Bowman), túbulo contorneado proximal, asa de Henle, túbulo contorneado distal, túbulo conector, y conducto colector. El túbulo conector (también llamado túbulo de conexión) es la porción corta que conecta el túbulo contorneado distal con el conducto colector. El conducto colector no es técnicamente parte de la nefrona, pero el túbulo conector es el puente entre ellos."
     }
   ]
 }

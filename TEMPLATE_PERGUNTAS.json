@@ -1,0 +1,41 @@
+{
+  "id": "tema-id",
+  "nombre": "Nome do Tema",
+  "descripcion": "Descrição do tema",
+  "preguntas": [
+    {
+      "pregunta": "Qual é a pergunta?",
+      "opciones": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D",
+        "Opção E"
+      ],
+      "correctIndex": 0,
+      "explicacion": "Explicação da resposta correta"
+    },
+    {
+      "pregunta": "Outra pergunta?",
+      "opciones": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "correctIndex": 2,
+      "explicacion": "Explicação desta pergunta"
+    },
+    {
+      "pregunta": "Mais uma pergunta com imagem",
+      "imagen": "https://example.com/image.jpg",
+      "opciones": [
+        "Opção A",
+        "Opção B",
+        "Opção C"
+      ],
+      "correctIndex": 1,
+      "explicacion": "Explicação com imagem"
+    }
+  ]
+}

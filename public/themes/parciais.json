@@ -6,9 +6,9 @@
     {
       "pregunta": "COM RESPECTO A LAS CAPAS DE LA PIEL;",
       "opciones": [
-        "A y B son correctas;",
-        "En el estrato espinoso son más visibles los desmosomas;",
         "En el estrato granuloso se encuentran los gránulos de birbeck;",
+        "En el estrato espinoso son más visibles los desmosomas;",
+        "A y B son correctas;",
         "En el estrato basal se encuentran las células de merkel;",
         "A y C son correctas."
       ],
@@ -18,13 +18,13 @@
     {
       "pregunta": "CUAL DE LOS SIGUIENTES ESTRATOS DE LA PIEL VEMOS SOLO EN PIEL GRUESA?",
       "opciones": [
-        "Estrato espinoso;",
-        "Estrato lucido;",
         "Estrato granuloso;",
+        "Estrato lucido;",
+        "Estrato basal;",
         "Estrato corneo.",
-        "Estrato basal;"
+        "Estrato espinoso;"
       ],
-      "correctIndex": 4,
+      "correctIndex": 2,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
@@ -32,9 +32,9 @@
       "opciones": [
         "Glándulas sudoríparas;",
         "Pelos;",
+        "Uñas;",
         "Glándulas sebáceas.",
-        "Hipodermis;",
-        "Uñas;"
+        "Hipodermis;"
       ],
       "correctIndex": 0,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
@@ -42,32 +42,32 @@
     {
       "pregunta": "EL ESTRATO BASAL TAMBIEN ES LLAMADO ESTRATO GERMINATIVO, DEBIDO A QUE EN ESTA CAPA ENCONTRAMOS KERATINOCITOS EN DIVISION CELULAR:",
       "opciones": [
-        "Falso.",
-        "Verdadero;"
+        "Verdadero;",
+        "Falso."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "CUAL DE LAS SIGUIENTES NO CORRESPONDE A LAS FUNCIONES DE LA PIEL?",
       "opciones": [
+        "Protección contra la perdida de agua insensible;",
+        "Producción de vitamina D;",
         "Recepción sensorial;",
         "Termorregulación;",
-        "Todas son correctas.",
-        "Protección contra la perdida de agua insensible;",
-        "Producción de vitamina D;"
+        "Todas son correctas."
       ],
-      "correctIndex": 4,
+      "correctIndex": 1,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "LAS GLANDULAS SUDORIPARAS DE TIPO APÓCRINA PODEMOS ENCONTRAR EN EXCEPTO?",
       "opciones": [
         "Areola;",
-        "Región perianal.",
+        "Axila;",
         "Región posterior del cuello;",
         "Vulva;",
-        "Axila;"
+        "Región perianal."
       ],
       "correctIndex": 0,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
@@ -75,77 +75,77 @@
     {
       "pregunta": "COM RESPECTO A LA DERMIS ES CORRECTO:",
       "opciones": [
-        "El estrato reticular se compone de tejido conectivo denso irregular y colágeno",
-        "El estrato papilar se compone de tejido conectivo laxo y colágeno tipo III;"
+        "El estrato papilar se compone de tejido conectivo laxo y colágeno tipo III;",
+        "El estrato reticular se compone de tejido conectivo denso irregular y colágeno"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "Con respecto a la dermis, es correcto:",
       "opciones": [
-        "a y c son correctas",
         "El estrato papilar se compone de tejido conectivo laxo, y colágeno tipo III",
-        "a y b son correctas.",
         "El estrato reticular se compone de tejido conectivo denso irregular y colágeno tipo I",
+        "a y b son correctas.",
+        "a y c son correctas",
         "El estrato reticular se compone de tejido conectivo denso regular y colágeno tipo I"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "Con respecto al pelo:",
       "opciones": [
         "a y c son correctas",
-        "El folículo en crecimiento es anágeno.",
         "El folículo en periodo de transición es telógeno.",
         "a y b son correctas,",
-        "El folículo en periodo de reposo es catagéno."
+        "El folículo en periodo de reposo es catagéno.",
+        "El folículo en crecimiento es anágeno."
       ],
-      "correctIndex": 1,
+      "correctIndex": 4,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "LA EPIGLOTES ESTA COMPUESTA POR, EXCEPTO?",
       "opciones": [
-        "CARTILAGO HIALINO",
         "EPITELIO ESCAMOSO",
-        "GLANDULAS MUCOSEROSAS",
-        "EPITÉLIO RESPIRATORIO"
+        "EPITÉLIO RESPIRATORIO",
+        "CARTILAGO HIALINO",
+        "GLANDULAS MUCOSEROSAS"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "CUAL DE LAS SEGUIENTES NO ES UNA FUNCION DEL HIGADO ?",
       "opciones": [
         "ALMACENAMIENTO DE VITAMINAS SOLUBLES EN GRASA",
+        "ARMACENAMIENTO DE BILIS",
         "SÍNTESIS DE COLESTEROL",
-        "CONVERSION DE GLUCOSA EM GLUCOGENO",
-        "ARMACENAMIENTO DE BILIS"
+        "CONVERSION DE GLUCOSA EM GLUCOGENO"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "EL TABIQUE ALVEOLAR QUE DEBE ATRAVESAR EL OXIGENO HASTA EL ERITOCITO ES :",
       "opciones": [
-        "SURFACTANTE,NEUMOCITO TIPO II,LAMINA BASAL,ENDOTELIO.",
         "SURFACTANTE,NEUMOCITO TIPO I,LAMINA BASAL,TEJIDO CONECTIVO.LAMINA BASAL Y",
+        "SURFACTANTE,NEUMOCITO TIPO II,LAMINA BASAL,ENDOTELIO.",
         "SURFACTANTE.NEUMOCITO TIPO I.LAMINA BASAL.ENDOTELIO"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
       "pregunta": "CUAL DE LAS SIGUIENTES NO ES UNA FUNCION DEL HIGADO?",
       "opciones": [
-        "PRODUCION DE BILIS",
         "SINTESIS DE FATORES DE COAGULACÃO",
-        "DESINTOXICAÇÃO",
-        "PRODUCCION DE COLECISTOQUININA"
+        "PRODUCCION DE COLECISTOQUININA",
+        "PRODUCION DE BILIS",
+        "DESINTOXICAÇÃO"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
@@ -162,50 +162,21 @@
     {
       "pregunta": "EM LOS ISLOTES PANCRÁTICOS LAS CÉLULAS BETA SECRETAN INSULINA,Y REPRESENTAN EL 20% (70%) DE LA POBLACIÓN CELULAR.DISTRIBUYENDOSE PREFERENTEMENTE EM LA PERIFERIA DE LOS ISLOTES.",
       "opciones": [
-        "VERDADEIRO",
-        "FALSO"
-      ],
-      "correctIndex": 0,
-      "explicacion": "Consulte los materiales de clase para la explicación detallada."
-    },
-    {
-      "pregunta": "EM EL PÁNCREAS LOS ISLOTES DE PANCREÁTICOS SON MÁS NUMEROSOS EM",
-      "opciones": [
-        "CABEZA",
-        "COLA",
-        "CUELLO",
-        "CUERPO"
-      ],
-      "correctIndex": 0,
-      "explicacion": "Consulte los materiales de clase para la explicación detallada."
-    },
-    {
-      "pregunta": "EL AUMENTO DE LA SECRECION DE INSULINA SE PRODUCEN, MEDIANTE? ISLOTES DE LANGERHANS CELULASALFA CELULAS BETA CELULAS DELTA CELULAS F",
-      "opciones": [
-        "LIBERACION DE SOMATOSTATINA Y GLUCAGON",
-        "HEPERGLICEMIA y ESTIMULACIÓN PARASIMPATICA"
+        "FALSO",
+        "VERDADEIRO"
       ],
       "correctIndex": 1,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     },
     {
-      "pregunta": "EL CONTENIDO DE BICARBONATO Y AGUA DEL JUGO PANCREÁTICO SECRETADO POR LA PORCIÓN EXCRETORA DEL PANCREAS,SIENDO REGULADO POR LA SECRETINA",
+      "pregunta": "EM EL PÁNCREAS LOS ISLOTES DE PANCREÁTICOS SON MÁS NUMEROSOS EM",
       "opciones": [
-        "VERDADEIRO",
-        "FALSO"
+        "CUELLO",
+        "CUERPO",
+        "COLA",
+        "CABEZA"
       ],
-      "correctIndex": 0,
-      "explicacion": "Consulte los materiales de clase para la explicación detallada."
-    },
-    {
-      "pregunta": "CUAL CÉLULA ES ESCONTRADA EM MAYOR CANTIDAD NUMÉRICA EN EL BRONQUIOLO TERMINAL?",
-      "opciones": [
-        "CELULA DE CLARA",
-        "CÉLULA CILIADA",
-        "CÉLULA CALICIFORME",
-        "CÉLULA EM CEPILLO"
-      ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
     }
   ]

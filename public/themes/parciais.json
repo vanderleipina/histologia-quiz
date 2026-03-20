@@ -178,6 +178,38 @@
       ],
       "correctIndex": 3,
       "explicacion": "Consulte los materiales de clase para la explicación detallada."
+    },
+    {
+      "pregunta": "ES CORRECTO COM RESPECTO AL TRACTO RESPIRATORIO BAJO.",
+      "opciones": [
+        "LOS BRONQUIOLOS RESPIRATORIO FORMAN PARTE DE LA ULTIMA RAMIFICACION DE LA PORCIÓN CONDUCTORA",
+        "LA PORCION RESPIRATORIA ENPIEZA A PARTI DE LA DIVISON DEL TRATO BROQUICO",
+        "EL ACINO RESPIRATORIO ESTÁ COMPUESTO POR LAS RAMIFICACIONES DE UM BRONQUIOLO RESPIRATORIO"
+      ],
+      "correctIndex": 2,
+      "explicacion": "El acino respiratorio está compuesto por las ramificaciones de un bronquiolo respiratorio"
+    },
+    {
+      "pregunta": "CUAL CÉLULA ES ESCONTRADA EM MAYOR CANTIDAD NUMÉRICA EN EL BRONQUIOLO TERMINAL?",
+      "opciones": [
+        "CÉLULA CILIADA",
+        "CÉLULA CALICIFORME",
+        "CELULA DE CLARA",
+        "CÉLULA EM CEPILLO"
+      ],
+      "correctIndex": 2,
+      "explicacion": "La célula de Clara es la más abundante en el bronquiolo terminal"
+    },
+    {
+      "pregunta": "CUÁL ES EL EPITELIO QUE REVISTE A LA FARINGE?",
+      "opciones": [
+        "N.D.A.",
+        "A Y B",
+        "EPITELIO CILINDRICO PSEUDO ESTRATIFICADO COM CELULAS CALICIFORMES",
+        "EPITELIO PLANO ESTRATIFICADO NO QUERATINIZADO"
+      ],
+      "correctIndex": 1,
+      "explicacion": "La faringe está revestida por epitelio plano estratificado no queratinizado en la mayor parte, pero también tiene epitelio cilíndrico pseudoestratificado con células caliciformes"
     }
   ]
 }
